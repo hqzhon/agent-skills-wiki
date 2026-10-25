@@ -1,0 +1,12 @@
+{
+  "timezone": "Asia/Shanghai",
+  "last_scan_at": "2026-10-26T06:59:40+08:00",
+  "last_since_id": "2114471051170382110",
+  "machine_mirror": "/Users/apple/code/agent-skills-wiki",
+  "queries": [
+    "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
+    "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
+    "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
+  ],
+  "last_result": "First scan: 6 queries, ~140 posts reviewed, 12 entries accepted (geo-sleuth, skillspector, cloudflare-security-audit, hallmark, grill-me-live, codebase-health, agent-context-check, scientific-agent-skills, microsoft-skill-recorder, android-official-skills, tstack, extract-skill-from-completed-task). Skipped AAIF news, crypto promo, empty hype."
+}

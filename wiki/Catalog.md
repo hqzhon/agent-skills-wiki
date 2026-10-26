@@ -4,6 +4,12 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [ayushjj/skills](entries/ayushjj-skills.md) | skill-pack, harden, engineering | [@ayushjjw](https://x.com/ayushjjw/status/2114704599030407183) | 2026-10-26 |
+| [Graph Engineering](entries/graph-engineering.md) | knowledge-graph, task-graph, skill | [@Ryrenz](https://x.com/Ryrenz/status/2114705868415467858) | 2026-10-26 |
+| [Autoresearch](entries/autoresearch.md) | iteration-loop, verification, skill-pack | [@bkdgiffug](https://x.com/bkdgiffug/status/2114698055631163634) | 2026-10-26 |
+| [MotionSites Web Builder](entries/motionsites-web-builder.md) | design, landing-page, cinematic, skill | [@viktoroddy](https://x.com/viktoroddy/status/2114684257109254434) | 2026-10-26 |
+| [UI UX Pro Max](entries/ui-ux-pro-max.md) | design, ui-ux, design-system, skill-pack | [@balance0014](https://x.com/balance0014/status/2114702993560137935) | 2026-10-26 |
+| [skill-guard](entries/skill-guard.md) | security, trust-gate, install-hygiene | [@nokslabs](https://x.com/nokslabs/status/2114698364361359484) | 2026-10-26 |
 | [vvv（视频模板工厂）](entries/vvv.md) | video, remotion, templates, skill-pack | [@GitTrend0x](https://x.com/GitTrend0x/status/2114681083308523617) | 2026-10-26 |
 | [Digital Human Koubo](entries/digital-human-koubo.md) | video, digital-human, renoise, remotion | [@repolode](https://x.com/repolode/status/2114680877850747048) | 2026-10-26 |
 | [Awesome Copilot Office Skills](entries/awesome-copilot-office-skills.md) | excel, powerpoint, copilot, skill-pack | [@kesslernity](https://x.com/kesslernity/status/2114689013642608849) | 2026-10-26 |

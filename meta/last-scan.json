@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-26T20:06:00+08:00",
-  "last_since_id": "2114690023081820246",
+  "last_scan_at": "2026-10-26T21:10:00+08:00",
+  "last_since_id": "2114705868415467858",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Hourly scan since_id=2114674148652024156: EN ~39 + ZH 9 (query3 empty), 7 accepted (vvv, digital-human-koubo, awesome-copilot-office-skills, vps-forge, brotli-checker, paper-collage-mv, linkedin-creator-radar). Skipped tstack/SkillSpector/TermiX/AAIF rehashes, Tobia no-repo, Faqih 404, Hidden Logic Lab blogs. Mac mirror offline — store only."
+  "last_result": "Hourly scan since_id=2114690023081820246: EN ~46 + ZH 12 + q3 2, 6 accepted (ayushjj-skills, graph-engineering, autoresearch, motionsites-web-builder, ui-ux-pro-max, skill-guard). Skipped tstack/SkillSpector/CF/obsidian/koubo rehashes, TermiX farms, AAIF tips, SCT promo, TradingAgents roundup, 8004 teaser. Mac mirror connected — synced + local commit."
 }

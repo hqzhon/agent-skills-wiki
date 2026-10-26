@@ -4,6 +4,12 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [ffmpeg-skill](entries/ffmpeg-skill.md) | video, ffmpeg, mcp, local | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2114592269961707987) | 2026-10-26 |
+| [Stop Slop](entries/stop-slop.md) | writing, anti-slop, prose | [@mrru5s3ll](https://x.com/mrru5s3ll/status/2114598964402192705) | 2026-10-26 |
+| [Herk Edit Kit](entries/herk-edit-kit.md) | video, editing, short-form, skill-pack | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2114592269961707987) | 2026-10-26 |
+| [video-shotcraft](entries/video-shotcraft.md) | video, remotion, product-promo | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2114592269961707987) | 2026-10-26 |
+| [YouTube Agent Skill pack](entries/youtube-agent-skill.md) | youtube, content, hooks, skill-pack | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2114592269961707987) | 2026-10-26 |
+| [ex-USSR Kinship Research](entries/ex-ussr-kinship-research.md) | genealogy, research, evidence | [@agentskillshub](https://x.com/agentskillshub/status/2114598891417219405) | 2026-10-26 |
 | [Oldhand 2.0](entries/oldhand.md) | quality-gates, verification, skill-pack | [@berwin_singh](https://x.com/berwin_singh/status/2114579553301811256) | 2026-10-26 |
 | [AI Design Skills（elayadesign）](entries/ai-design-skills.md) | design, landing-page, motion, skill-pack | [@elayadesigns](https://x.com/elayadesigns/status/2114049200749175174) | 2026-10-26 |
 | [Music Video Generator](entries/music-video-generator.md) | video, music, claude-code, plugin | [@AIandDesign](https://x.com/AIandDesign/status/2114421153909596522) | 2026-10-26 |

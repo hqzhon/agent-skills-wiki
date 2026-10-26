@@ -4,6 +4,9 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [PixiJS Skills (official)](entries/pixijs-skills.md) | gamedev, pixijs, skill-pack | [@oaichu95](https://x.com/oaichu95/status/2114531400892449237) | 2026-10-26 |
+| [qiaomu-seo](entries/qiaomu-seo.md) | seo, audit, marketing | [@bkdgiffug](https://x.com/bkdgiffug/status/2114524411340419369) | 2026-10-26 |
+| [Superpowers (obra)](entries/superpowers.md) | skill-pack, tdd, brainstorming | [@huangcheng943](https://x.com/huangcheng943/status/2114530319349248402) | 2026-10-26 |
 | [Answer me with HTML](entries/answer-me-with-html.md) | output-format, html, diagrams | [@fernandoabishai](https://x.com/fernandoabishai/status/2114522497076850964) | 2026-10-26 |
 | [Awesome Game Dev Agent Skills](entries/awesome-gamedev-agent-skills.md) | gamedev, skill-pack, router | [@RoundtableSpace](https://x.com/RoundtableSpace/status/2114352528783540367) | 2026-10-26 |
 | [tv-fresh（小米电视改造）](entries/tv-fresh.md) | android-tv, adb, xiaomi | [@iLegend_AI](https://x.com/iLegend_AI/status/2114522775331414263) | 2026-10-26 |

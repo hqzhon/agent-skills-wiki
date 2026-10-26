@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-26T09:07:00+08:00",
-  "last_since_id": "2114523646064800137",
+  "last_scan_at": "2026-10-26T10:07:00+08:00",
+  "last_since_id": "2114538518810951928",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Hourly scan since_id=2114507456080658943: ~23 new posts, 4 accepted (answer-me-with-html, awesome-gamedev-agent-skills, tv-fresh, nihaixia). Skipped AAIF news, Sniffwell ad, CapCut product, empty Claude tips, TermiX/Pip promos."
+  "last_result": "Hourly scan since_id=2114523646064800137: ~25 new posts, 3 accepted (pixijs-skills, qiaomu-seo, superpowers). Skipped AAIF news, PromptBase shelf, FlashData/TermiX promos, AgentSkillsDir marketing, linux.do Claude account tips without public SKILL."
 }

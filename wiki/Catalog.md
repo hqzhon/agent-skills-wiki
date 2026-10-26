@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [george-mode](entries/george-mode.md) | skill-pack, decision-loop, verification | [@George_ONair](https://x.com/George_ONair/status/2114624526793441621) | 2026-10-26 |
+| [Project Cairn](entries/project-cairn.md) | knowledge-base, project-memory, skill | [@DanKornas](https://x.com/DanKornas/status/2114619649446854829) | 2026-10-26 |
+| [book-to-skill](entries/book-to-skill.md) | skill-authoring, books, meta | [@itsharmanjot](https://x.com/itsharmanjot/status/2114619397293957396) | 2026-10-26 |
+| [jianshuo/claude-skills](entries/jianshuo-claude-skills.md) | video, localization, dubbing, skill-pack | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2114622862141391004) | 2026-10-26 |
+| [Shotgun](entries/shotgun.md) | handoff, project-memory, workflow | [@AdamAAA777sh](https://x.com/AdamAAA777sh/status/2114626625367396800) | 2026-10-26 |
 | [Archify](entries/archify.md) | diagrams, architecture, html | [@xiaoanlab](https://x.com/xiaoanlab/status/2114607975902130472) | 2026-10-26 |
 | [shortform-analyzer](entries/shortform-analyzer.md) | video, short-form, mcp | [@trevbuilds](https://x.com/trevbuilds/status/2114606331886031097) | 2026-10-26 |
 | [Pristine](entries/pristine.md) | design, ui-critique, polish | [@maddhruv](https://x.com/maddhruv/status/2114606043624079459) | 2026-10-26 |

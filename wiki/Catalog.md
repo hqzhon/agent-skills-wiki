@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Remotion Agent Skills (official)](entries/remotion-skills.md) | video, remotion, skill-pack | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2114546497228546331) | 2026-10-26 |
+| [Ponytail（lazy senior）](entries/ponytail.md) | coding-style, yagni, skill-pack | [@xd1309007813404](https://x.com/xd1309007813404/status/2114551919310237993) | 2026-10-26 |
+| [html-to-video](entries/html-to-video.md) | video, html, ffmpeg, skill | [@yaohongan2025](https://x.com/yaohongan2025/status/2114546206437502978) | 2026-10-26 |
+| [kline-structure-chart](entries/kline-structure-chart.md) | finance, kline, research | [@Chengpengo45c](https://x.com/Chengpengo45c/status/2114549709482393888) | 2026-10-26 |
+| [Repo World](entries/repo-world.md) | onboarding, visualization, game | [@AJerrary](https://x.com/AJerrary/status/2114540323166986537) | 2026-10-26 |
 | [PixiJS Skills (official)](entries/pixijs-skills.md) | gamedev, pixijs, skill-pack | [@oaichu95](https://x.com/oaichu95/status/2114531400892449237) | 2026-10-26 |
 | [qiaomu-seo](entries/qiaomu-seo.md) | seo, audit, marketing | [@bkdgiffug](https://x.com/bkdgiffug/status/2114524411340419369) | 2026-10-26 |
 | [Superpowers (obra)](entries/superpowers.md) | skill-pack, tdd, brainstorming | [@huangcheng943](https://x.com/huangcheng943/status/2114530319349248402) | 2026-10-26 |

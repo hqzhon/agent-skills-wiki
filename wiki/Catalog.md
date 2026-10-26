@@ -4,6 +4,10 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Answer me with HTML](entries/answer-me-with-html.md) | output-format, html, diagrams | [@fernandoabishai](https://x.com/fernandoabishai/status/2114522497076850964) | 2026-10-26 |
+| [Awesome Game Dev Agent Skills](entries/awesome-gamedev-agent-skills.md) | gamedev, skill-pack, router | [@RoundtableSpace](https://x.com/RoundtableSpace/status/2114352528783540367) | 2026-10-26 |
+| [tv-fresh（小米电视改造）](entries/tv-fresh.md) | android-tv, adb, xiaomi | [@iLegend_AI](https://x.com/iLegend_AI/status/2114522775331414263) | 2026-10-26 |
+| [倪海厦视角（nihaixia）](entries/nihaixia.md) | tcm, knowledge-base, roleplay | [@0xGky](https://x.com/0xGky/status/2114515351618941433) | 2026-10-26 |
 | [Beautiful Rust](entries/beautiful-rust.md) | rust, best-practices, review | [@Z3nlyte](https://x.com/Z3nlyte/status/2114496111851319608) | 2026-10-26 |
 | [NVIDIA BioNeMo Agent Toolkit](entries/bionemo-agent-toolkit.md) | science, nvidia, protein, nim | [@BioAgentDaily](https://x.com/BioAgentDaily/status/2114492236557685130) | 2026-10-26 |
 | [Matt Pocock Skills](entries/mattpocock-skills.md) | skill-pack, engineering, composable | [@buildAgoat](https://x.com/buildAgoat/status/2114500380638011584) | 2026-10-26 |

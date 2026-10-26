@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-26T11:05:00+08:00",
-  "last_since_id": "2114554070937571789",
+  "last_scan_at": "2026-10-26T12:08:00+08:00",
+  "last_since_id": "2114569084486729800",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Hourly scan since_id=2114538518810951928: ~19 new posts, 5 accepted (remotion-skills, ponytail, html-to-video, kline-structure-chart, repo-world). Skipped AAIF news, TermiX promos, ship-check tip, empty takes, free cloud-PC."
+  "last_result": "Hourly scan since_id=2114554070937571789: ~22 new posts, 5 accepted (ub-mode, anatomy, day-trader-skill, unbroker, chaperone). Skipped AAIF news, TermiX, already-catalogued remotion/gamedev/skillspector/skill-recorder/beautiful-rust, AppyDev blurb, empty takes, orca product."
 }

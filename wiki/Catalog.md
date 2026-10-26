@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [ub-mode（Uncle Bob）](entries/ub-mode.md) | coding-style, tdd, quality-gates | [@jojogh_007](https://x.com/jojogh_007/status/2114562538926923833) | 2026-10-26 |
+| [Anatomy（isometric explainers）](entries/anatomy.md) | visualization, svg, webgl | [@yvshpvtil](https://x.com/yvshpvtil/status/2114567574226866444) | 2026-10-26 |
+| [Day Trader Skill pack](entries/day-trader-skill.md) | finance, trading, skill-pack | [@yvshpvtil](https://x.com/yvshpvtil/status/2114567539841810657) | 2026-10-26 |
+| [Unbroker（Hermes）](entries/unbroker.md) | privacy, security, hermes | [@iPuneetSingh](https://x.com/iPuneetSingh/status/2114555560603324826) | 2026-10-26 |
+| [Chaperone（RosettaCommons）](entries/chaperone.md) | science, protein-design, skill-pack | [@toolomeai](https://x.com/toolomeai/status/2114556640892461119) | 2026-10-26 |
 | [Remotion Agent Skills (official)](entries/remotion-skills.md) | video, remotion, skill-pack | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2114546497228546331) | 2026-10-26 |
 | [Ponytail（lazy senior）](entries/ponytail.md) | coding-style, yagni, skill-pack | [@xd1309007813404](https://x.com/xd1309007813404/status/2114551919310237993) | 2026-10-26 |
 | [html-to-video](entries/html-to-video.md) | video, html, ffmpeg, skill | [@yaohongan2025](https://x.com/yaohongan2025/status/2114546206437502978) | 2026-10-26 |

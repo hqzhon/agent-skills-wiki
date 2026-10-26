@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [social-auto-upload](entries/social-auto-upload.md) | social-media, publishing, skill-pack | [@no_morenicotine](https://x.com/no_morenicotine/status/2114660809871929469) | 2026-10-26 |
+| [Forest Collage](entries/forest-collage.md) | design, collage, xiaohongshu | [@dou_jie29918](https://x.com/dou_jie29918/status/2114656484755984681) | 2026-10-26 |
+| [Cognition Vulnerability Fixes](entries/cognition-devin-vuln-fixes.md) | security, patching, skill-pack | [@RL_landing](https://x.com/RL_landing/status/2114659803582620056) | 2026-10-26 |
+| [reviewing-pr-decisions](entries/reviewing-pr-decisions.md) | code-review, pull-request, skill | [@n1sh4n7](https://x.com/n1sh4n7/status/2114650366897967329) | 2026-10-26 |
+| [Scrapling](entries/scrapling.md) | scraping, crawl, python, skill | [@no_morenicotine](https://x.com/no_morenicotine/status/2114648227106693147) | 2026-10-26 |
 | [Emil Kowalski Skills](entries/emilkowalski-skills.md) | design, animation, ui, skill-pack | [@EqbymCi](https://x.com/EqbymCi/status/2114641691743527168) | 2026-10-26 |
 | [Claude SEO](entries/claude-seo.md) | seo, audit, claude-code, skill-pack | [@heyyritik_](https://x.com/heyyritik_/status/2114642775497224539) | 2026-10-26 |
 | [ja-zh-subtitles](entries/ja-zh-subtitles.md) | subtitles, japanese, chinese, whisper | [@jiamu_x](https://x.com/jiamu_x/status/2114631318944542743) | 2026-10-26 |

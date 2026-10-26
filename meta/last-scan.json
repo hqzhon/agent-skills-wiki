@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-26T17:12:16+08:00",
-  "last_since_id": "2114645083836256545",
+  "last_scan_at": "2026-10-26T18:13:21+08:00",
+  "last_since_id": "2114660809871929469",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Hourly scan since_id=2114630997648060652: ~51 new posts EN+ZH (query3 empty), 3 accepted (emilkowalski-skills, claude-seo, ja-zh-subtitles). Skipped Archify/security-audit/SkillSpector/tstack/ex-ussr rehashes, AAIF news, TermiX ads, learn-from-materials (no repo), Hermes/Pharos promo."
+  "last_result": "Hourly scan since_id=2114645083836256545: ~43 new posts EN+ZH (query3/backup empty), 5 accepted (social-auto-upload, forest-collage, cognition-devin-vuln-fixes, reviewing-pr-decisions, scrapling). Skipped TermiX ads, AAIF/tstack rehashes, SkillSpector/tv-fresh rehashes, VirusTotal news, Exo2Dev/ondakx/Sarvam without resolved recipe."
 }

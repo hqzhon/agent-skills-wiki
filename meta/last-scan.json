@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-26T16:13:00+08:00",
-  "last_since_id": "2114630997648060652",
+  "last_scan_at": "2026-10-26T17:12:16+08:00",
+  "last_since_id": "2114645083836256545",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Hourly scan since_id=2114613901396787564: ~57 new posts across EN+ZH (query3 empty), 5 accepted (george-mode, project-cairn, book-to-skill, jianshuo-claude-skills, shotgun). Skipped TermiX ads, AAIF news, SkillSpector/Superpowers/ub-mode/Ponytail rehashes, Duncan no-repo newsletter, prompt-leak hype."
+  "last_result": "Hourly scan since_id=2114630997648060652: ~51 new posts EN+ZH (query3 empty), 3 accepted (emilkowalski-skills, claude-seo, ja-zh-subtitles). Skipped Archify/security-audit/SkillSpector/tstack/ex-ussr rehashes, AAIF news, TermiX ads, learn-from-materials (no repo), Hermes/Pharos promo."
 }

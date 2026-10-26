@@ -4,6 +4,9 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Emil Kowalski Skills](entries/emilkowalski-skills.md) | design, animation, ui, skill-pack | [@EqbymCi](https://x.com/EqbymCi/status/2114641691743527168) | 2026-10-26 |
+| [Claude SEO](entries/claude-seo.md) | seo, audit, claude-code, skill-pack | [@heyyritik_](https://x.com/heyyritik_/status/2114642775497224539) | 2026-10-26 |
+| [ja-zh-subtitles](entries/ja-zh-subtitles.md) | subtitles, japanese, chinese, whisper | [@jiamu_x](https://x.com/jiamu_x/status/2114631318944542743) | 2026-10-26 |
 | [george-mode](entries/george-mode.md) | skill-pack, decision-loop, verification | [@George_ONair](https://x.com/George_ONair/status/2114624526793441621) | 2026-10-26 |
 | [Project Cairn](entries/project-cairn.md) | knowledge-base, project-memory, skill | [@DanKornas](https://x.com/DanKornas/status/2114619649446854829) | 2026-10-26 |
 | [book-to-skill](entries/book-to-skill.md) | skill-authoring, books, meta | [@itsharmanjot](https://x.com/itsharmanjot/status/2114619397293957396) | 2026-10-26 |

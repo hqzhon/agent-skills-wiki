@@ -4,6 +4,17 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [vvv（视频模板工厂）](entries/vvv.md) | video, remotion, templates, skill-pack | [@GitTrend0x](https://x.com/GitTrend0x/status/2114681083308523617) | 2026-10-26 |
+| [Digital Human Koubo](entries/digital-human-koubo.md) | video, digital-human, renoise, remotion | [@repolode](https://x.com/repolode/status/2114680877850747048) | 2026-10-26 |
+| [Awesome Copilot Office Skills](entries/awesome-copilot-office-skills.md) | excel, powerpoint, copilot, skill-pack | [@kesslernity](https://x.com/kesslernity/status/2114689013642608849) | 2026-10-26 |
+| [vps-forge](entries/vps-forge.md) | devops, vps, hardening, skill | [@GitTrend0x](https://x.com/GitTrend0x/status/2114681083308523617) | 2026-10-26 |
+| [Brotli Checker](entries/brotli-checker.md) | security, cve, brotli, trail-of-bits | [@GitTrend0x](https://x.com/GitTrend0x/status/2114681083308523617) | 2026-10-26 |
+| [paper-collage-mv](entries/paper-collage-mv.md) | video, music, canvas, code-render | [@GitTrend0x](https://x.com/GitTrend0x/status/2114681083308523617) | 2026-10-26 |
+| [LinkedIn Creator Radar](entries/linkedin-creator-radar.md) | linkedin, research, apify, skill | [@alexey_chernyak](https://x.com/alexey_chernyak/status/2114680230669340748) | 2026-10-26 |
+| [Lemo-Opuscar](entries/lemo-opuscar.md) | video, film-style, skill-pack | [@no_morenicotine](https://x.com/no_morenicotine/status/2114674148652024156) | 2026-10-26 |
+| [TweakIdea](entries/tweakidea.md) | startup, evaluation, skill | [@eph5xx](https://x.com/eph5xx/status/2114663417302700156) | 2026-10-26 |
+| [Apple Human Interface Skills](entries/apple-human-interface-skills.md) | design, apple, hig, skill-pack | [@SanemBuilds](https://x.com/SanemBuilds/status/2114662757253673321) | 2026-10-26 |
+| [3D Asset Agent Skills](entries/3d-asset-agent-skills.md) | 3d, assets, nvidia, skill | [@An_zuoan](https://x.com/An_zuoan/status/2114661269441855509) | 2026-10-26 |
 | [social-auto-upload](entries/social-auto-upload.md) | social-media, publishing, skill-pack | [@no_morenicotine](https://x.com/no_morenicotine/status/2114660809871929469) | 2026-10-26 |
 | [Forest Collage](entries/forest-collage.md) | design, collage, xiaohongshu | [@dou_jie29918](https://x.com/dou_jie29918/status/2114656484755984681) | 2026-10-26 |
 | [Cognition Vulnerability Fixes](entries/cognition-devin-vuln-fixes.md) | security, patching, skill-pack | [@RL_landing](https://x.com/RL_landing/status/2114659803582620056) | 2026-10-26 |

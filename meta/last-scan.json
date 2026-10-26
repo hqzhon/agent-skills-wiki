@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-26T18:13:21+08:00",
-  "last_since_id": "2114660809871929469",
+  "last_scan_at": "2026-10-26T20:06:00+08:00",
+  "last_since_id": "2114690023081820246",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Hourly scan since_id=2114645083836256545: ~43 new posts EN+ZH (query3/backup empty), 5 accepted (social-auto-upload, forest-collage, cognition-devin-vuln-fixes, reviewing-pr-decisions, scrapling). Skipped TermiX ads, AAIF/tstack rehashes, SkillSpector/tv-fresh rehashes, VirusTotal news, Exo2Dev/ondakx/Sarvam without resolved recipe."
+  "last_result": "Hourly scan since_id=2114674148652024156: EN ~39 + ZH 9 (query3 empty), 7 accepted (vvv, digital-human-koubo, awesome-copilot-office-skills, vps-forge, brotli-checker, paper-collage-mv, linkedin-creator-radar). Skipped tstack/SkillSpector/TermiX/AAIF rehashes, Tobia no-repo, Faqih 404, Hidden Logic Lab blogs. Mac mirror offline — store only."
 }

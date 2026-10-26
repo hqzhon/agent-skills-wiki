@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Oldhand 2.0](entries/oldhand.md) | quality-gates, verification, skill-pack | [@berwin_singh](https://x.com/berwin_singh/status/2114579553301811256) | 2026-10-26 |
+| [AI Design Skills（elayadesign）](entries/ai-design-skills.md) | design, landing-page, motion, skill-pack | [@elayadesigns](https://x.com/elayadesigns/status/2114049200749175174) | 2026-10-26 |
+| [Music Video Generator](entries/music-video-generator.md) | video, music, claude-code, plugin | [@AIandDesign](https://x.com/AIandDesign/status/2114421153909596522) | 2026-10-26 |
+| [Hype Meter YouTube Skills](entries/hype-meter-youtube-skills.md) | youtube, research, critique, skill-pack | [@tinycrewgo](https://x.com/tinycrewgo/status/2114268820806521204) | 2026-10-26 |
+| [hithink-finance（同花顺）](entries/hithink-finance.md) | finance, a-share, market-data, skill | [@ruyi3699](https://x.com/ruyi3699/status/2114573484403892639) | 2026-10-26 |
 | [ub-mode（Uncle Bob）](entries/ub-mode.md) | coding-style, tdd, quality-gates | [@jojogh_007](https://x.com/jojogh_007/status/2114562538926923833) | 2026-10-26 |
 | [Anatomy（isometric explainers）](entries/anatomy.md) | visualization, svg, webgl | [@yvshpvtil](https://x.com/yvshpvtil/status/2114567574226866444) | 2026-10-26 |
 | [Day Trader Skill pack](entries/day-trader-skill.md) | finance, trading, skill-pack | [@yvshpvtil](https://x.com/yvshpvtil/status/2114567539841810657) | 2026-10-26 |

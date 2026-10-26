@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Expo Skills（官方）](entries/expo-skills.md) | expo, react-native, eas, skill-pack | [@n7wb1l](https://x.com/n7wb1l/status/2114714122206183645) | 2026-10-26 |
+| [NVIDIA Agent Skills（官方）](entries/nvidia-skills.md) | nvidia, cuda, physical-ai, verified | [@EveryDevAi](https://x.com/EveryDevAi/status/2114722468128804895) | 2026-10-26 |
+| [gstack（Garry Tan）](entries/gstack.md) | skill-pack, review, qa, shipping | [@benou_irl](https://x.com/benou_irl/status/2114719570632060952) | 2026-10-26 |
+| [UX/UI Agent Skills（XIAS）](entries/ux-ui-agent-skills.md) | design, a11y, design-system, gates | [@thanhmam](https://x.com/thanhmam/status/2114711263309926414) | 2026-10-26 |
+| [Anime Series Maker](entries/anime-series-maker.md) | video, anime, renoise, skill | [@Mayz1169](https://x.com/Mayz1169/status/2114715882215915804) | 2026-10-26 |
 | [ayushjj/skills](entries/ayushjj-skills.md) | skill-pack, harden, engineering | [@ayushjjw](https://x.com/ayushjjw/status/2114704599030407183) | 2026-10-26 |
 | [Graph Engineering](entries/graph-engineering.md) | knowledge-graph, task-graph, skill | [@Ryrenz](https://x.com/Ryrenz/status/2114705868415467858) | 2026-10-26 |
 | [Autoresearch](entries/autoresearch.md) | iteration-loop, verification, skill-pack | [@bkdgiffug](https://x.com/bkdgiffug/status/2114698055631163634) | 2026-10-26 |

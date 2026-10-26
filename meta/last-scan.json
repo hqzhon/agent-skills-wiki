@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-26T21:10:00+08:00",
-  "last_since_id": "2114705868415467858",
+  "last_scan_at": "2026-10-26T22:18:00+08:00",
+  "last_since_id": "2114723134603685920",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Hourly scan since_id=2114690023081820246: EN ~46 + ZH 12 + q3 2, 6 accepted (ayushjj-skills, graph-engineering, autoresearch, motionsites-web-builder, ui-ux-pro-max, skill-guard). Skipped tstack/SkillSpector/CF/obsidian/koubo rehashes, TermiX farms, AAIF tips, SCT promo, TradingAgents roundup, 8004 teaser. Mac mirror connected — synced + local commit."
+  "last_result": "Hourly scan since_id=2114705868415467858: EN ~50 + ZH 10 + q3 0, 5 accepted (expo-skills, nvidia-skills, gstack, ux-ui-agent-skills, anime-series-maker). Skipped TermiX farms, tstack/vvv/ponytail/gamedev/skill-recorder rehashes, AAIF tips, course/gumroad promos. Mac mirror sync + local commit."
 }

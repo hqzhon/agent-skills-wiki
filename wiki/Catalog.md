@@ -1,9 +1,15 @@
 # Catalog
 
-High-signal agent skills mined from X. Sorted by added date (newest scan first within a day = alphabetical by slug for this first scan).
+High-signal agent skills mined from X. Sorted by added date (newest first), then slug.
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Beautiful Rust](entries/beautiful-rust.md) | rust, best-practices, review | [@Z3nlyte](https://x.com/Z3nlyte/status/2114496111851319608) | 2026-10-26 |
+| [NVIDIA BioNeMo Agent Toolkit](entries/bionemo-agent-toolkit.md) | science, nvidia, protein, nim | [@BioAgentDaily](https://x.com/BioAgentDaily/status/2114492236557685130) | 2026-10-26 |
+| [Matt Pocock Skills](entries/mattpocock-skills.md) | skill-pack, engineering, composable | [@buildAgoat](https://x.com/buildAgoat/status/2114500380638011584) | 2026-10-26 |
+| [Obsidian Skills (kepano)](entries/obsidian-skills.md) | obsidian, knowledge-base, skill-pack | [@RoundtableSpace](https://x.com/RoundtableSpace/status/2114503523916484741) | 2026-10-26 |
+| [scan-to-threejs](entries/scan-to-threejs.md) | 3d, threejs, lidar, wesbos | [@ShiRen0809](https://x.com/ShiRen0809/status/2114507456080658943) | 2026-10-26 |
+| [xss-audit](entries/xss-audit.md) | security, xss, react, static-analysis | [@Z3nlyte](https://x.com/Z3nlyte/status/2114496111851315573) | 2026-10-26 |
 | [Agent-Context-Check](entries/agent-context-check.md) | skill-authoring, qa, markdown | [@WhaleKim0](https://x.com/WhaleKim0/status/2112770816538816699) | 2026-10-26 |
 | [Android Official Skills](entries/android-official-skills.md) | android, compose, google | [@heijaumr](https://x.com/heijaumr/status/2112455543902425088) | 2026-10-26 |
 | [Cloudflare Security Audit Skill](entries/cloudflare-security-audit-skill.md) | security, audit, cloudflare | [@tungoldshou](https://x.com/tungoldshou/status/2114323679517737360) | 2026-10-26 |

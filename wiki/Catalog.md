@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Archify](entries/archify.md) | diagrams, architecture, html | [@xiaoanlab](https://x.com/xiaoanlab/status/2114607975902130472) | 2026-10-26 |
+| [shortform-analyzer](entries/shortform-analyzer.md) | video, short-form, mcp | [@trevbuilds](https://x.com/trevbuilds/status/2114606331886031097) | 2026-10-26 |
+| [Pristine](entries/pristine.md) | design, ui-critique, polish | [@maddhruv](https://x.com/maddhruv/status/2114606043624079459) | 2026-10-26 |
+| [shuohao-skills](entries/shuohao-skills.md) | short-drama, chinese, skill-pack | [@repolode](https://x.com/repolode/status/2114600315437871460) | 2026-10-26 |
+| [Addy Osmani Agent Skills](entries/addyosmani-agent-skills.md) | skill-pack, engineering, lifecycle | [@bestAIbestbes](https://x.com/bestAIbestbes/status/2114607442353152340) | 2026-10-26 |
 | [ffmpeg-skill](entries/ffmpeg-skill.md) | video, ffmpeg, mcp, local | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2114592269961707987) | 2026-10-26 |
 | [Stop Slop](entries/stop-slop.md) | writing, anti-slop, prose | [@mrru5s3ll](https://x.com/mrru5s3ll/status/2114598964402192705) | 2026-10-26 |
 | [Herk Edit Kit](entries/herk-edit-kit.md) | video, editing, short-form, skill-pack | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2114592269961707987) | 2026-10-26 |

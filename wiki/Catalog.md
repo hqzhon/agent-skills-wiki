@@ -4,6 +4,12 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [yaya-skills（X Space 蒸馏笔记）](entries/yaya-skills.md) | x-twitter, transcription, notes, local | [@eatmoreduck98](https://x.com/eatmoreduck98/status/2114961845207621698) | 2026-10-27 |
+| [Diagram Design（Cathryn Lavery）](entries/diagram-design.md) | design, diagrams, svg, html | [@coder_onchain](https://x.com/coder_onchain/status/2114899746238370125) | 2026-10-27 |
+| [Huashu Design 3.0（花叔）](entries/huashu-design.md) | design, landing-page, ppt, motion | [@zhengtang364848](https://x.com/zhengtang364848/status/2114913359812231346) | 2026-10-27 |
+| [Humanizer-zh（中文去 AI 腔）](entries/humanizer-zh.md) | writing, chinese, anti-slop | [@shshajs85](https://x.com/shshajs85/status/2114908190081192260) | 2026-10-27 |
+| [ElevenLabs Skills（官方）](entries/elevenlabs-skills.md) | voice, audio, realtime, official | [@ElevenlabsJapan](https://x.com/ElevenlabsJapan/status/2114899890686103618) | 2026-10-27 |
+| [huashu-art-motion（艺术动画）](entries/huashu-art-motion.md) | video, animation, canvas, art | [@WuRichard_](https://x.com/WuRichard_/status/2114903950402998648) | 2026-10-27 |
 | [Google Cloud Skills（官方 / IAM Helper）](entries/google-cloud-skills.md) | google-cloud, iam, security, skill-pack | [@AiCybr_](https://x.com/AiCybr_/status/2114869950632403036) | 2026-10-27 |
 | [SenseNova Skills](entries/sensenova-skills.md) | deep-research, office, infographic, skill-pack | [@SenseTime_AI](https://x.com/SenseTime_AI/status/2114739670714302758) | 2026-10-26 |
 | [TRON Agent Skills（TronGrid）](entries/tron-agent-skills.md) | blockchain, tron, mcp, skill-pack | [@Ashtonexi](https://x.com/Ashtonexi/status/2114842664701243715) | 2026-10-26 |

@@ -4,6 +4,9 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [skill-diet（给 Skill 减重）](entries/skill-diet.md) | meta, skill-authoring, token-budget, evaluation | [@nicopreme](https://x.com/nicopreme/status/2114975730471997613) | 2026-10-27 |
+| [Fireworks Tech Graph](entries/fireworks-tech-graph.md) | diagrams, svg, png, uml, agent-workflows | [@no_morenicotine](https://x.com/no_morenicotine/status/2115050628586385821) | 2026-10-27 |
+| [z-video-downloader](entries/z-video-downloader.md) | video, download, yt-dlp, local | [@0x8888](https://x.com/0x8888/status/2115008350035284383) | 2026-10-27 |
 | [yaya-skills（X Space 蒸馏笔记）](entries/yaya-skills.md) | x-twitter, transcription, notes, local | [@eatmoreduck98](https://x.com/eatmoreduck98/status/2114961845207621698) | 2026-10-27 |
 | [Diagram Design（Cathryn Lavery）](entries/diagram-design.md) | design, diagrams, svg, html | [@coder_onchain](https://x.com/coder_onchain/status/2114899746238370125) | 2026-10-27 |
 | [Huashu Design 3.0（花叔）](entries/huashu-design.md) | design, landing-page, ppt, motion | [@zhengtang364848](https://x.com/zhengtang364848/status/2114913359812231346) | 2026-10-27 |

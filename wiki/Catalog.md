@@ -4,6 +4,10 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Google Cloud Skills（官方 / IAM Helper）](entries/google-cloud-skills.md) | google-cloud, iam, security, skill-pack | [@AiCybr_](https://x.com/AiCybr_/status/2114869950632403036) | 2026-10-27 |
+| [SenseNova Skills](entries/sensenova-skills.md) | deep-research, office, infographic, skill-pack | [@SenseTime_AI](https://x.com/SenseTime_AI/status/2114739670714302758) | 2026-10-26 |
+| [TRON Agent Skills（TronGrid）](entries/tron-agent-skills.md) | blockchain, tron, mcp, skill-pack | [@Ashtonexi](https://x.com/Ashtonexi/status/2114842664701243715) | 2026-10-26 |
+| [deed-page（一键发布静态页）](entries/deed-page-skill.md) | publishing, hosting, static-site, skill | [@Avatar8Ops](https://x.com/Avatar8Ops/status/2114857354625708350) | 2026-10-26 |
 | [Expo Skills（官方）](entries/expo-skills.md) | expo, react-native, eas, skill-pack | [@n7wb1l](https://x.com/n7wb1l/status/2114714122206183645) | 2026-10-26 |
 | [NVIDIA Agent Skills（官方）](entries/nvidia-skills.md) | nvidia, cuda, physical-ai, verified | [@EveryDevAi](https://x.com/EveryDevAi/status/2114722468128804895) | 2026-10-26 |
 | [gstack（Garry Tan）](entries/gstack.md) | skill-pack, review, qa, shipping | [@benou_irl](https://x.com/benou_irl/status/2114719570632060952) | 2026-10-26 |

@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-26T22:18:00+08:00",
-  "last_since_id": "2114723134603685920",
+  "last_scan_at": "2026-10-27T08:12:00+08:00",
+  "last_since_id": "2114869988947570942",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Hourly scan since_id=2114705868415467858: EN ~50 + ZH 10 + q3 0, 5 accepted (expo-skills, nvidia-skills, gstack, ux-ui-agent-skills, anime-series-maker). Skipped TermiX farms, tstack/vvv/ponytail/gamedev/skill-recorder rehashes, AAIF tips, course/gumroad promos. Mac mirror sync + local commit."
+  "last_result": "Scan since_id=2114723134603685920: EN ~50 + ZH ~22 + q3 ~11, 4 accepted (google-cloud-skills, sensenova-skills, tron-agent-skills, deed-page-skill). Skipped SkillSpector/tstack/gamedev rehashes, TermiX/Nitrosend farms, LightStage, SkillWire, TeleTune paper. Mac mirror sync + local commit."
 }

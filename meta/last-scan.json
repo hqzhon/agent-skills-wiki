@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-28T14:18:00+08:00",
-  "last_since_id": "2115326773399367951",
+  "last_scan_at": "2026-10-28T20:21:00+08:00",
+  "last_since_id": "2115416475418984838",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan since_id=2115235546549358637: EN ~75 + ZH ~48 + q3 thin + SKILL.md supplement; 3 accepted (impeccable, yutu, caveman). Skipped leanrea(RE), TermiX/SkillSpector/ub-mode rehashes, Autoharness/Beacon tools, claude-red offensive, landing-page overlaps; watch Skill-audit-2.0 / xahau-hooks / SAM3."
+  "last_result": "Scan since 2026-10-28T06:18:00Z / after 2115326773399367951: EN+ZH pages + SKILL.md supplement; 6 accepted (founder-skill, video-agent-skills, english-chunk-flow, geometric-logo-construction, cv-interview-prep, coding-agent-skills). Skipped TermiX/SkillSpector/ub-mode/BeautifulRust rehashes, SkillPot-in-dev, SakaniUI-unverified, Beacon tools; watch geo-competitor-mining / SkillPot releases."
 }

@@ -4,6 +4,12 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [founder-skill（创业压力测试包）](entries/founder-skill.md) | startup, evaluation, founder, skill-pack | [@ArthurLiu0725](https://x.com/ArthurLiu0725/status/2115397287665094956) | 2026-10-28 |
+| [video-agent-skills（Melvynx）](entries/video-agent-skills.md) | video, short-form, youtube, skill-pack | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2115408560129818891) | 2026-10-28 |
+| [english-chunk-flow（英语精听）](entries/english-chunk-flow.md) | english, listening, education, skill | [@bsliao](https://x.com/bsliao/status/2115393446534054305) | 2026-10-28 |
+| [geometric-logo-construction](entries/geometric-logo-construction.md) | design, logo, svg, geometry, skill | [@fromen](https://x.com/fromen/status/2115395326463066294) | 2026-10-28 |
+| [cv-interview-prep（按 JD 改简历）](entries/cv-interview-prep.md) | careers, resume, interview, skill | [@HMarcoGao](https://x.com/HMarcoGao/status/2115408437731541267) | 2026-10-28 |
+| [coding-agent-skills（证据审计包）](entries/coding-agent-skills.md) | engineering, audit, safety, skill-pack | [@JohnWOE15](https://x.com/JohnWOE15/status/2115411585954943355) | 2026-10-28 |
 | [Impeccable（前端设计词汇表）](entries/impeccable.md) | design, frontend, anti-slop, ui-ux, skill-pack | [@FReza1984](https://x.com/FReza1984/status/2115308533772439586) | 2026-10-28 |
 | [yutu（YouTube API CLI / MCP / Skill）](entries/yutu.md) | youtube, cli, mcp, publishing, skill | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2115302418447749166) | 2026-10-28 |
 | [caveman（省 Token 简答模式）](entries/caveman.md) | token-budget, writing, brevity, meta, skill | [@ReignSwords](https://x.com/ReignSwords/status/2115318020092666115) | 2026-10-28 |

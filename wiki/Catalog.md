@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [mockship（ui-to-mock → mock-to-ui）](entries/mockship.md) | ui, prototyping, feature-flags, frontend, skill-pack | [@marcellefter](https://x.com/marcellefter/status/2115223124858007921) | 2026-10-28 |
+| [Replica Skill（11 步复刻 App）](entries/replica-skill.md) | product, reverse-engineer, fullstack, skill-pack | [@Stargridcompass](https://x.com/Stargridcompass/status/2115088629890789565) | 2026-10-28 |
+| [女娲.skill（Nuwa）](entries/nuwa-skill.md) | meta, skill-authoring, research, thinking-framework | [@wiksongkim](https://x.com/wiksongkim/status/2115156856226361594) | 2026-10-28 |
+| [fun-isometric（等距动效贴纸）](entries/fun-isometric.md) | design, stickers, animation, canvas | [@dngzsn37461](https://x.com/dngzsn37461/status/2115071395738579167) | 2026-10-28 |
+| [Jujutsu（jj）Agent Skill](entries/jujutsu-skill.md) | vcs, jujutsu, git, agent-safety | [@404Cause](https://x.com/404Cause/status/2115203844363989221) | 2026-10-28 |
 | [skill-diet（给 Skill 减重）](entries/skill-diet.md) | meta, skill-authoring, token-budget, evaluation | [@nicopreme](https://x.com/nicopreme/status/2114975730471997613) | 2026-10-27 |
 | [Fireworks Tech Graph](entries/fireworks-tech-graph.md) | diagrams, svg, png, uml, agent-workflows | [@no_morenicotine](https://x.com/no_morenicotine/status/2115050628586385821) | 2026-10-27 |
 | [z-video-downloader](entries/z-video-downloader.md) | video, download, yt-dlp, local | [@0x8888](https://x.com/0x8888/status/2115008350035284383) | 2026-10-27 |

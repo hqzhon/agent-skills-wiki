@@ -4,6 +4,9 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Impeccable（前端设计词汇表）](entries/impeccable.md) | design, frontend, anti-slop, ui-ux, skill-pack | [@FReza1984](https://x.com/FReza1984/status/2115308533772439586) | 2026-10-28 |
+| [yutu（YouTube API CLI / MCP / Skill）](entries/yutu.md) | youtube, cli, mcp, publishing, skill | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2115302418447749166) | 2026-10-28 |
+| [caveman（省 Token 简答模式）](entries/caveman.md) | token-budget, writing, brevity, meta, skill | [@ReignSwords](https://x.com/ReignSwords/status/2115318020092666115) | 2026-10-28 |
 | [mockship（ui-to-mock → mock-to-ui）](entries/mockship.md) | ui, prototyping, feature-flags, frontend, skill-pack | [@marcellefter](https://x.com/marcellefter/status/2115223124858007921) | 2026-10-28 |
 | [Replica Skill（11 步复刻 App）](entries/replica-skill.md) | product, reverse-engineer, fullstack, skill-pack | [@Stargridcompass](https://x.com/Stargridcompass/status/2115088629890789565) | 2026-10-28 |
 | [女娲.skill（Nuwa）](entries/nuwa-skill.md) | meta, skill-authoring, research, thinking-framework | [@wiksongkim](https://x.com/wiksongkim/status/2115156856226361594) | 2026-10-28 |

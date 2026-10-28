@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-28T08:18:00+08:00",
-  "last_since_id": "2115235546549358637",
+  "last_scan_at": "2026-10-28T14:18:00+08:00",
+  "last_since_id": "2115326773399367951",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan since_id=2115055150650052837: EN ~50 + ZH ~25 + q3 ~14 + SKILL.md supplement, 5 accepted (mockship, replica-skill, nuwa-skill, fun-isometric, jujutsu-skill). Skipped SkillSpector/ub-mode/skill-diet/anatomy/koubo rehashes, awesome-game-skill, EDA-in-scientific pack, Beacon tool, sapphire/taste-skill watchlist, TermiX/Yaba bait. Mac mirror sync + local commit."
+  "last_result": "Scan since_id=2115235546549358637: EN ~75 + ZH ~48 + q3 thin + SKILL.md supplement; 3 accepted (impeccable, yutu, caveman). Skipped leanrea(RE), TermiX/SkillSpector/ub-mode rehashes, Autoharness/Beacon tools, claude-red offensive, landing-page overlaps; watch Skill-audit-2.0 / xahau-hooks / SAM3."
 }

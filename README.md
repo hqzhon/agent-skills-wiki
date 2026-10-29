@@ -7,7 +7,7 @@
 
 **[→ 打开完整目录 Catalog（132+ 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
 
-每小时增量扫描（Asia/Shanghai 白天）· 持续更新中 · [CC BY 4.0](LICENSE)
+每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
 
 ---
 
@@ -29,7 +29,7 @@
 - **只收可复用配方**：广告帖、空喊、无可执行内容一律跳过
 - **来源可追溯**：每条链回 X 原帖 + 上游仓库 / `SKILL.md`
 - **面向多 agent**：Cursor / Claude Code / Codex / Grok Bot 等都能用
-- **活着的 wiki**：白天约每小时扫一次 X，过线写入 Catalog，不是一次性 dump
+- **活着的 wiki**：白天约每 6 小时扫一次 X（8:00 / 14:00 / 20:00），过线写入 Catalog，不是一次性 dump
 
 ---
 
@@ -101,13 +101,13 @@
 wiki/
   Catalog.md    # 全量索引 ← 主入口
   entries/      # 每个 skill 一篇
-  digests/      # 每小时扫描摘要
+  digests/      # 扫描摘要
   Home.md       # 收录标准
 meta/
   last-scan.json
 ```
 
-约每小时扫描 X（Asia/Shanghai 白天）。新发现先进入 digest，过线后写入 `wiki/entries/` 并更新 Catalog。
+约每 6 小时扫描 X（Asia/Shanghai 白天 8:00 / 14:00 / 20:00）。新发现先进入 digest，过线后写入 `wiki/entries/` 并更新 Catalog。
 
 欢迎 PR：补条目、纠错、补安装说明。提 PR 前请对照上方质量关。
 

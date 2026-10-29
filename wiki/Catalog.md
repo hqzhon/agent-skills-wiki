@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [waza（Microsoft Agent Skills 评测 CLI）](entries/waza.md) | evaluation, skill-authoring, cli, microsoft, skill-pack | [@aidevnewss](https://x.com/aidevnewss/status/2115583693372952638) | 2026-10-29 |
+| [github/lever（Copilot 反馈环技能包）](entries/github-lever.md) | skill-pack, github, copilot, feedback-loops, automation | [@_Evan_Boyle](https://x.com/_Evan_Boyle/status/2115518284590420317) | 2026-10-29 |
+| [mcode-stack（MiniMax Code 日用 harness）](entries/mcode-stack.md) | skill-pack, engineering, minimax, coding-agent, harness | [@Ronny_MiniMax](https://x.com/Ronny_MiniMax/status/2115413492941652299) | 2026-10-29 |
+| [money-snapshot（金钱快照）](entries/money-snapshot.md) | finance, budgeting, chinese, skill | [@HMarcoGao](https://x.com/HMarcoGao/status/2115538373293261019) | 2026-10-29 |
+| [bot-codex-delegate（Grok Bot → Codex）](entries/bot-codex-delegate.md) | grok-bot, codex, delegation, session, skill | [@realTaki42](https://x.com/realTaki42/status/2115543314183422342) | 2026-10-29 |
 | [founder-skill（创业压力测试包）](entries/founder-skill.md) | startup, evaluation, founder, skill-pack | [@ArthurLiu0725](https://x.com/ArthurLiu0725/status/2115397287665094956) | 2026-10-28 |
 | [video-agent-skills（Melvynx）](entries/video-agent-skills.md) | video, short-form, youtube, skill-pack | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2115408560129818891) | 2026-10-28 |
 | [english-chunk-flow（英语精听）](entries/english-chunk-flow.md) | english, listening, education, skill | [@bsliao](https://x.com/bsliao/status/2115393446534054305) | 2026-10-28 |

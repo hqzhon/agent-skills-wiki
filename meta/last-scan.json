@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-28T20:21:00+08:00",
-  "last_since_id": "2115416475418984838",
+  "last_scan_at": "2026-10-29T08:09:00+08:00",
+  "last_since_id": "2115595757936169104",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan since 2026-10-28T06:18:00Z / after 2115326773399367951: EN+ZH pages + SKILL.md supplement; 6 accepted (founder-skill, video-agent-skills, english-chunk-flow, geometric-logo-construction, cv-interview-prep, coding-agent-skills). Skipped TermiX/SkillSpector/ub-mode/BeautifulRust rehashes, SkillPot-in-dev, SakaniUI-unverified, Beacon tools; watch geo-competitor-mining / SkillPot releases."
+  "last_result": "Scan since 2026-10-28T12:20:00Z / after 2115416475418984838: parent EN+ZH + EN page-2; 5 accepted (waza, github-lever, mcode-stack, money-snapshot, bot-codex-delegate). Skipped Claude-Guardian/ToS, TermiX/tv-fresh/tstack/ub-mode rehashes, VSL/DocSpring/empty hype; watch Framefields/HyperFrames, NVIDIA PVA."
 }

@@ -4,6 +4,13 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [leanrea（轻装逆向）](entries/leanrea.md) | reverse-engineering, cli, token-budget, skill, chinese | [@Easycompany333](https://x.com/Easycompany333/status/2115778368822182247) | 2026-10-29 |
+| [Claude-OSINT](entries/claude-osint.md) | osint, recon, bug-bounty, security, skill-pack | [@intigriti](https://x.com/intigriti/status/2115746737163813177) | 2026-10-29 |
+| [oil-ui](entries/oil-ui.md) | design, ui-ux, frontend, anti-slop, skill, chinese | [@hyz1464269](https://x.com/hyz1464269/status/2115771258466128286) | 2026-10-29 |
+| [awesome-short-drama-skills](entries/awesome-short-drama-skills.md) | short-drama, screenplay, video, skill-pack, chinese, awesome-list | [@neili666888](https://x.com/neili666888/status/2115741652908453909) | 2026-10-29 |
+| [product-launch-motion](entries/product-launch-motion.md) | video, motion, launch, html-render, skill | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2115770872741220791) | 2026-10-29 |
+| [showtime（FavioVazquez 本地视频工作室）](entries/showtime-favio.md) | video, local, motion, voiceover, skill-pack | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2115739186565427438) | 2026-10-29 |
+| [appsec-skills（Davide Imola / GoLab）](entries/appsec-skills.md) | security, go, ci, fuzzing, skill-pack | [@DavideImola](https://x.com/DavideImola/status/2115768150633709626) | 2026-10-29 |
 | [baoyu-design（本地 Claude Design）](entries/baoyu-design.md) | design, slides, dashboard, html, skill-pack, chinese | [@dotey](https://x.com/dotey/status/2115667965328977920) | 2026-10-29 |
 | [Taste Skill](entries/taste-skill.md) | design, frontend, anti-slop, art-direction, skill | [@KeyoAPI](https://x.com/KeyoAPI/status/2115679485488148832) | 2026-10-29 |
 | [jakubkrehel/skills（Interface Skills）](entries/jakubkrehel-skills.md) | design, a11y, typography, ui-ux, skill-pack | [@Bee_Bombshell](https://x.com/Bee_Bombshell/status/2115650350787219471) | 2026-10-29 |

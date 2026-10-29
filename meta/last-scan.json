@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-29T14:16:00+08:00",
-  "last_since_id": "2115688881786138655",
+  "last_scan_at": "2026-10-29T20:18:00+08:00",
+  "last_since_id": "2115779028376330256",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2115595757936169104: EN+ZH parent+page2 + awesome query; 7 accepted (baoyu-design, taste-skill, jakubkrehel-skills, bama, graphify, knowledge-work-plugins, video-talkcraft). Skipped mcode/expo/scientific/digital-human/impeccable rehashes, Nitrosend ads, AAIF news, top-10 duplicates; watch next-bundle-optimizer, ubuntu-ios skill, kanzo."
+  "last_result": "Scan after 2115688881786138655: EN pages1-3 + ZH + awesome + npx/github supplement; 7 accepted (leanrea, claude-osint, oil-ui, awesome-short-drama-skills, product-launch-motion, showtime-favio, appsec-skills). Skipped rehashes/Nitrosend/TermiX/crypto/AAIF; watch next-bundle-optimizer, GetStream/agent-skills, motionmaxxing, datadog-labs/agent-skills."
 }

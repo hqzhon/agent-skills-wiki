@@ -4,6 +4,13 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [baoyu-design（本地 Claude Design）](entries/baoyu-design.md) | design, slides, dashboard, html, skill-pack, chinese | [@dotey](https://x.com/dotey/status/2115667965328977920) | 2026-10-29 |
+| [Taste Skill](entries/taste-skill.md) | design, frontend, anti-slop, art-direction, skill | [@KeyoAPI](https://x.com/KeyoAPI/status/2115679485488148832) | 2026-10-29 |
+| [jakubkrehel/skills（Interface Skills）](entries/jakubkrehel-skills.md) | design, a11y, typography, ui-ux, skill-pack | [@Bee_Bombshell](https://x.com/Bee_Bombshell/status/2115650350787219471) | 2026-10-29 |
+| [BAMA（Build Any Mac App）](entries/bama.md) | macos, swiftui, skill-pack, reverse-engineer, shipping | [@Yashpatil](https://x.com/Yashpatil/status/2115654870250533144) | 2026-10-29 |
+| [Graphify](entries/graphify.md) | knowledge-graph, codebase, cli, skill, local-first | [@KeyoAPI](https://x.com/KeyoAPI/status/2115679485488148832) | 2026-10-29 |
+| [Anthropic Knowledge Work Plugins](entries/knowledge-work-plugins.md) | skill-pack, cowork, anthropic, sales, finance, productivity, official | [@KeyoAPI](https://x.com/KeyoAPI/status/2115679485488148832) | 2026-10-29 |
+| [video-talkcraft（口播 Remotion）](entries/video-talkcraft.md) | video, remotion, voiceover, chinese, skill | [@AIProductHub_CN](https://x.com/AIProductHub_CN/status/2115613336650010890) | 2026-10-29 |
 | [waza（Microsoft Agent Skills 评测 CLI）](entries/waza.md) | evaluation, skill-authoring, cli, microsoft, skill-pack | [@aidevnewss](https://x.com/aidevnewss/status/2115583693372952638) | 2026-10-29 |
 | [github/lever（Copilot 反馈环技能包）](entries/github-lever.md) | skill-pack, github, copilot, feedback-loops, automation | [@_Evan_Boyle](https://x.com/_Evan_Boyle/status/2115518284590420317) | 2026-10-29 |
 | [mcode-stack（MiniMax Code 日用 harness）](entries/mcode-stack.md) | skill-pack, engineering, minimax, coding-agent, harness | [@Ronny_MiniMax](https://x.com/Ronny_MiniMax/status/2115413492941652299) | 2026-10-29 |

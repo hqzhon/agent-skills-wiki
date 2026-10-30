@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-30T08:13:00+08:00",
-  "last_since_id": "2115960456846209222",
+  "last_scan_at": "2026-10-30T14:10:00+08:00",
+  "last_since_id": "2116049614302220639",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2115779028376330256: EN p1-2 + ZH + awesome + npx/github supplement; 4 accepted (pstack-statechart, microsoft-skillopt, next-bundle-optimizer, design-apps-with-imagegen). Skipped rehashes/crypto/thin stars; watch vercel-labs pack, formal-verification write-up, GetStream/datadog/motionmaxxing."
+  "last_result": "Scan after 2115960456846209222: EN p1-3 + ZH p1-2 + awesome(0) + npx/github supplement; 6 accepted (shiji-tongjian-decisions, bang-motion, match-cut, tailscale-skill, ccpm, codexqa). Skipped rehashes/crypto/thin; watch motionmaxxing~1131★, vercel-labs~33k★, datadog-labs~182★, GetStream, rustify, Hook Master."
 }

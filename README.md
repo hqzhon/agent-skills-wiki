@@ -5,7 +5,7 @@
 
 > 不是 awesome 列表堆砌——每条都过质量关：有场景、有步骤、有可验证材料。
 
-**[→ 打开完整目录 Catalog（136+ 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
+**[→ 打开完整目录 Catalog（142+ 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
 
 每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
 
@@ -46,6 +46,7 @@
 - [Anthropic Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) — Cowork 角色技能包
 - [Microsoft SkillOpt](wiki/entries/microsoft-skillopt.md) — 训 Skill.md、不动权重
 - [PixiJS Skills（官方）](wiki/entries/pixijs-skills.md) · [Android Official Skills](wiki/entries/android-official-skills.md)
+- [Tailscale Skill（官方）](wiki/entries/tailscale-skill.md) — networking / tsnet / k8s
 
 ### 设计 / UI / 品味
 - [Taste Skill](wiki/entries/taste-skill.md) — 艺术指导 + 去 AI 味前端
@@ -67,6 +68,8 @@
 - [Superpowers (obra)](wiki/entries/superpowers.md) — brainstorming + TDD 交付流
 - [founder-skill](wiki/entries/founder-skill.md) — 创业压力测试包
 - [Addy Osmani Agent Skills](wiki/entries/addyosmani-agent-skills.md) · [Matt Pocock Skills](wiki/entries/mattpocock-skills.md)
+- [CCPM](wiki/entries/ccpm.md) — PRD → Issues → 并行 agents
+- [CodexQA](wiki/entries/codexqa.md) — 合入前本地验证包
 - [skill-guard](wiki/entries/skill-guard.md) · [SkillSpector](wiki/entries/skillspector.md) — 安装卫生 / 信任门
 
 ### 视频 / 成片
@@ -75,12 +78,15 @@
 - [Lemo-Opuscar](wiki/entries/lemo-opuscar.md) — 代码成片风格工具箱
 - [vvv](wiki/entries/vvv.md) — Remotion 视频模板工厂
 - [product-launch-motion](wiki/entries/product-launch-motion.md) — URL → 发布片
+- [Bang Motion](wiki/entries/bang-motion.md) — 浏览器动效成片（非 PPT）
+- [match-cut](wiki/entries/match-cut.md) — 接力匹配剪辑宣传片
 
 ### 知识库 / 科学 / 其他高信号
 - [Obsidian Skills (kepano)](wiki/entries/obsidian-skills.md)
 - [NVIDIA BioNeMo Agent Toolkit](wiki/entries/bionemo-agent-toolkit.md)
 - [Chaperone（RosettaCommons）](wiki/entries/chaperone.md) — 蛋白质设计
 - [leanrea（轻装逆向）](wiki/entries/leanrea.md) · [BAMA](wiki/entries/bama.md) — Build Any Mac App
+- [史鉴人生抉择](wiki/entries/shiji-tongjian-decisions.md) — 史记/通鉴核源决策
 
 ---
 

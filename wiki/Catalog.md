@@ -4,6 +4,12 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [史鉴人生抉择（shiji-tongjian-decisions）](entries/shiji-tongjian-decisions.md) | decision-making, history, chinese, evaluation, skill | [@zhuy1043](https://x.com/zhuy1043/status/2116049614302220639) | 2026-10-30 |
+| [Bang Motion](entries/bang-motion.md) | video, motion, html, gsap, explainer, skill | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2116041521455927531) | 2026-10-30 |
+| [match-cut（接力匹配剪辑）](entries/match-cut.md) | video, match-cut, promo, skill, chinese | [@KOF97AI](https://x.com/KOF97AI/status/2116044091201139151) | 2026-10-30 |
+| [Tailscale Skill（官方）](entries/tailscale-skill.md) | tailscale, networking, devops, official, skill | [@honglong0420](https://x.com/honglong0420/status/2116029695485710746) | 2026-10-30 |
+| [CCPM（Project Manager Agent）](entries/ccpm.md) | project-management, prd, github-issues, parallel-agents, skill-pack | [@perry_weijie](https://x.com/perry_weijie/status/2116016132234613217) | 2026-10-30 |
+| [CodexQA](entries/codexqa.md) | qa, testing, code-review, local-first, skill-pack | [@argusiccom](https://x.com/argusiccom/status/2116002266284965970) | 2026-10-30 |
 | [pstack `/statechart`](entries/pstack-statechart.md) | formal-verification, tla, state-machine, debugging, skill-pack | [@poteto](https://x.com/poteto/status/2115880102601101414) | 2026-10-30 |
 | [Microsoft SkillOpt](entries/microsoft-skillopt.md) | skill-authoring, evaluation, microsoft, optimization, skill-pack, official | [@_vmlops](https://x.com/_vmlops/status/2115854336094073184) | 2026-10-30 |
 | [next-bundle-optimizer](entries/next-bundle-optimizer.md) | nextjs, vercel, bundle, performance, turbopack, skill, official | [@poseidanai](https://x.com/poseidanai/status/2115957875994464644) | 2026-10-30 |

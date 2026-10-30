@@ -5,7 +5,7 @@
 
 > 不是 awesome 列表堆砌——每条都过质量关：有场景、有步骤、有可验证材料。
 
-**[→ 打开完整目录 Catalog（142+ 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
+**[→ 打开完整目录 Catalog（145+ 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
 
 每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
 
@@ -58,6 +58,7 @@
 - [jakubkrehel/skills（Interface Skills）](wiki/entries/jakubkrehel-skills.md) — a11y / 字体 / 布局
 - [Apple Human Interface Skills](wiki/entries/apple-human-interface-skills.md) — Apple HIG
 - [design-apps-with-imagegen（swyx）](wiki/entries/design-apps-with-imagegen.md) — 图像探索 → 真实现产品
+- [garden-skills（ConardLi）](wiki/entries/garden-skills.md) — 网页设计 / RAG / 生图 / 动效小花园
 
 ### 工程 / 交付 / Meta
 - [gstack（Garry Tan）](wiki/entries/gstack.md) — review / QA / shipping
@@ -71,6 +72,7 @@
 - [CCPM](wiki/entries/ccpm.md) — PRD → Issues → 并行 agents
 - [CodexQA](wiki/entries/codexqa.md) — 合入前本地验证包
 - [skill-guard](wiki/entries/skill-guard.md) · [SkillSpector](wiki/entries/skillspector.md) — 安装卫生 / 信任门
+- [Anthropic-Cybersecurity-Skills](wiki/entries/anthropic-cybersecurity-skills.md) — 817 安全技能包（授权场景）
 
 ### 视频 / 成片
 - [Remotion Agent Skills（官方）](wiki/entries/remotion-skills.md)
@@ -78,6 +80,7 @@
 - [Lemo-Opuscar](wiki/entries/lemo-opuscar.md) — 代码成片风格工具箱
 - [vvv](wiki/entries/vvv.md) — Remotion 视频模板工厂
 - [product-launch-motion](wiki/entries/product-launch-motion.md) — URL → 发布片
+- [story-to-handdrawn-video](wiki/entries/story-to-handdrawn-video.md) — 中文故事 → 3:4 手绘动画
 - [Bang Motion](wiki/entries/bang-motion.md) — 浏览器动效成片（非 PPT）
 - [match-cut](wiki/entries/match-cut.md) — 接力匹配剪辑宣传片
 

@@ -4,6 +4,9 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [story-to-handdrawn-video（手绘日记动画）](entries/story-to-handdrawn-video.md) | video, remotion, handdrawn, chinese, storytelling, skill | [@GitHub_Daily](https://x.com/GitHub_Daily/status/2116130539522683388) | 2026-10-30 |
+| [Anthropic-Cybersecurity-Skills](entries/anthropic-cybersecurity-skills.md) | security, cybersecurity, skill-pack, mitre, incident-response, skill | [@it_works_123](https://x.com/it_works_123/status/2116138192839860499) | 2026-10-30 |
+| [garden-skills（ConardLi）](entries/garden-skills.md) | skill-pack, web-design, knowledge, imagegen, motion, chinese | [@xoyif63862452](https://x.com/xoyif63862452/status/2116053141422551450) | 2026-10-30 |
 | [史鉴人生抉择（shiji-tongjian-decisions）](entries/shiji-tongjian-decisions.md) | decision-making, history, chinese, evaluation, skill | [@zhuy1043](https://x.com/zhuy1043/status/2116049614302220639) | 2026-10-30 |
 | [Bang Motion](entries/bang-motion.md) | video, motion, html, gsap, explainer, skill | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2116041521455927531) | 2026-10-30 |
 | [match-cut（接力匹配剪辑）](entries/match-cut.md) | video, match-cut, promo, skill, chinese | [@KOF97AI](https://x.com/KOF97AI/status/2116044091201139151) | 2026-10-30 |

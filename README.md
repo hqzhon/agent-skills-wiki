@@ -5,7 +5,7 @@
 
 > 不是 awesome 列表堆砌——每条都过质量关：有场景、有步骤、有可验证材料。
 
-**[→ 打开完整目录 Catalog（132+ 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
+**[→ 打开完整目录 Catalog（136+ 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
 
 每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
 
@@ -44,6 +44,7 @@
 - [Remotion Agent Skills（官方）](wiki/entries/remotion-skills.md) — React 视频创作与渲染
 - [ElevenLabs Skills（官方）](wiki/entries/elevenlabs-skills.md) — 语音 / 实时音频
 - [Anthropic Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) — Cowork 角色技能包
+- [Microsoft SkillOpt](wiki/entries/microsoft-skillopt.md) — 训 Skill.md、不动权重
 - [PixiJS Skills（官方）](wiki/entries/pixijs-skills.md) · [Android Official Skills](wiki/entries/android-official-skills.md)
 
 ### 设计 / UI / 品味
@@ -55,9 +56,12 @@
 - [Emil Kowalski Skills](wiki/entries/emilkowalski-skills.md) — UI / 动效 taste
 - [jakubkrehel/skills（Interface Skills）](wiki/entries/jakubkrehel-skills.md) — a11y / 字体 / 布局
 - [Apple Human Interface Skills](wiki/entries/apple-human-interface-skills.md) — Apple HIG
+- [design-apps-with-imagegen（swyx）](wiki/entries/design-apps-with-imagegen.md) — 图像探索 → 真实现产品
 
 ### 工程 / 交付 / Meta
 - [gstack（Garry Tan）](wiki/entries/gstack.md) — review / QA / shipping
+- [pstack `/statechart`](wiki/entries/pstack-statechart.md) — TLA+ 状态图找 bug
+- [next-bundle-optimizer](wiki/entries/next-bundle-optimizer.md) — Next.js 官方捆包优化
 - [Graphify](wiki/entries/graphify.md) — 本地 AST 知识图谱 CLI
 - [skill-diet](wiki/entries/skill-diet.md) — 给臃肿 Skill 减重（token ↓）
 - [Superpowers (obra)](wiki/entries/superpowers.md) — brainstorming + TDD 交付流

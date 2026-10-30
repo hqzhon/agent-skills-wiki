@@ -4,6 +4,10 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [pstack `/statechart`](entries/pstack-statechart.md) | formal-verification, tla, state-machine, debugging, skill-pack | [@poteto](https://x.com/poteto/status/2115880102601101414) | 2026-10-30 |
+| [Microsoft SkillOpt](entries/microsoft-skillopt.md) | skill-authoring, evaluation, microsoft, optimization, skill-pack, official | [@_vmlops](https://x.com/_vmlops/status/2115854336094073184) | 2026-10-30 |
+| [next-bundle-optimizer](entries/next-bundle-optimizer.md) | nextjs, vercel, bundle, performance, turbopack, skill, official | [@poseidanai](https://x.com/poseidanai/status/2115957875994464644) | 2026-10-30 |
+| [design-apps-with-imagegen（swyx）](entries/design-apps-with-imagegen.md) | design, ui-ux, imagegen, product, skill | [@swyx](https://x.com/swyx/status/2115903364320129053) | 2026-10-30 |
 | [leanrea（轻装逆向）](entries/leanrea.md) | reverse-engineering, cli, token-budget, skill, chinese | [@Easycompany333](https://x.com/Easycompany333/status/2115778368822182247) | 2026-10-29 |
 | [Claude-OSINT](entries/claude-osint.md) | osint, recon, bug-bounty, security, skill-pack | [@intigriti](https://x.com/intigriti/status/2115746737163813177) | 2026-10-29 |
 | [oil-ui](entries/oil-ui.md) | design, ui-ux, frontend, anti-slop, skill, chinese | [@hyz1464269](https://x.com/hyz1464269/status/2115771258466128286) | 2026-10-29 |

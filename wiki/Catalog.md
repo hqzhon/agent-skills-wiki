@@ -4,6 +4,9 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [md2html（长 Markdown → 可读 HTML）](entries/md2html.md) | docs, markdown, html, mermaid, skill | [@wiksongkim](https://x.com/wiksongkim/status/2116444461878198748) | 2026-10-31 |
+| [萝卜 PPT（原生可编辑 PPT）](entries/luobo-ppt.md) | slides, pptx, design, chinese, skill | [@wiksongkim](https://x.com/wiksongkim/status/2116499716145901839) | 2026-10-31 |
+| [Reelsmith Media（素材 → 竖版 Reel）](entries/reelsmith-media.md) | video, reels, captions, whisper, skill | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2116494847658037521) | 2026-10-31 |
 | [teardown（可拆解 3D 机械模拟器）](entries/teardown.md) | 3d, simulator, threejs, explainer, video, skill | 用户推荐 · [repo](https://github.com/elvarofficial/teardown) | 2026-10-31 |
 | [unslop（去 AI 味 UI）](entries/unslop.md) | design, ui, frontend, anti-slop, skill | [@GreatCreations_](https://x.com/GreatCreations_/status/2116343100214071596) | 2026-10-31 |
 | [AI Research Skills Library（Orchestra）](entries/ai-research-skills.md) | skill-pack, ml-research, training, paper-writing | [@EveryDevAi](https://x.com/EveryDevAi/status/2116316218332451133) | 2026-10-31 |

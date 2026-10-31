@@ -60,6 +60,7 @@
 - [Apple Human Interface Skills](wiki/entries/apple-human-interface-skills.md) — Apple HIG
 - [design-apps-with-imagegen（swyx）](wiki/entries/design-apps-with-imagegen.md) — 图像探索 → 真实现产品
 - [garden-skills（ConardLi）](wiki/entries/garden-skills.md) — 网页设计 / RAG / 生图 / 动效小花园
+- [萝卜 PPT](wiki/entries/luobo-ppt.md) — 生成 / 照参考图美化原生可编辑 PPTX
 
 ### 工程 / 交付 / Meta
 - [gstack（Garry Tan）](wiki/entries/gstack.md) — review / QA / shipping
@@ -87,9 +88,11 @@
 - [Bang Motion](wiki/entries/bang-motion.md) — 浏览器动效成片（非 PPT）
 - [match-cut](wiki/entries/match-cut.md) — 接力匹配剪辑宣传片
 - [teardown](wiki/entries/teardown.md) — 任意机器 → 可拆解的离线 3D 模拟器 + 60fps 讲解片
+- [Reelsmith Media](wiki/entries/reelsmith-media.md) — 素材文件夹 → 本地字幕对齐的竖版 Reel
 
 ### 知识库 / 科学 / 其他高信号
 - [Obsidian Skills (kepano)](wiki/entries/obsidian-skills.md)
+- [md2html](wiki/entries/md2html.md) — AI 长文档 → 带目录和图表的单文件 HTML
 - [NVIDIA BioNeMo Agent Toolkit](wiki/entries/bionemo-agent-toolkit.md)
 - [Chaperone（RosettaCommons）](wiki/entries/chaperone.md) — 蛋白质设计
 - [leanrea（轻装逆向）](wiki/entries/leanrea.md) · [BAMA](wiki/entries/bama.md) — Build Any Mac App

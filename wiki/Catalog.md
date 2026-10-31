@@ -4,6 +4,8 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [teardown（可拆解 3D 机械模拟器）](entries/teardown.md) | 3d, simulator, threejs, explainer, video, skill | 用户推荐 · [repo](https://github.com/elvarofficial/teardown) | 2026-10-31 |
+| [unslop（去 AI 味 UI）](entries/unslop.md) | design, ui, frontend, anti-slop, skill | [@GreatCreations_](https://x.com/GreatCreations_/status/2116343100214071596) | 2026-10-31 |
 | [AI Research Skills Library（Orchestra）](entries/ai-research-skills.md) | skill-pack, ml-research, training, paper-writing | [@EveryDevAi](https://x.com/EveryDevAi/status/2116316218332451133) | 2026-10-31 |
 | [commerce-agent-skills](entries/commerce-agent-skills.md) | skill-pack, e-commerce, payments, webhooks, evals | [@nasersadrmanesh](https://x.com/nasersadrmanesh/status/2116295745015894508) | 2026-10-31 |
 | [niche-map](entries/niche-map.md) | research, product-strategy, market-gaps, skill | [@jmdevilleros](https://x.com/jmdevilleros/status/2116166161662411221) | 2026-10-31 |

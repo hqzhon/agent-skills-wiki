@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-31T08:15:00+08:00",
-  "last_since_id": "2116318981615468994",
+  "last_scan_at": "2026-10-31T14:15:00+08:00",
+  "last_since_id": "2116413244546199919",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2116142407989563503: EN + ZH + awesome (1 page each, relevancy); 3 accepted (ai-research-skills, commerce-agent-skills, niche-map). Skipped rehashes (ub-mode, tstack, mattpocock, shiji, SkillSpector, Claude Design skill), crypto/ads; watch NVIDIA GDS skill, Xiaomi-OCR-0 skill, Cloudflare .agents/skills support. Mac mirror offline this run."
+  "last_result": "Scan after 2116318981615468994: EN + ZH + awesome (1 page each); 1 accepted (unslop). Skipped rehashes (skill-recorder, humanizer, impeccable, baoyu-design, anthropics/skills, shiji, SkillSpector), x-selfmedia-audit (1 star), security-meta posts, crypto/ads."
 }

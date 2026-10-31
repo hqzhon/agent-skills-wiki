@@ -5,7 +5,7 @@
 
 > 不是 awesome 列表堆砌——每条都过质量关：有场景、有步骤、有可验证材料。
 
-**[→ 打开完整目录 Catalog（148+ 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
+**[→ 打开完整目录 Catalog（150+ 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
 
 每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
 
@@ -52,6 +52,7 @@
 - [Taste Skill](wiki/entries/taste-skill.md) — 艺术指导 + 去 AI 味前端
 - [baoyu-design（本地 Claude Design）](wiki/entries/baoyu-design.md) — 幻灯片 / Dashboard / HTML
 - [Impeccable](wiki/entries/impeccable.md) — 前端设计词汇表
+- [unslop](wiki/entries/unslop.md) — 把 vibecoded 的 AI 味 UI 逐轮改成有性格的设计
 - [UI UX Pro Max](wiki/entries/ui-ux-pro-max.md) — 设计系统智能技能 + CLI
 - [oil-ui](wiki/entries/oil-ui.md) — UI 方向探索与并排对比
 - [Emil Kowalski Skills](wiki/entries/emilkowalski-skills.md) — UI / 动效 taste
@@ -85,6 +86,7 @@
 - [story-to-handdrawn-video](wiki/entries/story-to-handdrawn-video.md) — 中文故事 → 3:4 手绘动画
 - [Bang Motion](wiki/entries/bang-motion.md) — 浏览器动效成片（非 PPT）
 - [match-cut](wiki/entries/match-cut.md) — 接力匹配剪辑宣传片
+- [teardown](wiki/entries/teardown.md) — 任意机器 → 可拆解的离线 3D 模拟器 + 60fps 讲解片
 
 ### 知识库 / 科学 / 其他高信号
 - [Obsidian Skills (kepano)](wiki/entries/obsidian-skills.md)

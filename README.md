@@ -5,7 +5,7 @@
 
 > 不是 awesome 列表堆砌——每条都过质量关：有场景、有步骤、有可验证材料。
 
-**[→ 打开完整目录 Catalog（145+ 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
+**[→ 打开完整目录 Catalog（148+ 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
 
 每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
 
@@ -73,6 +73,8 @@
 - [CodexQA](wiki/entries/codexqa.md) — 合入前本地验证包
 - [skill-guard](wiki/entries/skill-guard.md) · [SkillSpector](wiki/entries/skillspector.md) — 安装卫生 / 信任门
 - [Anthropic-Cybersecurity-Skills](wiki/entries/anthropic-cybersecurity-skills.md) — 817 安全技能包（授权场景）
+- [AI Research Skills Library](wiki/entries/ai-research-skills.md) — 98 个 AI 研究工程技能（训练 → 论文）
+- [commerce-agent-skills](wiki/entries/commerce-agent-skills.md) — 29 个电商技能，带评测 fixtures
 
 ### 视频 / 成片
 - [Remotion Agent Skills（官方）](wiki/entries/remotion-skills.md)

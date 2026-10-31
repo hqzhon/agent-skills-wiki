@@ -4,6 +4,9 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [AI Research Skills Library（Orchestra）](entries/ai-research-skills.md) | skill-pack, ml-research, training, paper-writing | [@EveryDevAi](https://x.com/EveryDevAi/status/2116316218332451133) | 2026-10-31 |
+| [commerce-agent-skills](entries/commerce-agent-skills.md) | skill-pack, e-commerce, payments, webhooks, evals | [@nasersadrmanesh](https://x.com/nasersadrmanesh/status/2116295745015894508) | 2026-10-31 |
+| [niche-map](entries/niche-map.md) | research, product-strategy, market-gaps, skill | [@jmdevilleros](https://x.com/jmdevilleros/status/2116166161662411221) | 2026-10-31 |
 | [story-to-handdrawn-video（手绘日记动画）](entries/story-to-handdrawn-video.md) | video, remotion, handdrawn, chinese, storytelling, skill | [@GitHub_Daily](https://x.com/GitHub_Daily/status/2116130539522683388) | 2026-10-30 |
 | [Anthropic-Cybersecurity-Skills](entries/anthropic-cybersecurity-skills.md) | security, cybersecurity, skill-pack, mitre, incident-response, skill | [@it_works_123](https://x.com/it_works_123/status/2116138192839860499) | 2026-10-30 |
 | [garden-skills（ConardLi）](entries/garden-skills.md) | skill-pack, web-design, knowledge, imagegen, motion, chinese | [@xoyif63862452](https://x.com/xoyif63862452/status/2116053141422551450) | 2026-10-30 |

@@ -4,6 +4,8 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [skills CLI（Vercel 技能包管理器）](entries/vercel-skills-cli.md) | meta, tooling, install, multi-agent | [@Eleazar39456213](https://x.com/Eleazar39456213/status/2116770933813969068) | 2026-11-01 |
+| [Teachable Figures（交互教学图解）](entries/teachable-figures.md) | education, interactive, explainer, svg | [@MirrortekUK](https://x.com/MirrortekUK/status/2116690985614721340) | 2026-11-01 |
 | [better-skill（技能医生手册）](entries/better-skill.md) | meta, skill-authoring, audit, chinese | [@dayu203](https://x.com/dayu203/status/2116541403602047457) | 2026-11-01 |
 | [Stageshow（产品假 UI 插画）](entries/stageshow.md) | design, ui, motion, react | [@wlzh](https://x.com/wlzh/status/2116673267872456742) | 2026-11-01 |
 | [Stickman Video Director](entries/stickman-video-director.md) | video, youtube, faceless, animation | [@ganfanren_ai](https://x.com/ganfanren_ai/status/2116541869547311149) | 2026-11-01 |

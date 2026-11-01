@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-10-31T20:15:00+08:00",
-  "last_since_id": "2116503498774774029",
+  "last_scan_at": "2026-11-01T08:15:00+08:00",
+  "last_since_id": "2116686013380935767",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2116413244546199919: EN + ZH + awesome (1 page each); 3 accepted (md2html, luobo-ppt, reelsmith-media). Skipped rehashes (bang-motion, scientific-agent-skills, superpowers/mattpocock/SkillSpector lists, unslop, teardown), Claude-Red (offensive sec), no-repo posts (wireflow, ste-zh, video-zh-to-en), meta/research, crypto/ads."
+  "last_result": "Scan after 2116503498774774029: EN + ZH + awesome (1 page each); 5 accepted (stageshow, stickman-video-director, better-skill, x-mentor-skill, video-compression-agent-skill). Skipped nex-ai-skills (0★ marketplace funnel), rehashes (teardown, SkillSpector, mattpocock/superpowers lists, gamedev), DM-bait posts, news (Xiaomi-OCR-0, Alexa+ MCP), crypto."
 }

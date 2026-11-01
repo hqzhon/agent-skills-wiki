@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [better-skill（技能医生手册）](entries/better-skill.md) | meta, skill-authoring, audit, chinese | [@dayu203](https://x.com/dayu203/status/2116541403602047457) | 2026-11-01 |
+| [Stageshow（产品假 UI 插画）](entries/stageshow.md) | design, ui, motion, react | [@wlzh](https://x.com/wlzh/status/2116673267872456742) | 2026-11-01 |
+| [Stickman Video Director](entries/stickman-video-director.md) | video, youtube, faceless, animation | [@ganfanren_ai](https://x.com/ganfanren_ai/status/2116541869547311149) | 2026-11-01 |
+| [Video Compression Agent Skill](entries/video-compression-agent-skill.md) | video, ffmpeg, hevc, media | [@twannl](https://x.com/twannl/status/2116662004890964202) | 2026-11-01 |
+| [X导师.skill](entries/x-mentor-skill.md) | writing, x-twitter, growth, chinese | [@xiaofengtang3](https://x.com/xiaofengtang3/status/2116662890677813405) | 2026-11-01 |
 | [md2html（长 Markdown → 可读 HTML）](entries/md2html.md) | docs, markdown, html, mermaid, skill | [@wiksongkim](https://x.com/wiksongkim/status/2116444461878198748) | 2026-10-31 |
 | [萝卜 PPT（原生可编辑 PPT）](entries/luobo-ppt.md) | slides, pptx, design, chinese, skill | [@wiksongkim](https://x.com/wiksongkim/status/2116499716145901839) | 2026-10-31 |
 | [Reelsmith Media（素材 → 竖版 Reel）](entries/reelsmith-media.md) | video, reels, captions, whisper, skill | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2116494847658037521) | 2026-10-31 |

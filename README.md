@@ -61,6 +61,7 @@
 - [design-apps-with-imagegen（swyx）](wiki/entries/design-apps-with-imagegen.md) — 图像探索 → 真实现产品
 - [garden-skills（ConardLi）](wiki/entries/garden-skills.md) — 网页设计 / RAG / 生图 / 动效小花园
 - [萝卜 PPT](wiki/entries/luobo-ppt.md) — 生成 / 照参考图美化原生可编辑 PPTX
+- [Stageshow](wiki/entries/stageshow.md) — 像真产品的假 UI 插画 / 光标演示
 
 ### 工程 / 交付 / Meta
 - [gstack（Garry Tan）](wiki/entries/gstack.md) — review / QA / shipping
@@ -68,6 +69,7 @@
 - [next-bundle-optimizer](wiki/entries/next-bundle-optimizer.md) — Next.js 官方捆包优化
 - [Graphify](wiki/entries/graphify.md) — 本地 AST 知识图谱 CLI
 - [skill-diet](wiki/entries/skill-diet.md) — 给臃肿 Skill 减重（token ↓）
+- [better-skill](wiki/entries/better-skill.md) — 技能体检 / 打分 / 选型标准
 - [Superpowers (obra)](wiki/entries/superpowers.md) — brainstorming + TDD 交付流
 - [founder-skill](wiki/entries/founder-skill.md) — 创业压力测试包
 - [Addy Osmani Agent Skills](wiki/entries/addyosmani-agent-skills.md) · [Matt Pocock Skills](wiki/entries/mattpocock-skills.md)
@@ -89,6 +91,7 @@
 - [match-cut](wiki/entries/match-cut.md) — 接力匹配剪辑宣传片
 - [teardown](wiki/entries/teardown.md) — 任意机器 → 可拆解的离线 3D 模拟器 + 60fps 讲解片
 - [Reelsmith Media](wiki/entries/reelsmith-media.md) — 素材文件夹 → 本地字幕对齐的竖版 Reel
+- [Stickman Video Director](wiki/entries/stickman-video-director.md) — 不露脸火柴人动画出片
 
 ### 知识库 / 科学 / 其他高信号
 - [Obsidian Skills (kepano)](wiki/entries/obsidian-skills.md)

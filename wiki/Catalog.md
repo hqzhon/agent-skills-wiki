@@ -4,6 +4,8 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [stack-diagram（技术栈架构图）](entries/stack-diagram.md) | diagram, architecture, visualization | [@jojogh_007](https://x.com/jojogh_007/status/2117120779204833504) | 2026-11-02 |
+| [svg-diagram（SVG 画图规范 + lint）](entries/svg-diagram.md) | diagram, svg, lint | [@tantanyuli](https://x.com/tantanyuli/status/2117098372071092456) | 2026-11-02 |
 | [Story Studio（故事工坊）](entries/story-studio.md) | video, short-video, chinese, jianying | [@LiuweijiaVip](https://x.com/LiuweijiaVip/status/2116894720731598940) | 2026-11-02 |
 | [OpenMontage（Agent 视频制作系统）](entries/openmontage.md) | video, production, pipeline, skill-pack | [@FreedomAIG](https://x.com/FreedomAIG/status/2116880117507244479) | 2026-11-02 |
 | [Codex Skills Library](entries/codex-skills-library.md) | skill-pack, engineering, codex | [@beebidao](https://x.com/beebidao/status/2117044560861990980) | 2026-11-02 |

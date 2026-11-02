@@ -4,6 +4,9 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Grey2Art（灰盒→多风格可玩美术原型）](entries/grey2art.md) | gamedev, godot, unity, 3d | [@yukiben01](https://x.com/yukiben01/status/2117210666381840544) | 2026-11-02 |
+| [InvestSkill（美股分析框架合集）](entries/investskill.md) | finance, investing, skill-pack | [@huangcheng943](https://x.com/huangcheng943/status/2117203439176577339) | 2026-11-02 |
+| [AI 漫剧 Skills（21 题材全流程）](entries/ai-manju-skills.md) | video, manju, short-drama, chinese | [@MirrortekUK](https://x.com/MirrortekUK/status/2117166822684348461) | 2026-11-02 |
 | [stack-diagram（技术栈架构图）](entries/stack-diagram.md) | diagram, architecture, visualization | [@jojogh_007](https://x.com/jojogh_007/status/2117120779204833504) | 2026-11-02 |
 | [svg-diagram（SVG 画图规范 + lint）](entries/svg-diagram.md) | diagram, svg, lint | [@tantanyuli](https://x.com/tantanyuli/status/2117098372071092456) | 2026-11-02 |
 | [Story Studio（故事工坊）](entries/story-studio.md) | video, short-video, chinese, jianying | [@LiuweijiaVip](https://x.com/LiuweijiaVip/status/2116894720731598940) | 2026-11-02 |

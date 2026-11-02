@@ -4,6 +4,13 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Story Studio（故事工坊）](entries/story-studio.md) | video, short-video, chinese, jianying | [@LiuweijiaVip](https://x.com/LiuweijiaVip/status/2116894720731598940) | 2026-11-02 |
+| [OpenMontage（Agent 视频制作系统）](entries/openmontage.md) | video, production, pipeline, skill-pack | [@FreedomAIG](https://x.com/FreedomAIG/status/2116880117507244479) | 2026-11-02 |
+| [Codex Skills Library](entries/codex-skills-library.md) | skill-pack, engineering, codex | [@beebidao](https://x.com/beebidao/status/2117044560861990980) | 2026-11-02 |
+| [公文写作 DNA（lieflat-gongwen）](entries/lieflat-gongwen.md) | writing, chinese, gongwen, style-distillation | [@bkdgiffug](https://x.com/bkdgiffug/status/2116809467853676972) | 2026-11-01 |
+| [Agentic Awesome Skills + AAS Core](entries/agentic-awesome-skills.md) | skill-pack, catalog, discovery, meta | [@musen9527](https://x.com/musen9527/status/2116807215860613205) | 2026-11-01 |
+| [GenOffice CLI + Agent Skill](entries/genoffice-skill.md) | office, docx, xlsx, pptx | [@OnchainOffDuty](https://x.com/OnchainOffDuty/status/2116850335226691720) | 2026-11-01 |
+| [Computer Repair Skill（电脑维修）](entries/computer-repair-skill.md) | it-support, troubleshooting, cross-platform | [@bkdgiffug](https://x.com/bkdgiffug/status/2116840674020716829) | 2026-11-01 |
 | [skills CLI（Vercel 技能包管理器）](entries/vercel-skills-cli.md) | meta, tooling, install, multi-agent | [@Eleazar39456213](https://x.com/Eleazar39456213/status/2116770933813969068) | 2026-11-01 |
 | [Teachable Figures（交互教学图解）](entries/teachable-figures.md) | education, interactive, explainer, svg | [@MirrortekUK](https://x.com/MirrortekUK/status/2116690985614721340) | 2026-11-01 |
 | [better-skill（技能医生手册）](entries/better-skill.md) | meta, skill-authoring, audit, chinese | [@dayu203](https://x.com/dayu203/status/2116541403602047457) | 2026-11-01 |

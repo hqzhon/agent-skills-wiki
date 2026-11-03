@@ -4,6 +4,7 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Transitions.dev（UI 动效 + 生成式揭示）](entries/transitions-dev.md) | frontend, css, motion, ui | [@usual_member](https://x.com/usual_member/status/2117390086962925651) | 2026-11-03 |
 | [Grey2Art（灰盒→多风格可玩美术原型）](entries/grey2art.md) | gamedev, godot, unity, 3d | [@yukiben01](https://x.com/yukiben01/status/2117210666381840544) | 2026-11-02 |
 | [InvestSkill（美股分析框架合集）](entries/investskill.md) | finance, investing, skill-pack | [@huangcheng943](https://x.com/huangcheng943/status/2117203439176577339) | 2026-11-02 |
 | [AI 漫剧 Skills（21 题材全流程）](entries/ai-manju-skills.md) | video, manju, short-drama, chinese | [@MirrortekUK](https://x.com/MirrortekUK/status/2117166822684348461) | 2026-11-02 |

@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [nature-skills（Nature 风格论文润色 / 科研绘图）](entries/nature-skills.md) | research, academic-writing, figures, skill-pack | [@musen9527](https://x.com/musen9527/status/2117766274919141681) | 2026-11-04 |
+| [EvoSkill（从失败轨迹自动生成 skill）](entries/evoskill.md) | meta, skill-generation, evaluation | [@zyvre_ic](https://x.com/zyvre_ic/status/2117678291754615110) | 2026-11-04 |
+| [binsleuth（抗注入恶意软件静态分诊）](entries/binsleuth.md) | security, malware, reverse-engineering, prompt-injection | [@JowelAl_k](https://x.com/JowelAl_k/status/2117578307864514626) | 2026-11-03 |
+| [Main Session Orchestrator（单主会话编排）](entries/main-session-orchestrator.md) | orchestration, codex, ml-experiments, handoff | [@huanngzh](https://x.com/huanngzh/status/2117501904683151830) | 2026-11-03 |
+| [onetake（一镜到底产品发布动效）](entries/onetake.md) | video, motion, launch-video, product-demo | [@HaidarA06515262](https://x.com/HaidarA06515262/status/2117436839602659747) | 2026-11-03 |
 | [Transitions.dev（UI 动效 + 生成式揭示）](entries/transitions-dev.md) | frontend, css, motion, ui | [@usual_member](https://x.com/usual_member/status/2117390086962925651) | 2026-11-03 |
 | [Grey2Art（灰盒→多风格可玩美术原型）](entries/grey2art.md) | gamedev, godot, unity, 3d | [@yukiben01](https://x.com/yukiben01/status/2117210666381840544) | 2026-11-02 |
 | [InvestSkill（美股分析框架合集）](entries/investskill.md) | finance, investing, skill-pack | [@huangcheng943](https://x.com/huangcheng943/status/2117203439176577339) | 2026-11-02 |

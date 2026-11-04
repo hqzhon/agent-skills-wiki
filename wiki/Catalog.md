@@ -4,6 +4,10 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [/watch（claude-video：让 agent 看视频）](entries/claude-video-watch.md) | video, transcription, multimodal | [@0xForce_](https://x.com/0xForce_/status/2117937493135761708) | 2026-11-04 |
+| [Gemini API Skills（Google 官方）](entries/gemini-skills.md) | official, gemini, api, skill-pack | [@dngzsn37461](https://x.com/dngzsn37461/status/2117905219296346576) | 2026-11-04 |
+| [overfetch（前端冗余请求审计）](entries/overfetch.md) | frontend, performance, network, audit | [@drunk_vibecoder](https://x.com/drunk_vibecoder/status/2117948418085757393) | 2026-11-04 |
+| [SimpleEnglish（ASD-STE100 技术写作）](entries/simple-english.md) | writing, docs, technical-writing | [@lunkertw](https://x.com/lunkertw/status/2117901847751213439) | 2026-11-04 |
 | [Open 3D Skills（3D 与动效网页 8 件套）](entries/open-3d-skills.md) | 3d, threejs, motion, web, skill-pack | [@QingQ77](https://x.com/QingQ77/status/2117831200316526621) | 2026-11-04 |
 | [Spotlight Film（Apple 发布会风格产品片）](entries/spotlight-film.md) | video, launch-video, motion, threejs | [@ridemountainpig](https://x.com/ridemountainpig/status/2117844161944801298) | 2026-11-04 |
 | [nature-skills（Nature 风格论文润色 / 科研绘图）](entries/nature-skills.md) | research, academic-writing, figures, skill-pack | [@musen9527](https://x.com/musen9527/status/2117766274919141681) | 2026-11-04 |

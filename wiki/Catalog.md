@@ -4,6 +4,8 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Open 3D Skills（3D 与动效网页 8 件套）](entries/open-3d-skills.md) | 3d, threejs, motion, web, skill-pack | [@QingQ77](https://x.com/QingQ77/status/2117831200316526621) | 2026-11-04 |
+| [Spotlight Film（Apple 发布会风格产品片）](entries/spotlight-film.md) | video, launch-video, motion, threejs | [@ridemountainpig](https://x.com/ridemountainpig/status/2117844161944801298) | 2026-11-04 |
 | [nature-skills（Nature 风格论文润色 / 科研绘图）](entries/nature-skills.md) | research, academic-writing, figures, skill-pack | [@musen9527](https://x.com/musen9527/status/2117766274919141681) | 2026-11-04 |
 | [EvoSkill（从失败轨迹自动生成 skill）](entries/evoskill.md) | meta, skill-generation, evaluation | [@zyvre_ic](https://x.com/zyvre_ic/status/2117678291754615110) | 2026-11-04 |
 | [binsleuth（抗注入恶意软件静态分诊）](entries/binsleuth.md) | security, malware, reverse-engineering, prompt-injection | [@JowelAl_k](https://x.com/JowelAl_k/status/2117578307864514626) | 2026-11-03 |

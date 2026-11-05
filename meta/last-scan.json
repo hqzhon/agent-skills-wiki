@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-04T20:15:00+08:00",
-  "last_since_id": "2117953727776579991",
+  "last_scan_at": "2026-11-05T20:15:00+08:00",
+  "last_since_id": "2118315350970540500",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2117861435330253111: EN + ZH + awesome; 4 accepted (claude-video-watch, gemini-skills, simple-english, overfetch). Skipped dupes (stack-diagram, database-lookup, superpowers, scrapling, ui-ux-pro-max), news (Siri app skills, SkillLifeBench), tools (Ars, rolecraft, AssetSnip), promos, low-signal (shipyard, brag). Watch: Code Video Showcase repo, rolecraft."
+  "last_result": "Scan after 2118217123285852414: EN + ZH + awesome; 2 accepted (dashboard-design-skill, anthropic-comps-analysis). Skipped dupes (ai-manju, short-drama list, scrapling, superpowers, vercel skills, mattpocock), tools/runtimes (initializ/forge, SkillCorpus, apm dependabot), low-signal (bansat 12★, copy-gate, codex-in-claude no link), news/security chatter."
 }

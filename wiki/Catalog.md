@@ -4,6 +4,12 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Dashboard Design Skill（克制、诚实的数据看板）](entries/dashboard-design-skill.md) | frontend, dashboard, data-viz, design | [@Git_Daily](https://x.com/Git_Daily/status/2118254444643266670) | 2026-11-05 |
+| [comps-analysis（Anthropic 官方同业可比估值）](entries/anthropic-comps-analysis.md) | finance, valuation, spreadsheet, official | [@huangcheng943](https://x.com/huangcheng943/status/2118244486736380354) | 2026-11-05 |
+| [Claude Animated Shorts（本地渲染竖屏动画短片）](entries/claude-animated-shorts.md) | video, shorts, threejs, remotion | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2117974328298094897) | 2026-11-05 |
+| [Floorplan（代码库大白话交互地图）](entries/floorplan.md) | codebase, architecture, visualization | [@Lingze688](https://x.com/Lingze688/status/2118217123285852414) | 2026-11-05 |
+| [ghidra-rpc（Ghidra 逆向 skill）](entries/ghidra-rpc.md) | security, reverse-engineering, ghidra | [@tensorstaff](https://x.com/tensorstaff/status/2118151716223017172) | 2026-11-05 |
+| [serenity-stock-choke（供应链卡脖子选股）](entries/serenity-stock-choke.md) | finance, investing, supply-chain | [@bkdgiffug](https://x.com/bkdgiffug/status/2118117336393949625) | 2026-11-05 |
 | [/watch（claude-video：让 agent 看视频）](entries/claude-video-watch.md) | video, transcription, multimodal | [@0xForce_](https://x.com/0xForce_/status/2117937493135761708) | 2026-11-04 |
 | [Gemini API Skills（Google 官方）](entries/gemini-skills.md) | official, gemini, api, skill-pack | [@dngzsn37461](https://x.com/dngzsn37461/status/2117905219296346576) | 2026-11-04 |
 | [overfetch（前端冗余请求审计）](entries/overfetch.md) | frontend, performance, network, audit | [@drunk_vibecoder](https://x.com/drunk_vibecoder/status/2117948418085757393) | 2026-11-04 |

@@ -5,7 +5,7 @@
 
 > 不是 awesome 列表堆砌——每条都过质量关：有场景、有步骤、有可验证材料。
 
-**[→ 打开完整目录 Catalog（184 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
+**[→ 打开完整目录 Catalog（190 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
 
 每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
 
@@ -64,6 +64,7 @@
 - [萝卜 PPT](wiki/entries/luobo-ppt.md) — 生成 / 照参考图美化原生可编辑 PPTX
 - [Stageshow](wiki/entries/stageshow.md) — 像真产品的假 UI 插画 / 光标演示
 - [stack-diagram](wiki/entries/stack-diagram.md) · [svg-diagram](wiki/entries/svg-diagram.md) — 架构图 / SVG 图解（带 lint 自检）
+- [Floorplan](wiki/entries/floorplan.md) — 从真实代码画出大白话交互地图
 
 ### 工程 / 交付 / Meta
 - [gstack（Garry Tan）](wiki/entries/gstack.md) — review / QA / shipping
@@ -83,6 +84,7 @@
 - [commerce-agent-skills](wiki/entries/commerce-agent-skills.md) — 29 个电商技能，带评测 fixtures
 
 ### 视频 / 成片
+- [Claude Animated Shorts](wiki/entries/claude-animated-shorts.md) — three.js + Remotion 本地渲染竖屏动画故事短片
 - [Remotion Agent Skills（官方）](wiki/entries/remotion-skills.md)
 - [video-talkcraft（口播 Remotion）](wiki/entries/video-talkcraft.md)
 - [Lemo-Opuscar](wiki/entries/lemo-opuscar.md) — 代码成片风格工具箱
@@ -99,6 +101,7 @@
 - [Stickman Video Director](wiki/entries/stickman-video-director.md) — 不露脸火柴人动画出片
 
 ### 知识库 / 科学 / 其他高信号
+- [ghidra-rpc](wiki/entries/ghidra-rpc.md) — Cellebrite Labs 出品，agent 驱动 Ghidra 做二进制逆向
 - [Obsidian Skills (kepano)](wiki/entries/obsidian-skills.md)
 - [md2html](wiki/entries/md2html.md) — AI 长文档 → 带目录和图表的单文件 HTML
 - [NVIDIA BioNeMo Agent Toolkit](wiki/entries/bionemo-agent-toolkit.md)

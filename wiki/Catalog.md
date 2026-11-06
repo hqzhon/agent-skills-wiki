@@ -4,6 +4,14 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [video-use（对话式剪辑 · browser-use）](entries/video-use.md) | video, editing, ffmpeg, talking-head, subtitles | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2118564056970010627) | 2026-11-06 |
+| [rea-video（任意视频逐镜逆向）](entries/rea-video.md) | video, reverse-engineering, analysis, skill, cli | [@Han722371523249](https://x.com/Han722371523249/status/2118579754760610090) | 2026-11-06 |
+| [scroll-craft（滚动驱动精品落地页）](entries/scroll-craft.md) | frontend, scroll, landing-page, design | [@abdullahformuli](https://x.com/abdullahformuli/status/2118575781685407797) | 2026-11-06 |
+| [Animated Sticker Studio（动态表情包工坊）](entries/animated-sticker-studio.md) | sticker, gif, wechat, telegram, illustration | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2118547853694128628) | 2026-11-06 |
+| [DaVinci Resolve Skills（可继续剪的 Resolve 时间线）](entries/davinci-resolve-skills.md) | video, davinci-resolve, remotion, tutorial, skill-pack | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2118547853694128628) | 2026-11-06 |
+| [Video Effects Pack（竖屏短视频 47 特效）](entries/video-effects-pack.md) | video, effects, shorts, ffmpeg | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2118547853694128628) | 2026-11-06 |
+| [ai-video-skills（视觉圣经 + 打斗物理编排）](entries/ai-video-skills.md) | video, short-drama, consistency, choreography, chinese | [@calmrisewild](https://x.com/calmrisewild/status/2118517276542669130) | 2026-11-06 |
+| [MyGo Skills（egoist/mygo 桌面/Webview 技能包）](entries/mygo-skills.md) | desktop, golang, mygo, ui, skill-pack | [@suzukaze_haduki](https://x.com/suzukaze_haduki/status/2118587561710932141) | 2026-11-06 |
 | [Scenario Labs Skills（媒体 / DCC 生产技能包）](entries/scenario-labs-skills.md) | skill-pack, image, video, audio, 3d, mcp | [@yaro360](https://x.com/yaro360/status/2118478633618567487) | 2026-11-06 |
 | [Google Workspace CLI Skills（gws）](entries/google-workspace-cli-skills.md) | skill-pack, gmail, calendar, drive, cli | [@xiaoanlab](https://x.com/xiaoanlab/status/2118332105184928034) | 2026-11-06 |
 | [fundraising（融资 / LP / M&A 操盘技能）](entries/fundraising-skill.md) | fundraising, startup, venture, lp, m-and-a | [@DiaryofaMadeMan](https://x.com/DiaryofaMadeMan/status/2118410266992111919) | 2026-11-06 |

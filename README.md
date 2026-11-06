@@ -5,7 +5,7 @@
 
 > 不是 awesome 列表堆砌——每条都过质量关：有场景、有步骤、有可验证材料。
 
-**[→ 打开完整目录 Catalog（194 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
+**[→ 打开完整目录 Catalog（202 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
 
 每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
 
@@ -85,6 +85,8 @@
 - [commerce-agent-skills](wiki/entries/commerce-agent-skills.md) — 29 个电商技能，带评测 fixtures
 
 ### 视频 / 成片
+- [video-use（browser-use）](wiki/entries/video-use.md) — 对话式剪辑口播/教程毛片
+- [rea-video](wiki/entries/rea-video.md) — 任意视频逐镜逆向拆解
 - [Scenario Labs Skills](wiki/entries/scenario-labs-skills.md) — 图片/视频/音频/3D + 本机 DCC 技能包
 - [gpx-3d-video](wiki/entries/gpx-3d-video.md) — GPX 轨迹同步 3D 路线叠加
 - [Claude Animated Shorts](wiki/entries/claude-animated-shorts.md) — three.js + Remotion 本地渲染竖屏动画故事短片

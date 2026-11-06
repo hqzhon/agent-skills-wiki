@@ -5,7 +5,7 @@
 
 > 不是 awesome 列表堆砌——每条都过质量关：有场景、有步骤、有可验证材料。
 
-**[→ 打开完整目录 Catalog（190 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
+**[→ 打开完整目录 Catalog（194 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
 
 每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
 
@@ -42,6 +42,7 @@
 - [Expo Skills（官方）](wiki/entries/expo-skills.md) — React Native / EAS
 - [NVIDIA Agent Skills（官方）](wiki/entries/nvidia-skills.md) — CUDA / Physical AI
 - [Google Cloud Skills（官方）](wiki/entries/google-cloud-skills.md) — IAM Helper 等
+- [Google Workspace CLI Skills（gws）](wiki/entries/google-workspace-cli-skills.md) — Gmail/Calendar/Drive 等 ~95 skills
 - [Remotion Agent Skills（官方）](wiki/entries/remotion-skills.md) — React 视频创作与渲染
 - [ElevenLabs Skills（官方）](wiki/entries/elevenlabs-skills.md) — 语音 / 实时音频
 - [Anthropic Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) — Cowork 角色技能包
@@ -84,6 +85,8 @@
 - [commerce-agent-skills](wiki/entries/commerce-agent-skills.md) — 29 个电商技能，带评测 fixtures
 
 ### 视频 / 成片
+- [Scenario Labs Skills](wiki/entries/scenario-labs-skills.md) — 图片/视频/音频/3D + 本机 DCC 技能包
+- [gpx-3d-video](wiki/entries/gpx-3d-video.md) — GPX 轨迹同步 3D 路线叠加
 - [Claude Animated Shorts](wiki/entries/claude-animated-shorts.md) — three.js + Remotion 本地渲染竖屏动画故事短片
 - [Remotion Agent Skills（官方）](wiki/entries/remotion-skills.md)
 - [video-talkcraft（口播 Remotion）](wiki/entries/video-talkcraft.md)
@@ -101,6 +104,7 @@
 - [Stickman Video Director](wiki/entries/stickman-video-director.md) — 不露脸火柴人动画出片
 
 ### 知识库 / 科学 / 其他高信号
+- [fundraising](wiki/entries/fundraising-skill.md) — 融资 / LP / M&A 操盘护栏
 - [ghidra-rpc](wiki/entries/ghidra-rpc.md) — Cellebrite Labs 出品，agent 驱动 Ghidra 做二进制逆向
 - [Obsidian Skills (kepano)](wiki/entries/obsidian-skills.md)
 - [md2html](wiki/entries/md2html.md) — AI 长文档 → 带目录和图表的单文件 HTML

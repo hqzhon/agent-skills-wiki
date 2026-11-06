@@ -4,6 +4,10 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Scenario Labs Skills（媒体 / DCC 生产技能包）](entries/scenario-labs-skills.md) | skill-pack, image, video, audio, 3d, mcp | [@yaro360](https://x.com/yaro360/status/2118478633618567487) | 2026-11-06 |
+| [Google Workspace CLI Skills（gws）](entries/google-workspace-cli-skills.md) | skill-pack, gmail, calendar, drive, cli | [@xiaoanlab](https://x.com/xiaoanlab/status/2118332105184928034) | 2026-11-06 |
+| [fundraising（融资 / LP / M&A 操盘技能）](entries/fundraising-skill.md) | fundraising, startup, venture, lp, m-and-a | [@DiaryofaMadeMan](https://x.com/DiaryofaMadeMan/status/2118410266992111919) | 2026-11-06 |
+| [gpx-3d-video（GPX 轨迹同步 3D 路线叠加）](entries/gpx-3d-video.md) | video, gpx, ffmpeg, outdoor | [@ymbkxc](https://x.com/ymbkxc/status/2118340878477783169) | 2026-11-06 |
 | [Dashboard Design Skill（克制、诚实的数据看板）](entries/dashboard-design-skill.md) | frontend, dashboard, data-viz, design | [@Git_Daily](https://x.com/Git_Daily/status/2118254444643266670) | 2026-11-05 |
 | [comps-analysis（Anthropic 官方同业可比估值）](entries/anthropic-comps-analysis.md) | finance, valuation, spreadsheet, official | [@huangcheng943](https://x.com/huangcheng943/status/2118244486736380354) | 2026-11-05 |
 | [Claude Animated Shorts（本地渲染竖屏动画短片）](entries/claude-animated-shorts.md) | video, shorts, threejs, remotion | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2117974328298094897) | 2026-11-05 |

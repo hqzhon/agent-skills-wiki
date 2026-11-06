@@ -4,6 +4,12 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Marketing Skills（coreyhaines31）](entries/marketingskills.md) | skill-pack, marketing, cro, seo, copywriting, growth | [@GeorgeGeogiadis](https://x.com/GeorgeGeogiadis/status/2118673825852244011) | 2026-11-06 |
+| [marketing-skill-hub（海外营销）](entries/marketing-skill-hub.md) | skill-pack, marketing, ads, ugc, chinese, overseas | [@ganfanren_ai](https://x.com/ganfanren_ai/status/2118597585799889116) | 2026-11-06 |
+| [Swarm Cursors / reveal-cursors](entries/reveal-cursors.md) | frontend, motion, landing-page, ui | [@hrstwt](https://x.com/hrstwt/status/2118646279068881088) | 2026-11-06 |
+| [HITC NetSuite Agent Skills](entries/hitc-netsuite-agent-skills.md) | netsuite, erp, suitecommerce, performance, skill-pack | [@HITCforNetSuite](https://x.com/HITCforNetSuite/status/2118648374413201599) | 2026-11-06 |
+| [Apify Agent Skills（官方）](entries/apify-agent-skills.md) | skill-pack, scraping, apify, actors, official | [@FabianMaume](https://x.com/FabianMaume/status/2118595591496159494) | 2026-11-06 |
+| [sepia（去 AI 味写作）](entries/sepia.md) | writing, anti-slop, fiction, prose, skill | 近失核仓 · [repo](https://github.com/Nanako0129/sepia) | 2026-11-06 |
 | [video-use（对话式剪辑 · browser-use）](entries/video-use.md) | video, editing, ffmpeg, talking-head, subtitles | [@Manojkumar2257](https://x.com/Manojkumar2257/status/2118564056970010627) | 2026-11-06 |
 | [rea-video（任意视频逐镜逆向）](entries/rea-video.md) | video, reverse-engineering, analysis, skill, cli | [@Han722371523249](https://x.com/Han722371523249/status/2118579754760610090) | 2026-11-06 |
 | [scroll-craft（滚动驱动精品落地页）](entries/scroll-craft.md) | frontend, scroll, landing-page, design | [@abdullahformuli](https://x.com/abdullahformuli/status/2118575781685407797) | 2026-11-06 |

@@ -5,7 +5,7 @@
 
 > 不是 awesome 列表堆砌——每条都过质量关：有场景、有步骤、有可验证材料。
 
-**[→ 打开完整目录 Catalog（202 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
+**[→ 打开完整目录 Catalog（208 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
 
 每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
 
@@ -51,6 +51,7 @@
 - [Tailscale Skill（官方）](wiki/entries/tailscale-skill.md) — networking / tsnet / k8s
 
 ### 设计 / UI / 品味
+- [sepia（去 AI 味写作）](wiki/entries/sepia.md) — 叙事架构层去 AI 味
 - [Taste Skill](wiki/entries/taste-skill.md) — 艺术指导 + 去 AI 味前端
 - [baoyu-design（本地 Claude Design）](wiki/entries/baoyu-design.md) — 幻灯片 / Dashboard / HTML
 - [Impeccable](wiki/entries/impeccable.md) — 前端设计词汇表
@@ -83,6 +84,11 @@
 - [Anthropic-Cybersecurity-Skills](wiki/entries/anthropic-cybersecurity-skills.md) — 817 安全技能包（授权场景）
 - [AI Research Skills Library](wiki/entries/ai-research-skills.md) — 98 个 AI 研究工程技能（训练 → 论文）
 - [commerce-agent-skills](wiki/entries/commerce-agent-skills.md) — 29 个电商技能，带评测 fixtures
+
+### 营销 / 增长
+- [Marketing Skills（coreyhaines31）](wiki/entries/marketingskills.md) — CRO / 文案 / SEO / 客户研究 (~58.8k★)
+- [marketing-skill-hub](wiki/entries/marketing-skill-hub.md) — 出海投放 / UGC / 开发信
+- [Apify Agent Skills](wiki/entries/apify-agent-skills.md) — 官方抓取 / Actor 技能
 
 ### 视频 / 成片
 - [video-use（browser-use）](wiki/entries/video-use.md) — 对话式剪辑口播/教程毛片

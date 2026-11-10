@@ -4,6 +4,28 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [cinecode（用代码拍短片）](entries/cinecode.md) | video, film, rendering, motion, skill | [@CreativeAiNinja](https://x.com/CreativeAiNinja/status/2119871501331579179) | 2026-11-10 |
+| [claude-code-templates（组件注册表 + CLI）](entries/claude-code-templates.md) | skill-pack, registry, cli, claude-code | [@imryven](https://x.com/imryven/status/2119782191676723221) | 2026-11-10 |
+| [idea-generation（Anthropic 金融选股思路）](entries/anthropic-idea-generation.md) | finance, investing, screening, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2119785822472003892) | 2026-11-10 |
+| [tethertrace（真机 Android 测试）](entries/tethertrace.md) | testing, android, mcp, qa, skill | [@Keshurai25](https://x.com/Keshurai25/status/2119770821866717198) | 2026-11-10 |
+| [Kubai Icons（统一画风动态图标）](entries/kubai-icons.md) | design, icons, svg, animation, skill | [@xqliu](https://x.com/xqliu/status/2119757644214997252) | 2026-11-09 |
+| [Awesome Design Skills（67 套设计系统）](entries/awesome-design-skills.md) | design, design-system, skill-pack, tokens, a11y | [@Elara200410](https://x.com/Elara200410/status/2119763751180087617) | 2026-11-09 |
+| [campus-recruiting-skill（秋招求职助手）](entries/campus-recruiting-skill.md) | career, campus-recruiting, resume, interview, chinese | [@Kornvia](https://x.com/Kornvia/status/2119751558380339352) | 2026-11-09 |
+| [Webcrawl Anything（本地抓取技能包）](entries/webcrawl-anything.md) | scraping, crawl, skill-pack, cli, mcp | [@ai_fengshou](https://x.com/ai_fengshou/status/2119722160604529060) | 2026-11-09 |
+| [us-watchlist-alerts（美股观察名单提醒）](entries/us-watchlist-alerts.md) | finance, investing, alerts, skill-pack | [@huangcheng943](https://x.com/huangcheng943/status/2119739293589774716) | 2026-11-09 |
+| [GIF 工厂（gif-factory）](entries/gif-factory.md) | sticker, gif, pixel, illustration, brand-film, skill | [@ganfanren_ai](https://x.com/ganfanren_ai/status/2119633063902880065) | 2026-11-09 |
+| [huashu-motion（可指着改的产品发布片）](entries/huashu-motion.md) | video, launch-video, motion, composition, skill | [@zg0820](https://x.com/zg0820/status/2119626510005162204) | 2026-11-09 |
+| [BLA / Blind LLM Agents](entries/bla-blind-llm-agents.md) | security, anti-reverse-engineering, mcp, hardening, skill | [@zg0820](https://x.com/zg0820/status/2119625103361380462) | 2026-11-09 |
+| [image-to-sculpt（按图度量的 3D 雕刻）](entries/image-to-sculpt.md) | 3d, sculpting, blender, image-to-3d, skill | [@oaichu95](https://x.com/oaichu95/status/2119626742243504340) | 2026-11-09 |
+| [ljg-skills（李继刚原子技能集）](entries/ljg-skills.md) | skill-pack, thinking, writing, education, chinese | [@TammyBuilds](https://x.com/TammyBuilds/status/2119525126186111214) | 2026-11-09 |
+| [GordenPPTSkill（中文模板填字 PPT）](entries/gorden-ppt-skill.md) | slides, pptx, templates, chinese | [@zg0820](https://x.com/zg0820/status/2119581853988598047) | 2026-11-09 |
+| [FlyAI（飞猪官方旅行搜索）](entries/flyai-skill.md) | travel, fliggy, official, search | [@Lumizqj1](https://x.com/Lumizqj1/status/2119514290763727237) | 2026-11-09 |
+| [Compose Skill（Jetpack Compose 七件套）](entries/compose-skill.md) | android, compose, kotlin, multiplatform, skill-pack | [@BIGBULLapp](https://x.com/BIGBULLapp/status/2119564545387577594) | 2026-11-09 |
+| [WilmAI（芬兰 Wilma 家校技能）](entries/wilmai.md) | education, school, finland, mcp, grok-bot | [@DanKornas](https://x.com/DanKornas/status/2119579725857227013) | 2026-11-09 |
+| [Jane Street Socratic Tutor（官方）](entries/janestreet-agent-skills.md) | official, education, socratic, tutoring, skill-pack | [@RoundtableSpace](https://x.com/RoundtableSpace/status/2119380660288999692) | 2026-11-08 |
+| [书脉（weread-atlas）](entries/weread-atlas.md) | reading, weread, obsidian, knowledge-map, chinese | [@Charles77xixi](https://x.com/Charles77xixi/status/2119002644002058546) | 2026-11-08 |
+| [tinker-ai-skill（用自己的会话微调）](entries/tinker-ai-skill.md) | fine-tuning, tinker, claude-code, local-model | [@LiuweijiaVip](https://x.com/LiuweijiaVip/status/2119371366889849167) | 2026-11-08 |
+| [/optimize（31 项性能体检）](entries/optimize-skill.md) | performance, frontend, database, audit, grok-bot | [@sebbsssss](https://x.com/sebbsssss/status/2119358044060762414) | 2026-11-08 |
 | [Marketing Skills（coreyhaines31）](entries/marketingskills.md) | skill-pack, marketing, cro, seo, copywriting, growth | [@GeorgeGeogiadis](https://x.com/GeorgeGeogiadis/status/2118673825852244011) | 2026-11-06 |
 | [marketing-skill-hub（海外营销）](entries/marketing-skill-hub.md) | skill-pack, marketing, ads, ugc, chinese, overseas | [@ganfanren_ai](https://x.com/ganfanren_ai/status/2118597585799889116) | 2026-11-06 |
 | [Swarm Cursors / reveal-cursors](entries/reveal-cursors.md) | frontend, motion, landing-page, ui | [@hrstwt](https://x.com/hrstwt/status/2118646279068881088) | 2026-11-06 |

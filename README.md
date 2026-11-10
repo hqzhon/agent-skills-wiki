@@ -5,7 +5,7 @@
 
 > 不是 awesome 列表堆砌——每条都过质量关：有场景、有步骤、有可验证材料。
 
-**[→ 打开完整目录 Catalog（208 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
+**[→ 打开完整目录 Catalog（230 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
 
 每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
 
@@ -47,8 +47,11 @@
 - [ElevenLabs Skills（官方）](wiki/entries/elevenlabs-skills.md) — 语音 / 实时音频
 - [Anthropic Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) — Cowork 角色技能包
 - [Microsoft SkillOpt](wiki/entries/microsoft-skillopt.md) — 训 Skill.md、不动权重
-- [PixiJS Skills（官方）](wiki/entries/pixijs-skills.md) · [Android Official Skills](wiki/entries/android-official-skills.md)
+- [PixiJS Skills（官方）](wiki/entries/pixijs-skills.md) · [Android Official Skills](wiki/entries/android-official-skills.md) · [Compose Skill（Jetpack Compose 七件套）](wiki/entries/compose-skill.md)
 - [Tailscale Skill（官方）](wiki/entries/tailscale-skill.md) — networking / tsnet / k8s
+- [Jane Street Socratic Tutor（官方）](wiki/entries/janestreet-agent-skills.md) — 苏格拉底式家教：诊断、0–5 技能图、间隔复习
+- [FlyAI（飞猪官方旅行搜索）](wiki/entries/flyai-skill.md) — 自然语言查机票/酒店/火车，结构化可预订结果
+- [campus-recruiting-skill](wiki/entries/campus-recruiting-skill.md) — 中国非技术岗校招：核岗/简历/面试/Offer（不代投）
 
 ### 设计 / UI / 品味
 - [sepia（去 AI 味写作）](wiki/entries/sepia.md) — 叙事架构层去 AI 味
@@ -64,6 +67,9 @@
 - [design-apps-with-imagegen（swyx）](wiki/entries/design-apps-with-imagegen.md) — 图像探索 → 真实现产品
 - [garden-skills（ConardLi）](wiki/entries/garden-skills.md) — 网页设计 / RAG / 生图 / 动效小花园
 - [萝卜 PPT](wiki/entries/luobo-ppt.md) — 生成 / 照参考图美化原生可编辑 PPTX
+- [GordenPPTSkill](wiki/entries/gorden-ppt-skill.md) — 中文商务模板 + 只改文字（非商业许可）
+- [Kubai Icons](wiki/entries/kubai-icons.md) — 统一画风动态/静态功能图标 skill + 2600+ 开源图标
+- [Awesome Design Skills](wiki/entries/awesome-design-skills.md) — 67 套设计系统 SKILL.md + DESIGN.md（npx 拉取）
 - [Stageshow](wiki/entries/stageshow.md) — 像真产品的假 UI 插画 / 光标演示
 - [stack-diagram](wiki/entries/stack-diagram.md) · [svg-diagram](wiki/entries/svg-diagram.md) — 架构图 / SVG 图解（带 lint 自检）
 - [Floorplan](wiki/entries/floorplan.md) — 从真实代码画出大白话交互地图
@@ -72,6 +78,7 @@
 - [gstack（Garry Tan）](wiki/entries/gstack.md) — review / QA / shipping
 - [pstack `/statechart`](wiki/entries/pstack-statechart.md) — TLA+ 状态图找 bug
 - [next-bundle-optimizer](wiki/entries/next-bundle-optimizer.md) — Next.js 官方捆包优化
+- [Webcrawl Anything](wiki/entries/webcrawl-anything.md) — 本地免 Key 抓取 / 8 个 agent skills + CLI/MCP
 - [Graphify](wiki/entries/graphify.md) — 本地 AST 知识图谱 CLI
 - [skill-diet](wiki/entries/skill-diet.md) — 给臃肿 Skill 减重（token ↓）
 - [better-skill](wiki/entries/better-skill.md) — 技能体检 / 打分 / 选型标准
@@ -84,6 +91,8 @@
 - [Anthropic-Cybersecurity-Skills](wiki/entries/anthropic-cybersecurity-skills.md) — 817 安全技能包（授权场景）
 - [AI Research Skills Library](wiki/entries/ai-research-skills.md) — 98 个 AI 研究工程技能（训练 → 论文）
 - [commerce-agent-skills](wiki/entries/commerce-agent-skills.md) — 29 个电商技能，带评测 fixtures
+- [tinker-ai-skill](wiki/entries/tinker-ai-skill.md) — 用自己的 Claude Code/Codex 会话在 Tinker 上微调并导出本机 GGUF
+- [/optimize](wiki/entries/optimize-skill.md) — 31 项性能体检：先测量、安全修复、再对比
 
 ### 营销 / 增长
 - [Marketing Skills（coreyhaines31）](wiki/entries/marketingskills.md) — CRO / 文案 / SEO / 客户研究 (~58.8k★)
@@ -91,6 +100,8 @@
 - [Apify Agent Skills](wiki/entries/apify-agent-skills.md) — 官方抓取 / Actor 技能
 
 ### 视频 / 成片
+- [huashu-motion](wiki/entries/huashu-motion.md) — 可指着画面局部改的产品发布片（本机作曲）
+- [GIF 工厂（gif-factory）](wiki/entries/gif-factory.md) — 像素/插画/真人表情包与动态海报技能
 - [video-use（browser-use）](wiki/entries/video-use.md) — 对话式剪辑口播/教程毛片
 - [rea-video](wiki/entries/rea-video.md) — 任意视频逐镜逆向拆解
 - [Scenario Labs Skills](wiki/entries/scenario-labs-skills.md) — 图片/视频/音频/3D + 本机 DCC 技能包
@@ -104,6 +115,7 @@
 - [onetake](wiki/entries/onetake.md) — 一镜到底发布片 / 功能演示，带连贯性评分（非商业许可）
 - [Spotlight Film](wiki/entries/spotlight-film.md) — Apple 发布会风格产品片，代码逐帧渲染
 - [Open 3D Skills](wiki/entries/open-3d-skills.md) — three.js 场景 / 滚动影片 / 爆炸图 / 60fps 录制 8 件套
+- [image-to-sculpt](wiki/entries/image-to-sculpt.md) — 一张图 → 可对图度量的 Blender 雕刻技能
 - [story-to-handdrawn-video](wiki/entries/story-to-handdrawn-video.md) — 中文故事 → 3:4 手绘动画
 - [Bang Motion](wiki/entries/bang-motion.md) — 浏览器动效成片（非 PPT）
 - [match-cut](wiki/entries/match-cut.md) — 接力匹配剪辑宣传片
@@ -113,7 +125,11 @@
 
 ### 知识库 / 科学 / 其他高信号
 - [fundraising](wiki/entries/fundraising-skill.md) — 融资 / LP / M&A 操盘护栏
+- [BLA / Blind LLM Agents](wiki/entries/bla-blind-llm-agents.md) — Counter-REA 加固 skill + MCP/CLI（防御自有产物）
 - [ghidra-rpc](wiki/entries/ghidra-rpc.md) — Cellebrite Labs 出品，agent 驱动 Ghidra 做二进制逆向
+- [ljg-skills（李继刚）](wiki/entries/ljg-skills.md) — 26 个原子思考/写作/铸卡技能（MIT，约 7719★）
+- [书脉（weread-atlas）](wiki/entries/weread-atlas.md) — 微信读书划线 → Obsidian 主题卡片 + 知识环地图
+- [WilmAI](wiki/entries/wilmai.md) — 芬兰学校系统 Wilma：MCP + CLI + 家校晨报 skill
 - [Obsidian Skills (kepano)](wiki/entries/obsidian-skills.md)
 - [md2html](wiki/entries/md2html.md) — AI 长文档 → 带目录和图表的单文件 HTML
 - [NVIDIA BioNeMo Agent Toolkit](wiki/entries/bionemo-agent-toolkit.md)

@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-10T08:14:00+08:00",
-  "last_since_id": "2119946017365971035",
+  "last_scan_at": "2026-11-10T14:11:00+08:00",
+  "last_since_id": "2120034878829851115",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2119763751180087617 (~12h overnight). EN/ZH/library. 4 accepted (cinecode, claude-code-templates, anthropic-idea-generation, tethertrace). Skipped socratic-tutor/kubai/anthropics-skills repeats, TermiX ads, xrpl trading skill, AutoHarness/Harness2 (no repo link yet), Quark e-commerce pack."
+  "last_result": "Scan after 2119946017365971035 (~6h). EN/ZH/library. 4 accepted (translate-book, ip-as-logo, opc-skills, ste80-humanizer). Skipped socratic-tutor/anthropics-skills/marketingskills repeats, TermiX spam, papers, Web3 promo. Watch: Google Workspace Skills, learn-from-materials (no repo)."
 }

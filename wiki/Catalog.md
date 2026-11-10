@@ -4,6 +4,10 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [translate-book（整书并行翻译）](entries/translate-book.md) | translation, books, epub, subagents, skill | [@laogeai](https://x.com/laogeai/status/2119975191636054287) | 2026-11-10 |
+| [ip-as-logo（极简 IP 吉祥物 Logo）](entries/ip-as-logo.md) | design, logo, mascot, image-gen, skill | [@laogeai](https://x.com/laogeai/status/2120030300403278044) | 2026-11-10 |
+| [OPC Skills（一人公司技能包）](entries/opc-skills.md) | skill-pack, indie-hacker, seo, marketing | [@facaishijia](https://x.com/facaishijia/status/2119953685954334999) | 2026-11-10 |
+| [ste80-humanizer（去 AI 味 + STE）](entries/ste80-humanizer.md) | writing, humanizer, docs, skill | [@Wangmiansg](https://x.com/Wangmiansg/status/2120015494396924150) | 2026-11-10 |
 | [cinecode（用代码拍短片）](entries/cinecode.md) | video, film, rendering, motion, skill | [@CreativeAiNinja](https://x.com/CreativeAiNinja/status/2119871501331579179) | 2026-11-10 |
 | [claude-code-templates（组件注册表 + CLI）](entries/claude-code-templates.md) | skill-pack, registry, cli, claude-code | [@imryven](https://x.com/imryven/status/2119782191676723221) | 2026-11-10 |
 | [idea-generation（Anthropic 金融选股思路）](entries/anthropic-idea-generation.md) | finance, investing, screening, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2119785822472003892) | 2026-11-10 |

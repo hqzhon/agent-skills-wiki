@@ -4,6 +4,18 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [stage-by-stage（分阶段交付、确认后再继续）](entries/stage-by-stage.md) | workflow, collaboration, human-in-the-loop, skill | [@Brenda_THROVIA](https://x.com/Brenda_THROVIA/status/2120455112338583654) | 2026-11-11 |
+| [lbo-model（Anthropic 官方 LBO 建模）](entries/anthropic-lbo-model.md) | finance, private-equity, excel, official | [@huangcheng943](https://x.com/huangcheng943/status/2120465417500287166) | 2026-11-11 |
+| [Modern Web Guidance（Chrome/Edge/Firefox/MDN 官方）](entries/modern-web-guidance.md) | web, frontend, official, browser-compat, skill-pack | [@usuperman2017](https://x.com/usuperman2017/status/2120387385963995566) | 2026-11-11 |
+| [improve（shadcn，审计 + 写计划）](entries/shadcn-improve.md) | code-audit, planning, refactor, multi-model, skill | [@wy_ones](https://x.com/wy_ones/status/2120395449622503895) | 2026-11-11 |
+| [大师.skill（行业蒸馏成 skill）](entries/master-skill.md) | skill-authoring, research, industry, chinese | [@Blackmambaer](https://x.com/Blackmambaer/status/2120390876778361076) | 2026-11-11 |
+| [.NET Agent Skills（官方，带评测看板）](entries/dotnet-skills.md) | dotnet, csharp, official, skill-pack, evals | [@1kevgriff](https://x.com/1kevgriff/status/2120197548006887443) | 2026-11-11 |
+| [last30days（近 30 天全网讨论调研）](entries/last30days-skill.md) | research, trends, reddit, x, skill | [@Gerry1723625](https://x.com/Gerry1723625/status/2120168164541809144) | 2026-11-11 |
+| [Meteor Agent Skills（官方）](entries/meteor-agent-skills.md) | meteor, javascript, official, skill-pack | [@meteorjs](https://x.com/meteorjs/status/2120194293113688567) | 2026-11-11 |
+| [SkillHub（讯飞企业级 skill 注册中心）](entries/iflytek-skillhub.md) | registry, enterprise, self-hosted, skill-infra | [@xiaoanlab](https://x.com/xiaoanlab/status/2120178360240496940) | 2026-11-11 |
+| [Humanizer（blader，去 AI 写作痕迹）](entries/humanizer.md) | writing, humanizer, editing, english, skill | [@cryptofz66](https://x.com/cryptofz66/status/2120038004303778242) | 2026-11-10 |
+| [gzh-design-skill（公众号 Markdown 排版）](entries/gzh-design-skill.md) | writing, wechat, layout, html, chinese | [@laogeai](https://x.com/laogeai/status/2120095751707775212) | 2026-11-10 |
+| [yomiyasu（日语去 AI 味推敲）](entries/yomiyasu.md) | writing, humanizer, japanese, editing, skill | [@laogeai](https://x.com/laogeai/status/2120037836842000573) | 2026-11-10 |
 | [translate-book（整书并行翻译）](entries/translate-book.md) | translation, books, epub, subagents, skill | [@laogeai](https://x.com/laogeai/status/2119975191636054287) | 2026-11-10 |
 | [ip-as-logo（极简 IP 吉祥物 Logo）](entries/ip-as-logo.md) | design, logo, mascot, image-gen, skill | [@laogeai](https://x.com/laogeai/status/2120030300403278044) | 2026-11-10 |
 | [OPC Skills（一人公司技能包）](entries/opc-skills.md) | skill-pack, indie-hacker, seo, marketing | [@facaishijia](https://x.com/facaishijia/status/2119953685954334999) | 2026-11-10 |

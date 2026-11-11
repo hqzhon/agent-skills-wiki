@@ -1,0 +1,37 @@
+name: "➕ Submit a skill / 推荐 skill"
+description: Suggest an agent skill (SKILL.md, skill pack, or plugin) for the wiki
+title: "[Skill] "
+labels: ["skill-submission"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repo or link / 仓库或链接
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original post (optional) / 原帖（可选）
+      placeholder: https://x.com/...
+  - type: textarea
+    id: when
+    attributes:
+      label: When should an agent use it? / 什么场景用？
+    validations:
+      required: true
+  - type: textarea
+    id: install
+    attributes:
+      label: How to install / 安装方式
+      placeholder: npx skills add owner/repo
+  - type: checkboxes
+    id: bar
+    attributes:
+      label: Quality bar / 收录标准（至少两项）
+      options:
+        - label: Concrete recipe (steps / checklist / SKILL.md)
+        - label: Clear use case
+        - label: Verifiable material (repo / gist / long post)
+        - label: Community signal (stars, real usage)

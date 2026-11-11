@@ -1,39 +1,94 @@
-# Agent Skills Wiki
+<!--
+  Routine note: when new entries are added, update (1) the entry count in the badge and in "完整目录 Catalog（N 条）",
+  (2) the "## 精选（按主题）· Picks by topic" bullets. Keep everything else as-is.
+-->
+<p align="center">
+  <img src="assets/social-preview.png" alt="Agent Skills Wiki — hand-picked, installable agent skills mined from X" width="100%">
+</p>
 
-**从 X 持续挖掘、人工筛过的高信号 Agent Skills 百科**  
-*Curated, installable skills for Cursor · Claude Code · Codex · Grok Bot*
+<h1 align="center">Agent Skills Wiki</h1>
 
-> 不是 awesome 列表堆砌——每条都过质量关：有场景、有步骤、有可验证材料。
+<p align="center">
+  <b>Hand-picked, installable agent skills (<code>SKILL.md</code>) for Claude Code, Codex, Cursor, Gemini CLI & more —<br>found on X within hours of launch, including the Chinese creator scene most English lists miss.</b><br>
+  从 X 实时挖掘、人工筛过的 Agent Skills 百科：每条都有「何时用 / 怎么装 / 原帖出处 / 为何收录」。
+</p>
 
-**[→ 打开完整目录 Catalog（246 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)**
+<p align="center">
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-246-2ea44f?style=flat-square" alt="Skills count"></a>
+  <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
+  <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey?style=flat-square" alt="CC BY 4.0"></a>
+  <a href="https://github.com/hqzhon/agent-skills-wiki/stargazers"><img src="https://img.shields.io/github/stars/hqzhon/agent-skills-wiki?style=flat-square" alt="Stars"></a>
+</p>
 
-每天 8:00 · 14:00 · 20:00 增量扫描（Asia/Shanghai）· 持续更新中 · [CC BY 4.0](LICENSE)
+<p align="center">
+  <a href="wiki/Catalog.md"><b>📚 Full Catalog</b></a> ·
+  <a href="wiki/digests/"><b>🆕 Latest finds</b></a> ·
+  <a href="#-top-picks"><b>⭐ Top picks</b></a> ·
+  <a href="#-quick-start"><b>🚀 Quick start</b></a> ·
+  <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
+</p>
+
+**[→ 打开完整目录 Catalog（246 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
-## 从这里开始
+## Why this list / 为什么值得 Star
 
-| 你想… | 去哪 |
+| | |
 | --- | --- |
-| 浏览全部技能 | **[wiki/Catalog.md](wiki/Catalog.md)** ← 主入口 |
-| 看刚扫到了什么 | [wiki/digests/](wiki/digests/) |
-| 读单条详情 | [wiki/entries/](wiki/entries/) |
-| 了解收录标准 | [wiki/Home.md](wiki/Home.md) · 下方「什么叫好 skill」 |
+| 🕒 **Fresh** | Scanned from X three times a day. New skills land here hours after their author tweets them — not weeks later. <br>每天 3 次扫 X，作者发帖几小时内收录。 |
+| ✅ **Curated, not dumped** | Each entry passes a quality bar: a real use case, concrete steps or a `SKILL.md`, and something verifiable (repo / gist). Ads and hype are skipped. <br>只收可复用配方，广告和空喊一律跳过。 |
+| 🔗 **Traceable** | Every entry links to the original post **and** the upstream repo, with install commands. <br>每条链回原帖 + 上游仓库 + 安装命令。 |
+| 🌏 **EN + 中文** | Covers both the English and the Chinese AI-builder scene (李继刚, 宝玉, 花叔, 公众号/小红书 tooling…). <br>中英文创作者一起覆盖，很多中文好 skill 英文列表里没有。 |
 
-每条 entry 包含：何时用、做什么、安装/仓库链接、原始推文、为何收录。
-
----
-
-## 为什么值得收藏
-
-- **只收可复用配方**：广告帖、空喊、无可执行内容一律跳过
-- **来源可追溯**：每条链回 X 原帖 + 上游仓库 / `SKILL.md`
-- **面向多 agent**：Cursor / Claude Code / Codex / Grok Bot 等都能用
-- **活着的 wiki**：白天约每 6 小时扫一次 X（8:00 / 14:00 / 20:00），过线写入 Catalog，不是一次性 dump
+**If this saves you time, a ⭐ helps others find it.** 觉得有用就点个 Star，让更多人看到。
 
 ---
 
-## 精选（按主题）
+## 🚀 Quick start
+
+1. Pick a skill from the **[Catalog](wiki/Catalog.md)** or the tables below. Each entry page has *When to use · What it does · Install · Why it made the cut*.
+2. Install it. Most skill repos work with the open [`skills` CLI](https://github.com/vercel-labs/skills):
+   ```bash
+   npx skills add <owner>/<repo>          # e.g. npx skills add blader/humanizer
+   ```
+   Or copy the skill folder (the one containing `SKILL.md`) into your agent's skills directory, e.g. `~/.claude/skills/` (Claude Code) or `~/.codex/skills/` (Codex). Repos that ship a Claude Code plugin can also be added with `/plugin marketplace add <owner>/<repo>`. The entry page lists the exact command when the upstream repo documents one.
+3. Ask your agent to do the task — the skill loads when its description matches.
+
+> 中文：在 Catalog 里挑一条 → 照条目页的安装命令装上（多数可 `npx skills add 作者/仓库`）→ 直接让 agent 干活即可。
+
+---
+
+## ⭐ Top picks
+
+Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star 排序的高信号精选。
+
+| Skill | Repo | ★ | What it does |
+| --- | --- | --- | --- |
+| [Matt Pocock Skills](wiki/entries/mattpocock-skills.md) | [mattpocock/skills](https://github.com/mattpocock/skills) | 321k | Small, composable "skills for real engineers" |
+| [Superpowers](wiki/entries/superpowers.md) | [obra/superpowers](https://github.com/obra/superpowers) | 316k | Brainstorm → plan → TDD delivery workflow |
+| [UI UX Pro Max](wiki/entries/ui-ux-pro-max.md) | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 148k | Design-system intelligence for UI work |
+| [gstack](wiki/entries/gstack.md) | [garrytan/gstack](https://github.com/garrytan/gstack) | 141k | Garry Tan's review / QA / shipping stack |
+| [Addy Osmani Agent Skills](wiki/entries/addyosmani-agent-skills.md) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 116k | Engineering-lifecycle skill pack |
+| [Taste Skill](wiki/entries/taste-skill.md) | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 113k | Art direction for non-generic frontends |
+| [Impeccable](wiki/entries/impeccable.md) | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 108k | Frontend design vocabulary for agents |
+| [Humanizer](wiki/entries/humanizer.md) | [blader/humanizer](https://github.com/blader/humanizer) | 68k | Remove 26 patterns of AI-sounding writing |
+| [last30days](wiki/entries/last30days-skill.md) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 67k | Research what Reddit / X / HN said in the last 30 days |
+| [Marketing Skills](wiki/entries/marketingskills.md) | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 60k | CRO, copywriting, SEO, customer research |
+| [Obsidian Skills](wiki/entries/obsidian-skills.md) | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 52k | Work inside Obsidian vaults (Markdown, Bases, Canvas) |
+| [Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 35k | Anthropic's role-based skill plugins |
+| [video-use](wiki/entries/video-use.md) | [browser-use/video-use](https://github.com/browser-use/video-use) | 31k | Edit talking-head footage by chatting |
+| [improve](wiki/entries/shadcn-improve.md) | [shadcn/improve](https://github.com/shadcn/improve) | 10k | Strong model audits & plans, cheap model executes |
+| [ljg-skills（李继刚）](wiki/entries/ljg-skills.md) | [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) | 7.7k | 26 atomic thinking / writing skills (中文) |
+| [.NET Agent Skills](wiki/entries/dotnet-skills.md) | [dotnet/skills](https://github.com/dotnet/skills) | 5.9k | Official C# / MSBuild / NuGet skills with public evals |
+| [gzh-design-skill](wiki/entries/gzh-design-skill.md) | [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) | 4.3k | Markdown → WeChat 公众号-ready HTML (中文) |
+| [Modern Web Guidance](wiki/entries/modern-web-guidance.md) | [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | 4.0k | Chrome + Edge + Firefox + MDN: use modern web APIs |
+
+---
+
+## 精选（按主题）· Picks by topic
 
 > 以下为 Catalog 中近期高信号 / 官方包摘录。完整列表 → **[Catalog](wiki/Catalog.md)**
 
@@ -147,43 +202,48 @@
 
 ---
 
-## 什么叫「好 skill」
+## What counts as a good skill / 什么叫「好 skill」
 
-这里的 skill = agent 可加载的多步配方：有明确「何时用」、具体步骤，最好有可分享的 `SKILL.md` / 仓库。
+A skill here = a multi-step recipe an agent can load: clear *when to use*, concrete steps, ideally a shareable `SKILL.md` / repo. An entry usually meets at least two of:
 
-**通常至少满足两条才收录：**
+1. **Concrete recipe** — steps / checklist / `SKILL.md`（具体配方）
+2. **Clear use case**（清晰使用场景）
+3. **Verifiable material** — repo, gist, long post（可验证材料）
+4. **Community signal** — a bonus, never the only reason（社区信号，加分项）
 
-1. 具体配方（步骤 / checklist / `SKILL.md`）
-2. 清晰使用场景
-3. 可验证材料（仓库、gist、长帖）
-4. 社区信号（加分项，不单独决定）
-
-跳过广告、空喊、无可执行内容的帖子。细节见 [wiki/Home.md](wiki/Home.md)。
+Details: [wiki/Home.md](wiki/Home.md).
 
 ---
 
-## 扫描与贡献
+## ➕ Submit a skill / 推荐一个 skill
+
+Found (or built) a great skill? **[Open a "Submit a skill" issue](https://github.com/hqzhon/agent-skills-wiki/issues/new?template=submit-skill.yml)** or send a PR — see [CONTRIBUTING.md](CONTRIBUTING.md). Corrections and better install notes are just as welcome.
+
+发现或自己做了好 skill？欢迎 [提 Issue](https://github.com/hqzhon/agent-skills-wiki/issues/new?template=submit-skill.yml) 或 PR，纠错、补安装说明也欢迎。
+
+---
+
+## Repo layout / 仓库结构
 
 ```
 wiki/
-  Catalog.md    # 全量索引 ← 主入口
-  entries/      # 每个 skill 一篇
-  digests/      # 扫描摘要
-  Home.md       # 收录标准
+  Catalog.md    # full index, newest first ← start here
+  entries/      # one page per skill
+  digests/      # what each scan found
+  Home.md       # inclusion criteria
 meta/
   last-scan.json
 ```
 
-约每 6 小时扫描 X（Asia/Shanghai 白天 8:00 / 14:00 / 20:00）。新发现先进入 digest，过线后写入 `wiki/entries/` 并更新 Catalog。
+## Star history
 
-欢迎 PR：补条目、纠错、补安装说明。提 PR 前请对照上方质量关。
+[![Star History Chart](https://api.star-history.com/svg?repos=hqzhon/agent-skills-wiki&type=Date)](https://star-history.com/#hqzhon/agent-skills-wiki&Date)
 
----
+## Related / 相关
 
-## 相关
-
-- [一人公司机会 Wiki](https://github.com/hqzhon/opc-opportunity-wiki) — 跨境 / SaaS 一人公司机会清单
+- [OPC Opportunity Wiki](https://github.com/hqzhon/opc-opportunity-wiki) — one-person-company opportunities（一人公司机会清单）
 
 ## License
 
-本仓库内容采用 [CC BY 4.0](LICENSE)。被引用的推文与上游仓库版权归原作者。
+Content is licensed under [CC BY 4.0](LICENSE) — credit "Agent Skills Wiki" with a link to this repo. Quoted posts and upstream repositories remain the property of their authors.
+本仓库内容采用 CC BY 4.0；被引用的推文与上游仓库版权归原作者。

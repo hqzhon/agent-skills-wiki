@@ -4,6 +4,9 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [SwiftUI Pro（Paul Hudson）](entries/swiftui-pro.md) | swift, swiftui, ios, code-review | [@lovethelife2333](https://x.com/lovethelife2333/status/2120830896001400998) | 2026-11-12 |
+| [khazix-skills（数字生命卡兹克）](entries/khazix-skills.md) | skill-pack, chinese, writing, research | [@laogeai](https://x.com/laogeai/status/2120839297473679678) | 2026-11-12 |
+| [mstack（Claude Code + Codex 工程包）](entries/mstack.md) | engineering, spec, tdd, debugging, plugin | [@mauroubeda](https://x.com/mauroubeda/status/2120852746236780810) | 2026-11-12 |
 | [Elephant-Goldfish Model（Google，起草 + 无记忆评审）](entries/elephant-goldfish-model.md) | design-review, spec, subagents, official, plugin | [@buzhimingyanyua](https://x.com/buzhimingyanyua/status/2120742552274100679) | 2026-11-12 |
 | [aig-skill-scan（腾讯 A.I.G，Skill 安全审计）](entries/aig-skill-scan.md) | security, skill-safety, scanning, sarif | [@justforfunnai](https://x.com/justforfunnai/status/2120720749459870141) | 2026-11-12 |
 | [stage-by-stage（分阶段交付、确认后再继续）](entries/stage-by-stage.md) | workflow, collaboration, human-in-the-loop, skill | [@Brenda_THROVIA](https://x.com/Brenda_THROVIA/status/2120455112338583654) | 2026-11-11 |

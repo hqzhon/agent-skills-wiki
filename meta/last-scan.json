@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-12T14:20:00+08:00",
-  "last_since_id": "2120757146304614871",
+  "last_scan_at": "2026-11-12T20:15:00+08:00",
+  "last_since_id": "2120852746236780810",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2120671239907717374 (~6h). EN/ZH/library, 53 new ids. 2 accepted: elephant-goldfish-model (Google, ~17.7k★), aig-skill-scan (Tencent AI-Infra-Guard). Repeats skipped (improve, modern-web-guidance, addyosmani, pocock, SkillSpector, lieflat-gongwen, ub-mode). Watch: Gemini Workspace SKILL.md, Peepables, Right Size Agent Orchestration, first-principles-tutor."
+  "last_result": "Scan after 2120757146304614871 (~6h). EN/ZH/library, 57 ids. 3 accepted: swiftui-pro (twostraws ~6.5k★), khazix-skills (~22k★), mstack (new, low signal). Repeats skipped (addyosmani, pocock, improve, modern-web-guidance, jane street, autoresearch, cloudflare). Watch: Lookbk, 44-skill product pipeline (@xqliu), rea-video VIDEO.md, gh skill preview."
 }

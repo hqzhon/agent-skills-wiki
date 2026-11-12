@@ -4,6 +4,8 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Elephant-Goldfish Model（Google，起草 + 无记忆评审）](entries/elephant-goldfish-model.md) | design-review, spec, subagents, official, plugin | [@buzhimingyanyua](https://x.com/buzhimingyanyua/status/2120742552274100679) | 2026-11-12 |
+| [aig-skill-scan（腾讯 A.I.G，Skill 安全审计）](entries/aig-skill-scan.md) | security, skill-safety, scanning, sarif | [@justforfunnai](https://x.com/justforfunnai/status/2120720749459870141) | 2026-11-12 |
 | [stage-by-stage（分阶段交付、确认后再继续）](entries/stage-by-stage.md) | workflow, collaboration, human-in-the-loop, skill | [@Brenda_THROVIA](https://x.com/Brenda_THROVIA/status/2120455112338583654) | 2026-11-11 |
 | [lbo-model（Anthropic 官方 LBO 建模）](entries/anthropic-lbo-model.md) | finance, private-equity, excel, official | [@huangcheng943](https://x.com/huangcheng943/status/2120465417500287166) | 2026-11-11 |
 | [Modern Web Guidance（Chrome/Edge/Firefox/MDN 官方）](entries/modern-web-guidance.md) | web, frontend, official, browser-compat, skill-pack | [@usuperman2017](https://x.com/usuperman2017/status/2120387385963995566) | 2026-11-11 |

@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-12T20:15:00+08:00",
-  "last_since_id": "2120852746236780810",
+  "last_scan_at": "2026-11-13T08:10:00+08:00",
+  "last_since_id": "2121029995732615439",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2120757146304614871 (~6h). EN/ZH/library, 57 ids. 3 accepted: swiftui-pro (twostraws ~6.5k★), khazix-skills (~22k★), mstack (new, low signal). Repeats skipped (addyosmani, pocock, improve, modern-web-guidance, jane street, autoresearch, cloudflare). Watch: Lookbk, 44-skill product pipeline (@xqliu), rea-video VIDEO.md, gh skill preview."
+  "last_result": "Scan after 2120852746236780810 (~12h). EN/ZH/library + github-link query, 81 ids. 3 accepted: nvidia-skillevaluator (official, ~860★), minimax-h3-image-prompt-writing (official), microsoft-apm (~4.3k★). Repeats skipped (addyosmani, janestreet, improve, youtube-agent-skill, stack-diagram, answer-me-with-html, humanizer). Low-signal new repos skipped: investigate-and-fact-check, skill-atlas, illustration-art-director, agentic-workflow. Watch: 44-skill product pipeline (@xqliu, no link), Railway use-railway merge."
 }

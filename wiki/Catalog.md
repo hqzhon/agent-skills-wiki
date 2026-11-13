@@ -4,6 +4,9 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [APM — Agent Package Manager（Microsoft）](entries/microsoft-apm.md) | package-manager, skill-infra, lockfile, multi-agent | [@hsianghui](https://x.com/hsianghui/status/2120904514546843714) | 2026-11-13 |
+| [h3-image-prompt-writing（MiniMax 官方）](entries/minimax-h3-image-prompt-writing.md) | image-generation, prompt-writing, minimax, official | [@Lonely__MH](https://x.com/Lonely__MH/status/2120869218602402209) | 2026-11-13 |
+| [SkillEvaluator（NVIDIA 官方，Skill 评测）](entries/nvidia-skillevaluator.md) | evals, skill-quality, security, ci, official | [@Ldataengineer](https://x.com/Ldataengineer/status/2120950470084603993) | 2026-11-13 |
 | [SwiftUI Pro（Paul Hudson）](entries/swiftui-pro.md) | swift, swiftui, ios, code-review | [@lovethelife2333](https://x.com/lovethelife2333/status/2120830896001400998) | 2026-11-12 |
 | [khazix-skills（数字生命卡兹克）](entries/khazix-skills.md) | skill-pack, chinese, writing, research | [@laogeai](https://x.com/laogeai/status/2120839297473679678) | 2026-11-12 |
 | [mstack（Claude Code + Codex 工程包）](entries/mstack.md) | engineering, spec, tdd, debugging, plugin | [@mauroubeda](https://x.com/mauroubeda/status/2120852746236780810) | 2026-11-12 |

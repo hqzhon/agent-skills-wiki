@@ -4,6 +4,8 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Zep Agent Skills（从已验证轨迹编译 SKILL.md）](entries/zep-agent-skills.md) | skill-infra, procedural-memory, trace-to-skill, mcp | [@yibie](https://x.com/yibie/status/2121154006978621742) | 2026-11-13 |
+| [initiating-coverage（Anthropic 官方研报首次覆盖）](entries/anthropic-initiating-coverage.md) | finance, equity-research, report, official | [@huangcheng943](https://x.com/huangcheng943/status/2121188878199701962) | 2026-11-13 |
 | [gemini-frontend-design（Google Gemini 官方）](entries/gemini-frontend-design.md) | frontend, web-design, ui, official | [@GreatCreations_](https://x.com/GreatCreations_/status/2121052386525618230) | 2026-11-13 |
 | [gh — GitHub CLI 官方 Agent Skill](entries/gh-cli-skill.md) | github, cli, gh, official, devtools | [@huangcheng943](https://x.com/huangcheng943/status/2121098893643645182) | 2026-11-13 |
 | [fuck-u-code-analysis（屎山体检 Skill）](entries/fuck-u-code-analysis.md) | code-quality, code-review, static-analysis, tech-debt | [@huangho75845189](https://x.com/huangho75845189/status/2121085800360386987) | 2026-11-13 |

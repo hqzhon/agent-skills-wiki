@@ -4,6 +4,10 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [gemini-frontend-design（Google Gemini 官方）](entries/gemini-frontend-design.md) | frontend, web-design, ui, official | [@GreatCreations_](https://x.com/GreatCreations_/status/2121052386525618230) | 2026-11-13 |
+| [gh — GitHub CLI 官方 Agent Skill](entries/gh-cli-skill.md) | github, cli, gh, official, devtools | [@huangcheng943](https://x.com/huangcheng943/status/2121098893643645182) | 2026-11-13 |
+| [fuck-u-code-analysis（屎山体检 Skill）](entries/fuck-u-code-analysis.md) | code-quality, code-review, static-analysis, tech-debt | [@huangho75845189](https://x.com/huangho75845189/status/2121085800360386987) | 2026-11-13 |
+| [agent-skill-builder（会“失败”的 Skill 生成器）](entries/agent-skill-builder.md) | meta-skill, skill-authoring, validation, claude-code | [@ConorBronsdon](https://x.com/ConorBronsdon/status/2121045408692736007) | 2026-11-13 |
 | [APM — Agent Package Manager（Microsoft）](entries/microsoft-apm.md) | package-manager, skill-infra, lockfile, multi-agent | [@hsianghui](https://x.com/hsianghui/status/2120904514546843714) | 2026-11-13 |
 | [h3-image-prompt-writing（MiniMax 官方）](entries/minimax-h3-image-prompt-writing.md) | image-generation, prompt-writing, minimax, official | [@Lonely__MH](https://x.com/Lonely__MH/status/2120869218602402209) | 2026-11-13 |
 | [SkillEvaluator（NVIDIA 官方，Skill 评测）](entries/nvidia-skillevaluator.md) | evals, skill-quality, security, ci, official | [@Ldataengineer](https://x.com/Ldataengineer/status/2120950470084603993) | 2026-11-13 |

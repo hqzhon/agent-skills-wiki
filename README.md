@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-254-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-258-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（254 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（258 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -93,6 +93,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 > 以下为 Catalog 中近期高信号 / 官方包摘录。完整列表 → **[Catalog](wiki/Catalog.md)**
 
 ### 官方 / 厂商包
+- [gemini-frontend-design（Google 官方）](wiki/entries/gemini-frontend-design.md) — 按主题定制视觉方向、渲染后自检的前端设计 skill
+- [gh（GitHub CLI 官方）](wiki/entries/gh-cli-skill.md) — agent 正确用 `gh`：JSON 输出、分页、`gh api` 兜底
 - [Modern Web Guidance（浏览器厂商官方）](wiki/entries/modern-web-guidance.md) — 让编码 agent 用原生 Web API，附 legacy-scan
 - [improve（shadcn）](wiki/entries/shadcn-improve.md) — 强模型审计写计划、便宜模型执行
 - [.NET Agent Skills（官方）](wiki/entries/dotnet-skills.md) — C# / MSBuild / 升级迁移，附公开评测看板
@@ -139,6 +141,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Floorplan](wiki/entries/floorplan.md) — 从真实代码画出大白话交互地图
 
 ### 工程 / 交付 / Meta
+- [fuck-u-code-analysis](wiki/entries/fuck-u-code-analysis.md) — 提交前跑屎山体检，按 11 项指标给重构建议
 - [gstack（Garry Tan）](wiki/entries/gstack.md) — review / QA / shipping
 - [pstack `/statechart`](wiki/entries/pstack-statechart.md) — TLA+ 状态图找 bug
 - [next-bundle-optimizer](wiki/entries/next-bundle-optimizer.md) — Next.js 官方捆包优化

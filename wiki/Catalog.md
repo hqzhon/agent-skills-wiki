@@ -4,6 +4,10 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [audit-xls（Anthropic 官方表格 / 模型审计）](entries/anthropic-audit-xls.md) | finance, excel, spreadsheet, audit, official | [@huangcheng943](https://x.com/huangcheng943/status/2121461015972093983) | 2026-11-14 |
+| [dcf-model（Anthropic 官方 DCF 估值建模）](entries/anthropic-dcf-model.md) | finance, equity-research, dcf, excel, official | [@huangcheng943](https://x.com/huangcheng943/status/2121415796924862488) | 2026-11-14 |
+| [dream-loop（目标截图闭环做高保真画面）](entries/dream-loop.md) | 3d, games, visuals, image-generation, blender, critic | [@Yashpatil](https://x.com/Yashpatil/status/2121448245427675383) | 2026-11-14 |
+| [Motion Prompt（216 个可点选的动效 / 镜头名词库）](entries/motion-prompt.md) | motion, camera, ui, landing-page, prompt-library, skill | [@zjcpzz](https://x.com/zjcpzz/status/2121415301879459970) | 2026-11-14 |
 | [equity-research（Anthropic × LSEG 股票研究快照）](entries/anthropic-lseg-equity-research.md) | finance, equity-research, official, lseg, mcp | [@huangcheng943](https://x.com/huangcheng943/status/2121236226640617758) | 2026-11-14 |
 | [App Store Connect CLI Skills（asc）](entries/app-store-connect-cli-skills.md) | ios, app-store, testflight, cli, skill-pack | [@hsianghui](https://x.com/hsianghui/status/2121367504605806919) | 2026-11-14 |
 | [Dashi PPT Skill（大师 PPT）](entries/dashi-ppt-skill.md) | slides, pptx, html, themes, chinese | [@openagentskill](https://x.com/openagentskill/status/2121324787633156347) | 2026-11-14 |

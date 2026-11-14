@@ -4,6 +4,15 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Loom Skills（AMD Loom 官方技能包）](entries/loom-skills.md) | official, amd, loom, inference, gpu, skill-pack | [Grok 汇总](https://x.com/grok/status/2121564786424963089) | 2026-11-14 |
+| [ascii-code-art（网页实时 ASCII 动效）](entries/ascii-code-art.md) | frontend, canvas, webgl, ascii, animation, skill | [@efearabaci_dev](https://x.com/efearabaci_dev/status/2121540605469737436) | 2026-11-14 |
+| [vibe-shield（AI 生成代码的静态安全扫描）](entries/vibe-shield.md) | security, appsec, static-analysis, nextjs, mcp, skill | [@FoundryVibe](https://x.com/FoundryVibe/status/2121530062575174091) | 2026-11-14 |
+| [ghost-qa（真浏览器闭环 QA）](entries/ghost-qa.md) | testing, qa, playwright, frontend, a11y, skill | [@FoundryVibe](https://x.com/FoundryVibe/status/2121530062575174091) | 2026-11-14 |
+| [kar-canon（JSON 规范化等价证明）](entries/kar-canon.md) | json, canonicalization, diff, deterministic, skill | [@ainativesol](https://x.com/ainativesol/status/2121524252394537111) | 2026-11-14 |
+| [as-installed（按已安装版本写 API）](entries/as-installed.md) | dependencies, api, hallucination, node, python, skill | [@codewithrashid](https://x.com/codewithrashid/status/2121507011175334228) | 2026-11-14 |
+| [repo-cinema（仓库自动拍成产品演示片）](entries/repo-cinema.md) | video, demo, ffmpeg, chrome-cdp, skill | [@A_Znk_](https://x.com/A_Znk_/status/2121494612749566127) | 2026-11-14 |
+| [ai-writing（先砍篇幅和清晰度，再去 AI 腔）](entries/ai-writing.md) | writing, editing, clarity, anti-slop, skill-pack | [@akalsey](https://x.com/akalsey/status/2121490236937289950) | 2026-11-14 |
+| [skill-sync（一份源，软链到所有 Agent）](entries/skill-sync.md) | skill-infra, sync, cli, multi-agent, symlink | [@VanceXin](https://x.com/VanceXin/status/2121487162692739370) | 2026-11-14 |
 | [audit-xls（Anthropic 官方表格 / 模型审计）](entries/anthropic-audit-xls.md) | finance, excel, spreadsheet, audit, official | [@huangcheng943](https://x.com/huangcheng943/status/2121461015972093983) | 2026-11-14 |
 | [dcf-model（Anthropic 官方 DCF 估值建模）](entries/anthropic-dcf-model.md) | finance, equity-research, dcf, excel, official | [@huangcheng943](https://x.com/huangcheng943/status/2121415796924862488) | 2026-11-14 |
 | [dream-loop（目标截图闭环做高保真画面）](entries/dream-loop.md) | 3d, games, visuals, image-generation, blender, critic | [@Yashpatil](https://x.com/Yashpatil/status/2121448245427675383) | 2026-11-14 |

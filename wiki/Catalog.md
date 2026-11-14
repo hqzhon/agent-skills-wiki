@@ -4,6 +4,12 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [equity-research（Anthropic × LSEG 股票研究快照）](entries/anthropic-lseg-equity-research.md) | finance, equity-research, official, lseg, mcp | [@huangcheng943](https://x.com/huangcheng943/status/2121236226640617758) | 2026-11-14 |
+| [App Store Connect CLI Skills（asc）](entries/app-store-connect-cli-skills.md) | ios, app-store, testflight, cli, skill-pack | [@hsianghui](https://x.com/hsianghui/status/2121367504605806919) | 2026-11-14 |
+| [Dashi PPT Skill（大师 PPT）](entries/dashi-ppt-skill.md) | slides, pptx, html, themes, chinese | [@openagentskill](https://x.com/openagentskill/status/2121324787633156347) | 2026-11-14 |
+| [Holochain Agent Skills](entries/holochain-agent-skills.md) | holochain, rust, p2p, happ, skill | [@soushi888](https://x.com/soushi888/status/2121366095647093016) | 2026-11-14 |
+| [飞书 / Lark 官方 CLI Agent Skills](entries/lark-cli-skills.md) | official, feishu, lark, cli, skill-pack | [@xiaoanlab](https://x.com/xiaoanlab/status/2121250481632637253) | 2026-11-14 |
+| [learn-from-materials（可追溯的材料学习页）](entries/learn-from-materials.md) | learning, research, pdf, knowledge-base, chinese | [@ruyi3699](https://x.com/ruyi3699/status/2121321196922802586) | 2026-11-14 |
 | [Zep Agent Skills（从已验证轨迹编译 SKILL.md）](entries/zep-agent-skills.md) | skill-infra, procedural-memory, trace-to-skill, mcp | [@yibie](https://x.com/yibie/status/2121154006978621742) | 2026-11-13 |
 | [initiating-coverage（Anthropic 官方研报首次覆盖）](entries/anthropic-initiating-coverage.md) | finance, equity-research, report, official | [@huangcheng943](https://x.com/huangcheng943/status/2121188878199701962) | 2026-11-13 |
 | [gemini-frontend-design（Google Gemini 官方）](entries/gemini-frontend-design.md) | frontend, web-design, ui, official | [@GreatCreations_](https://x.com/GreatCreations_/status/2121052386525618230) | 2026-11-13 |

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-260-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-266-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（260 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（266 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -80,6 +80,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 | [Obsidian Skills](wiki/entries/obsidian-skills.md) | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 52k | Work inside Obsidian vaults (Markdown, Bases, Canvas) |
 | [Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 35k | Anthropic's role-based skill plugins |
 | [video-use](wiki/entries/video-use.md) | [browser-use/video-use](https://github.com/browser-use/video-use) | 31k | Edit talking-head footage by chatting |
+| [飞书 / Lark 官方 CLI Skills](wiki/entries/lark-cli-skills.md) | [larksuite/cli](https://github.com/larksuite/cli) | 18k | Official Feishu/Lark CLI + 26 agent skills |
+| [Dashi PPT Skill](wiki/entries/dashi-ppt-skill.md) | [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 10.7k | Browser-editable decks, export real PPTX |
 | [improve](wiki/entries/shadcn-improve.md) | [shadcn/improve](https://github.com/shadcn/improve) | 10k | Strong model audits & plans, cheap model executes |
 | [ljg-skills（李继刚）](wiki/entries/ljg-skills.md) | [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) | 7.7k | 26 atomic thinking / writing skills (中文) |
 | [.NET Agent Skills](wiki/entries/dotnet-skills.md) | [dotnet/skills](https://github.com/dotnet/skills) | 5.9k | Official C# / MSBuild / NuGet skills with public evals |
@@ -105,6 +107,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [NVIDIA Agent Skills（官方）](wiki/entries/nvidia-skills.md) — CUDA / Physical AI
 - [Google Cloud Skills（官方）](wiki/entries/google-cloud-skills.md) — IAM Helper 等
 - [Google Workspace CLI Skills（gws）](wiki/entries/google-workspace-cli-skills.md) — Gmail/Calendar/Drive 等 ~95 skills
+- [飞书 / Lark 官方 CLI Agent Skills](wiki/entries/lark-cli-skills.md) — 200+ 命令 + 26 个飞书办公 skill，可 dry-run
 - [Remotion Agent Skills（官方）](wiki/entries/remotion-skills.md) — React 视频创作与渲染
 - [ElevenLabs Skills（官方）](wiki/entries/elevenlabs-skills.md) — 语音 / 实时音频
 - [Anthropic Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) — Cowork 角色技能包
@@ -115,6 +118,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Jane Street Socratic Tutor（官方）](wiki/entries/janestreet-agent-skills.md) — 苏格拉底式家教：诊断、0–5 技能图、间隔复习
 - [FlyAI（飞猪官方旅行搜索）](wiki/entries/flyai-skill.md) — 自然语言查机票/酒店/火车，结构化可预订结果
 - [campus-recruiting-skill](wiki/entries/campus-recruiting-skill.md) — 中国非技术岗校招：核岗/简历/面试/Offer（不代投）
+
+- [equity-research（Anthropic × LSEG）](wiki/entries/anthropic-lseg-equity-research.md) — 一致预期 + 基本面 + 价格 + 宏观的研究快照（需 LSEG MCP）
 
 ### 设计 / UI / 品味
 - [sepia（去 AI 味写作）](wiki/entries/sepia.md) — 叙事架构层去 AI 味
@@ -134,6 +139,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [garden-skills（ConardLi）](wiki/entries/garden-skills.md) — 网页设计 / RAG / 生图 / 动效小花园
 - [萝卜 PPT](wiki/entries/luobo-ppt.md) — 生成 / 照参考图美化原生可编辑 PPTX
 - [GordenPPTSkill](wiki/entries/gorden-ppt-skill.md) — 中文商务模板 + 只改文字（非商业许可）
+- [Dashi PPT Skill（大师 PPT）](wiki/entries/dashi-ppt-skill.md) — 浏览器逐页改稿，导出可编辑 PPTX（AGPL-3.0）
 - [Kubai Icons](wiki/entries/kubai-icons.md) — 统一画风动态/静态功能图标 skill + 2600+ 开源图标
 - [Awesome Design Skills](wiki/entries/awesome-design-skills.md) — 67 套设计系统 SKILL.md + DESIGN.md（npx 拉取）
 - [Stageshow](wiki/entries/stageshow.md) — 像真产品的假 UI 插画 / 光标演示
@@ -145,6 +151,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [gstack（Garry Tan）](wiki/entries/gstack.md) — review / QA / shipping
 - [pstack `/statechart`](wiki/entries/pstack-statechart.md) — TLA+ 状态图找 bug
 - [next-bundle-optimizer](wiki/entries/next-bundle-optimizer.md) — Next.js 官方捆包优化
+- [App Store Connect CLI Skills（asc）](wiki/entries/app-store-connect-cli-skills.md) — TestFlight / 元数据 / 提交审核等约 25 个发版 skill
 - [Webcrawl Anything](wiki/entries/webcrawl-anything.md) — 本地免 Key 抓取 / 8 个 agent skills + CLI/MCP
 - [Graphify](wiki/entries/graphify.md) — 本地 AST 知识图谱 CLI
 - [skill-diet](wiki/entries/skill-diet.md) — 给臃肿 Skill 减重（token ↓）
@@ -159,6 +166,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Elephant-Goldfish Model（Google）](wiki/entries/elephant-goldfish-model.md) — 带上下文起草规格，无记忆子 agent 评审
 - [Anthropic-Cybersecurity-Skills](wiki/entries/anthropic-cybersecurity-skills.md) — 817 安全技能包（授权场景）
 - [AI Research Skills Library](wiki/entries/ai-research-skills.md) — 98 个 AI 研究工程技能（训练 → 论文）
+- [learn-from-materials](wiki/entries/learn-from-materials.md) — 把 PDF/书变成可追溯知识库与测验页，区分原文与推断
 - [commerce-agent-skills](wiki/entries/commerce-agent-skills.md) — 29 个电商技能，带评测 fixtures
 - [tinker-ai-skill](wiki/entries/tinker-ai-skill.md) — 用自己的 Claude Code/Codex 会话在 Tinker 上微调并导出本机 GGUF
 - [/optimize](wiki/entries/optimize-skill.md) — 31 项性能体检：先测量、安全修复、再对比

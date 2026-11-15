@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-286-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-290-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（286 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（290 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -106,6 +106,9 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Expo Skills（官方）](wiki/entries/expo-skills.md) — React Native / EAS
 - [NVIDIA Agent Skills（官方）](wiki/entries/nvidia-skills.md) — CUDA / Physical AI
 - [Loom Skills（AMD Loom）](wiki/entries/loom-skills.md) — 在 Strix Halo 等设备上移植/优化模型并对照 llama.cpp 测速
+- [financial-statements（Anthropic 官方）](wiki/entries/anthropic-financial-statements.md) — 按期间整理三张表和差异分析，不编行情
+- [xlsx-author（Anthropic 官方）](wiki/entries/anthropic-xlsx-author.md) — headless 生成可复核的 Excel 文件
+- [claude-bughunter](wiki/entries/claude-bughunter.md) — 授权漏洞狩猎 / 红队技能包（83 个 skill，~5858★）
 - [Google Cloud Skills（官方）](wiki/entries/google-cloud-skills.md) — IAM Helper 等
 - [Google Workspace CLI Skills（gws）](wiki/entries/google-workspace-cli-skills.md) — Gmail/Calendar/Drive 等 ~95 skills
 - [飞书 / Lark 官方 CLI Agent Skills](wiki/entries/lark-cli-skills.md) — 200+ 命令 + 26 个飞书办公 skill，可 dry-run

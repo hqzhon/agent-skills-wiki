@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-14T20:40:00+08:00",
-  "last_since_id": "2121576662823587876",
+  "last_scan_at": "2026-11-15T08:00:00+08:00",
+  "last_since_id": "2121747931719991456",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2121485365508763786 (~6h). EN/ZH/library queries, 173 new ids. 9 accepted: loom-skills, ascii-code-art, vibe-shield, ghost-qa, kar-canon, as-installed, repo-cinema, ai-writing, skill-sync. Repeats skipped (stack-diagram, tstack, answer-me-with-html, jane-street, qiaomu-seo, nvidia/skills, remotion, lark CLI, anthropics/skills, unslop, find-skills). Tools skipped: TermiX, Skilvella, SkillPot (watch), paid courses. Low signal skipped: Gauntlet (no repo), rammcodes animated-video (no repo), Cypher Tempre, skill-risk research thread."
+  "last_result": "Scan after 2121576662823587876 (~11h). EN/ZH/library queries, 248 new ids. 7 accepted: darwin-skill 3.0, claude-trading-skills, character-voice-lock, video-to-skill, long-poster-making-video, cutwater, control-freak. Repeats skipped (janestreet, book-to-skill, vibe-shield/ghost-qa/unslop, SkillEvaluator/SkillSpector, Remotion, OpenMontage, gzh-design, modern-web-guidance, pstack, day-trader, portfolio-monitoring). Tools skipped: craft-anything, TermiX. No-repo skipped: cutaway/Fable 5.2 demo posts. Epic leftover skill skipped (not published for reuse). Ads/low signal: Cituna, Nexprove mood-board."
 }

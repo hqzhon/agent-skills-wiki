@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-279-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-286-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（279 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（286 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -123,6 +123,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [equity-research（Anthropic × LSEG）](wiki/entries/anthropic-lseg-equity-research.md) — 一致预期 + 基本面 + 价格 + 宏观的研究快照（需 LSEG MCP）
 - [dcf-model（Anthropic 官方）](wiki/entries/anthropic-dcf-model.md) — SEC + 研报取数，公式化 DCF 与敏感性分析
 - [audit-xls（Anthropic 官方）](wiki/entries/anthropic-audit-xls.md) — 选区到整本模型的公式与勾稽审计，先报告不擅自改表
+- [Claude Trading Skills](wiki/entries/claude-trading-skills.md) — 74 个长线投资 + 波段流程技能（非自动下单，~4804★）
 
 ### 设计 / UI / 品味
 - [sepia（去 AI 味写作）](wiki/entries/sepia.md) — 叙事架构层去 AI 味
@@ -160,6 +161,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Graphify](wiki/entries/graphify.md) — 本地 AST 知识图谱 CLI
 - [skill-diet](wiki/entries/skill-diet.md) — 给臃肿 Skill 减重（token ↓）
 - [better-skill](wiki/entries/better-skill.md) — 技能体检 / 打分 / 选型标准
+- [达尔文.skill 3.0](wiki/entries/darwin-skill.md) — 盲评实跑产出，只保留真有增益的 SKILL.md 改动（~6916★）
 - [Superpowers (obra)](wiki/entries/superpowers.md) — brainstorming + TDD 交付流
 - [founder-skill](wiki/entries/founder-skill.md) — 创业压力测试包
 - [Addy Osmani Agent Skills](wiki/entries/addyosmani-agent-skills.md) · [Matt Pocock Skills](wiki/entries/mattpocock-skills.md)
@@ -174,6 +176,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Anthropic-Cybersecurity-Skills](wiki/entries/anthropic-cybersecurity-skills.md) — 817 安全技能包（授权场景）
 - [AI Research Skills Library](wiki/entries/ai-research-skills.md) — 98 个 AI 研究工程技能（训练 → 论文）
 - [learn-from-materials](wiki/entries/learn-from-materials.md) — 把 PDF/书变成可追溯知识库与测验页，区分原文与推断
+- [video-to-skill](wiki/entries/video-to-skill.md) — 本地看教程视频（解说+画面）并验证步骤，装成可复用 skill
 - [commerce-agent-skills](wiki/entries/commerce-agent-skills.md) — 29 个电商技能，带评测 fixtures
 - [tinker-ai-skill](wiki/entries/tinker-ai-skill.md) — 用自己的 Claude Code/Codex 会话在 Tinker 上微调并导出本机 GGUF
 - [/optimize](wiki/entries/optimize-skill.md) — 31 项性能体检：先测量、安全修复、再对比
@@ -186,6 +189,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 
 ### 视频 / 成片
 - [huashu-motion](wiki/entries/huashu-motion.md) — 可指着画面局部改的产品发布片（本机作曲）
+- [character-voice-lock](wiki/entries/character-voice-lock.md) — Seedance / Dreamina 角色声线锁定：先测文本，再用人声或「配音供体」固定参考
+- [long-poster-making-video](wiki/entries/long-poster-making-video.md) — 1:4 四页长海报 + 42 光标线框成片制作过程
 - [GIF 工厂（gif-factory）](wiki/entries/gif-factory.md) — 像素/插画/真人表情包与动态海报技能
 - [video-use（browser-use）](wiki/entries/video-use.md) — 对话式剪辑口播/教程毛片
 - [rea-video](wiki/entries/rea-video.md) — 任意视频逐镜逆向拆解

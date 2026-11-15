@@ -4,6 +4,13 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [character-voice-lock（角色声线锁定）](entries/character-voice-lock.md) | video, voice, seedance, dreamina, character-consistency, skill | [@PJaccetturo](https://x.com/PJaccetturo/status/2121611611286716750) | 2026-11-15 |
+| [Claude Trading Skills（长线投资 + 波段流程包）](entries/claude-trading-skills.md) | finance, trading, investing, skill-pack | [@latentgazette](https://x.com/latentgazette/status/2121594656832000328) | 2026-11-15 |
+| [control-freak（一事一审再提交）](entries/control-freak.md) | workflow, review, git, claude-code, skill | [@IYoussef231](https://x.com/IYoussef231/status/2121659985587515646) | 2026-11-15 |
+| [CutWater（issue → PR 的 GitHub 工作流）](entries/cutwater.md) | git, github, workflow, pr, skill | [@YourAKShaw](https://x.com/YourAKShaw/status/2121595384103625202) | 2026-11-15 |
+| [达尔文.skill 3.0（实跑盲评进化 SKILL.md）](entries/darwin-skill.md) | meta, skill-optimization, evaluation, autoresearch, chinese, skill | [@AlchainHust](https://x.com/AlchainHust/status/2121744774877389261) | 2026-11-15 |
+| [long-poster-making-video（长海报 + 42 光标制作过程）](entries/long-poster-making-video.md) | design, poster, video, motion, chinese, skill | [@Feljoy_ix](https://x.com/Feljoy_ix/status/2121654553452175400) | 2026-11-15 |
+| [video-to-skill（教程视频变成可验证 skill）](entries/video-to-skill.md) | skill-authoring, video, whisper, local, meta, skill | [@Vladic_ETH](https://x.com/Vladic_ETH/status/2121668506752061630) | 2026-11-15 |
 | [Loom Skills（AMD Loom 官方技能包）](entries/loom-skills.md) | official, amd, loom, inference, gpu, skill-pack | [Grok 汇总](https://x.com/grok/status/2121564786424963089) | 2026-11-14 |
 | [ascii-code-art（网页实时 ASCII 动效）](entries/ascii-code-art.md) | frontend, canvas, webgl, ascii, animation, skill | [@efearabaci_dev](https://x.com/efearabaci_dev/status/2121540605469737436) | 2026-11-14 |
 | [vibe-shield（AI 生成代码的静态安全扫描）](entries/vibe-shield.md) | security, appsec, static-analysis, nextjs, mcp, skill | [@FoundryVibe](https://x.com/FoundryVibe/status/2121530062575174091) | 2026-11-14 |

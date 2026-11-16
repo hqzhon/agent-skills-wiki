@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [ECC（Agent 工程系统 / 技能棚）](entries/ecc.md) | skill-pack, agent-harness, memory, hooks, engineering, meta | [@VaibhavSisinty](https://x.com/VaibhavSisinty/status/2122366618705797317) | 2026-11-17 |
+| [Effective HTML（自包含 HTML 产物技能包）](entries/effective-html.md) | frontend, html, wireframe, prototype, diagrams, skill-pack | [@tom_doerr](https://x.com/tom_doerr/status/2122324126064935034) | 2026-11-17 |
+| [scroll-world（滚动穿越 3D 世界落地页）](entries/scroll-world.md) | frontend, landing-page, scroll, video, generative, skill | [@bkdgiffug](https://x.com/bkdgiffug/status/2122308200565522721) | 2026-11-17 |
+| [line-art-animation（SVG 线描动画技能 + 库）](entries/line-art-animation.md) | animation, svg, illustration, typescript, skill | [@ainotesus](https://x.com/ainotesus/status/2122434519680647477) | 2026-11-17 |
+| [Cinematic Skill（纯代码旁白电影）](entries/cinematic-skill.md) | video, documentary, skia, python, skill | [@Alexvx_nft](https://x.com/Alexvx_nft/status/2122436232462700763) | 2026-11-17 |
 | [ib-check-deck（Anthropic 官方投行路演材料质检）](entries/anthropic-ib-check-deck.md) | finance, investment-banking, presentation, qa, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2122277961516904951) | 2026-11-16 |
 | [bookleme（读了么：把书编译成 Agent Skill）](entries/bookleme.md) | skill-authoring, books, knowledge-base, meta, chinese | [@jevlorde](https://x.com/jevlorde/status/2122255946860683316) | 2026-11-16 |
 | [claude-drawing-skill（用代码作画，83 种画风）](entries/claude-drawing-skill.md) | generative-art, illustration, python, claude-code, skill | [@warmtalent1](https://x.com/warmtalent1/status/2122280866319942140) | 2026-11-16 |

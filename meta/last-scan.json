@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-16T20:00:00+08:00",
-  "last_since_id": "2122300667767460273",
+  "last_scan_at": "2026-11-17T08:00:00+08:00",
+  "last_since_id": "2122476192930689279",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2122209251082875262 (~6h). EN/ZH/library + github/ZH pack supplements, 233 unique new ids (+2 thread ids). 5 accepted: motion-design-skill, claude-drawing-skill, muse-video-skill, bookleme, anthropic-ib-check-deck. Repeats skipped (SkillEvaluator, stitch-skills, mattpocock, modern-web-guidance, financial-services idea-generation, Remotion, knowledge-work-plugins). Skipped: fastmcp/vercel-labs-ui/MoneyPrinterTurbo/video-grabber/forkguard/skillset/CoinFello tools, karpathy CLAUDE.md lists, agy-aicode-optimizer (no license). Watch: motiondivision/ai-kit (unlicensed), Beatreel (4 stars), task-watchdog-skill, self-media-guide, video-director; x-skills and examples-are-not-requirements unchanged."
+  "last_result": "Scan after 2122300667767460273 (~12h, 8:00 run). EN/ZH/library + github/ZH-pack/SKILL.md supplements, 383 unique new ids. 5 accepted: ecc, effective-html, scroll-world, line-art-animation, cinematic-skill. Repeats skipped (last30days, obsidian-skills, social-auto-upload, claude-animated-shorts, SkillEvaluator, stitch, blender, trading, BugHunter, anthropics/skills, Remotion, impeccable, ponytail, taste, hallmark, marketingskills, OpenMontage, humanizer/ste80, kar-canon, SkillSpector, holochain rc.2). Skipped: REA (offensive RE), fastmcp/Agents&Hub/Omarchy, BFCM ads skill, private ad-audit, Universe talk repo, /skill-doctor. Watch: integral-lens, ship-ready-skills; prior watch list unchanged."
 }

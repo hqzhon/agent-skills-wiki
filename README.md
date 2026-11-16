@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-299-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-306-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（299 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（306 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -122,13 +122,17 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [PixiJS Skills（官方）](wiki/entries/pixijs-skills.md) · [Android Official Skills](wiki/entries/android-official-skills.md) · [Compose Skill（Jetpack Compose 七件套）](wiki/entries/compose-skill.md)
 - [Tailscale Skill（官方）](wiki/entries/tailscale-skill.md) — networking / tsnet / k8s
 - [h3-image-prompt-writing（MiniMax 官方）](wiki/entries/minimax-h3-image-prompt-writing.md) — 一句想法扩写成 H3-Image 长提示词，可直接调 API 出图
+- [Stitch Skills（Google Labs 官方）](wiki/entries/stitch-skills.md) — 配合 Stitch MCP 出设计再出 React/RN 代码（16 个 skill，~9447★）；仓最近推送停在 2026-08-17
 - [Jane Street Socratic Tutor（官方）](wiki/entries/janestreet-agent-skills.md) — 苏格拉底式家教：诊断、0–5 技能图、间隔复习
 - [FlyAI（飞猪官方旅行搜索）](wiki/entries/flyai-skill.md) — 自然语言查机票/酒店/火车，结构化可预订结果
 - [campus-recruiting-skill](wiki/entries/campus-recruiting-skill.md) — 中国非技术岗校招：核岗/简历/面试/Offer（不代投）
+- [kr-career-skill](wiki/entries/kr-career-skill.md) — 韩国就业/跳槽：找匹配职位、公司分析、自荐草稿（不代投；新建仓，14★）
 
 - [equity-research（Anthropic × LSEG）](wiki/entries/anthropic-lseg-equity-research.md) — 一致预期 + 基本面 + 价格 + 宏观的研究快照（需 LSEG MCP）
 - [dcf-model（Anthropic 官方）](wiki/entries/anthropic-dcf-model.md) — SEC + 研报取数，公式化 DCF 与敏感性分析
 - [audit-xls（Anthropic 官方）](wiki/entries/anthropic-audit-xls.md) — 选区到整本模型的公式与勾稽审计，先报告不擅自改表
+- [3-statement-model（Anthropic 官方）](wiki/entries/anthropic-3-statement-model.md) — 在已有模板里用公式填通三张表，禁止把算死的数字写入预测格
+- [earnings-analysis（Anthropic 官方）](wiki/entries/anthropic-earnings-analysis.md) — 已覆盖公司的季报更新备忘（8–12 页，强制可点击引用）
 - [Claude Trading Skills](wiki/entries/claude-trading-skills.md) — 74 个长线投资 + 波段流程技能（非自动下单，~4804★）
 
 ### 设计 / UI / 品味
@@ -153,6 +157,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Dashi PPT Skill（大师 PPT）](wiki/entries/dashi-ppt-skill.md) — 浏览器逐页改稿，导出可编辑 PPTX（AGPL-3.0）
 - [Kubai Icons](wiki/entries/kubai-icons.md) — 统一画风动态/静态功能图标 skill + 2600+ 开源图标
 - [Awesome Design Skills](wiki/entries/awesome-design-skills.md) — 67 套设计系统 SKILL.md + DESIGN.md（npx 拉取）
+- [design.how](wiki/entries/design-how.md) — 从已有应用 UI 搭建并迁移设计系统，默认写在 run branch（453★）
 - [Stageshow](wiki/entries/stageshow.md) — 像真产品的假 UI 插画 / 光标演示
 - [stack-diagram](wiki/entries/stack-diagram.md) · [svg-diagram](wiki/entries/svg-diagram.md) — 架构图 / SVG 图解（带 lint 自检）
 - [Floorplan](wiki/entries/floorplan.md) — 从真实代码画出大白话交互地图
@@ -173,6 +178,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Addy Osmani Agent Skills](wiki/entries/addyosmani-agent-skills.md) · [Matt Pocock Skills](wiki/entries/mattpocock-skills.md)
 - [CCPM](wiki/entries/ccpm.md) — PRD → Issues → 并行 agents
 - [CodexQA](wiki/entries/codexqa.md) — 合入前本地验证包
+- [Agent Skills 开放标准 / skills-ref](wiki/entries/agentskills-spec.md) — agentskills.io 规范 + 参考校验 CLI（27,330★；skills-ref 声明仅供演示）
 - [skill-guard](wiki/entries/skill-guard.md) · [SkillSpector](wiki/entries/skillspector.md) · [aig-skill-scan](wiki/entries/aig-skill-scan.md) · [agnix](wiki/entries/agnix.md) — 安装卫生 / 信任门；agnix 做 SKILL.md / CLAUDE.md 等配置 lint + autofix（~484★）
 - [vibe-shield](wiki/entries/vibe-shield.md) — AI 生成应用的静态安全扫描（含 MCP/Skill 投毒）
 - [ghost-qa](wiki/entries/ghost-qa.md) — 前端交稿前的无头浏览器闭环 QA
@@ -215,6 +221,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Motion Prompt](wiki/entries/motion-prompt.md) — 216 个带动态样例的动效/镜头/UI 名词库，勾选后按规格复现
 - [dream-loop](wiki/entries/dream-loop.md) — 先梦目标截图，再由 critic 对照实机画面迭代高保真 3D/游戏画面
 - [Open 3D Skills](wiki/entries/open-3d-skills.md) — three.js 场景 / 滚动影片 / 爆炸图 / 60fps 录制 8 件套
+- [Blender Agent Skills](wiki/entries/blender-skills.md) — 28 个 Blender 5.2+/5.3 全流程技能（建模到导出/质检，1,246★）
 - [image-to-sculpt](wiki/entries/image-to-sculpt.md) — 一张图 → 可对图度量的 Blender 雕刻技能
 - [story-to-handdrawn-video](wiki/entries/story-to-handdrawn-video.md) — 中文故事 → 3:4 手绘动画
 - [Bang Motion](wiki/entries/bang-motion.md) — 浏览器动效成片（非 PPT）

@@ -4,6 +4,13 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Agent Skills 开放标准（agentskills / skills-ref）](entries/agentskills-spec.md) | meta, specification, validation, official, skill-infra | [@KaiyuanDesk](https://x.com/KaiyuanDesk/status/2122134059774070973) | 2026-11-16 |
+| [3-statement-model（Anthropic 官方三张表模板填报）](entries/anthropic-3-statement-model.md) | finance, financial-model, excel, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2122141869199229232) | 2026-11-16 |
+| [earnings-analysis（Anthropic 官方季报更新备忘）](entries/anthropic-earnings-analysis.md) | finance, equity-research, earnings, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2122186405980078174) | 2026-11-16 |
+| [Blender Agent Skills（28 个 Blender 全流程技能）](entries/blender-skills.md) | 3d, blender, skill-pack, python, game-assets | [@27huff](https://x.com/27huff/status/2122165209376993338) | 2026-11-16 |
+| [design.how（从现有 UI 搭建并迁移设计系统）](entries/design-how.md) | design, design-system, tokens, frontend, skill-pack | [@hsianghui](https://x.com/hsianghui/status/2122154311266320525) | 2026-11-16 |
+| [kr-career-skill（韩国就业 / 跳槽助理）](entries/kr-career-skill.md) | career, job-search, korea, resume, skill | [@doodi_dev](https://x.com/doodi_dev/status/2122151418123456741) | 2026-11-16 |
+| [Stitch Skills（Google Labs 官方设计 / 出码技能包）](entries/stitch-skills.md) | official, design, frontend, stitch, skill-pack, google | [@GitTrend0x](https://x.com/GitTrend0x/status/2122125019241230486) | 2026-11-16 |
 | [figures4papers（投稿级 Matplotlib 科研作图）](entries/figures4papers.md) | research, figures, matplotlib, academic, skill | [@lawson_ste3476](https://x.com/lawson_ste3476/status/2122080475049259416) | 2026-11-16 |
 | [Product Engineering（从想法到上线的 45 个技能包）](entries/product-engineering.md) | product, engineering, skill-pack, shipping, claude-code | [@PawelHuryn](https://x.com/PawelHuryn/status/2122017820657455466) | 2026-11-16 |
 | [agnix（Agent 配置 linter / LSP）](entries/agnix.md) | devtools, linter, skill-safety, lsp, meta | [@hsianghui](https://x.com/hsianghui/status/2121898878244904971) | 2026-11-15 |

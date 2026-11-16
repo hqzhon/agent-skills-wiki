@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-16T14:00:00+08:00",
-  "last_since_id": "2122209251082875262",
+  "last_scan_at": "2026-11-16T20:00:00+08:00",
+  "last_since_id": "2122300667767460273",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2122114570546483456 (~6h). EN/ZH/library + url:github.com/ZH pack supplements, 161 unique new ids. 7 accepted: stitch-skills, blender-skills, design-how, agentskills-spec, anthropic-3-statement-model, anthropic-earnings-analysis, kr-career-skill. Repeats skipped (anthropics/skills, addyosmani, mattpocock, Jane Street, kubai-icons, SkillEvaluator, Claude-BugHunter, modern-web-guidance, last30days, ffmpeg skill, claude-trading-skills, iFly-Skills). Skipped: t3code/univer/plannotator/ag-ui tools, stock-picker (no public repo URL), xeet (no SKILL.md). Watch: examples-are-not-requirements (3★), x-skills still unlicensed."
+  "last_result": "Scan after 2122209251082875262 (~6h). EN/ZH/library + github/ZH pack supplements, 233 unique new ids (+2 thread ids). 5 accepted: motion-design-skill, claude-drawing-skill, muse-video-skill, bookleme, anthropic-ib-check-deck. Repeats skipped (SkillEvaluator, stitch-skills, mattpocock, modern-web-guidance, financial-services idea-generation, Remotion, knowledge-work-plugins). Skipped: fastmcp/vercel-labs-ui/MoneyPrinterTurbo/video-grabber/forkguard/skillset/CoinFello tools, karpathy CLAUDE.md lists, agy-aicode-optimizer (no license). Watch: motiondivision/ai-kit (unlicensed), Beatreel (4 stars), task-watchdog-skill, self-media-guide, video-director; x-skills and examples-are-not-requirements unchanged."
 }

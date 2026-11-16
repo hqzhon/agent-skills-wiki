@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-306-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-311-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（306 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（311 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -123,6 +123,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Tailscale Skill（官方）](wiki/entries/tailscale-skill.md) — networking / tsnet / k8s
 - [h3-image-prompt-writing（MiniMax 官方）](wiki/entries/minimax-h3-image-prompt-writing.md) — 一句想法扩写成 H3-Image 长提示词，可直接调 API 出图
 - [Stitch Skills（Google Labs 官方）](wiki/entries/stitch-skills.md) — 配合 Stitch MCP 出设计再出 React/RN 代码（16 个 skill，~9447★）；仓最近推送停在 2026-08-17
+- [Motion Design Skill（LottieFiles 官方）](wiki/entries/motion-design-skill.md) — 实现无关的 UI 动效原则：时长/缓动/迪士尼 12 原则与编排配方（3,206★，MIT；仓最近推送停在 2026-05-18）
 - [Jane Street Socratic Tutor（官方）](wiki/entries/janestreet-agent-skills.md) — 苏格拉底式家教：诊断、0–5 技能图、间隔复习
 - [FlyAI（飞猪官方旅行搜索）](wiki/entries/flyai-skill.md) — 自然语言查机票/酒店/火车，结构化可预订结果
 - [campus-recruiting-skill](wiki/entries/campus-recruiting-skill.md) — 中国非技术岗校招：核岗/简历/面试/Offer（不代投）
@@ -133,6 +134,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [audit-xls（Anthropic 官方）](wiki/entries/anthropic-audit-xls.md) — 选区到整本模型的公式与勾稽审计，先报告不擅自改表
 - [3-statement-model（Anthropic 官方）](wiki/entries/anthropic-3-statement-model.md) — 在已有模板里用公式填通三张表，禁止把算死的数字写入预测格
 - [earnings-analysis（Anthropic 官方）](wiki/entries/anthropic-earnings-analysis.md) — 已覆盖公司的季报更新备忘（8–12 页，强制可点击引用）
+- [ib-check-deck（Anthropic 官方）](wiki/entries/anthropic-ib-check-deck.md) — 路演/投资者演示稿只读质检：跨页数字、叙事与图表、语域和版式
 - [Claude Trading Skills](wiki/entries/claude-trading-skills.md) — 74 个长线投资 + 波段流程技能（非自动下单，~4804★）
 
 ### 设计 / UI / 品味
@@ -158,6 +160,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Kubai Icons](wiki/entries/kubai-icons.md) — 统一画风动态/静态功能图标 skill + 2600+ 开源图标
 - [Awesome Design Skills](wiki/entries/awesome-design-skills.md) — 67 套设计系统 SKILL.md + DESIGN.md（npx 拉取）
 - [design.how](wiki/entries/design-how.md) — 从已有应用 UI 搭建并迁移设计系统，默认写在 run branch（453★）
+- [Motion Design Skill（LottieFiles 官方）](wiki/entries/motion-design-skill.md) — 先按原则选时长/缓动/编排，再写 CSS/Motion/GSAP/Lottie 等实现（3,206★）
+- [claude-drawing-skill](wiki/entries/claude-drawing-skill.md) — 不用生图模型，numpy + Pillow 在 CPU 上按 83 种画风作画，可回放作画过程（260★，MIT）
 - [Stageshow](wiki/entries/stageshow.md) — 像真产品的假 UI 插画 / 光标演示
 - [stack-diagram](wiki/entries/stack-diagram.md) · [svg-diagram](wiki/entries/svg-diagram.md) — 架构图 / SVG 图解（带 lint 自检）
 - [Floorplan](wiki/entries/floorplan.md) — 从真实代码画出大白话交互地图
@@ -191,6 +195,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [rederive](wiki/entries/rederive.md) — 苏格拉底式重推设计，逼你自己想出代码库方案（~838★，MIT）
 - [learn-from-materials](wiki/entries/learn-from-materials.md) — 把 PDF/书变成可追溯知识库与测验页，区分原文与推断
 - [video-to-skill](wiki/entries/video-to-skill.md) — 本地看教程视频（解说+画面）并验证步骤，装成可复用 skill
+- [bookleme（读了么）](wiki/entries/bookleme.md) — 把书编译成可校验的知识包 + 行为技能，带忠实度指标和版权硬门（268★，MIT；与 book-to-skill 互补）
 - [commerce-agent-skills](wiki/entries/commerce-agent-skills.md) — 29 个电商技能，带评测 fixtures
 - [tinker-ai-skill](wiki/entries/tinker-ai-skill.md) — 用自己的 Claude Code/Codex 会话在 Tinker 上微调并导出本机 GGUF
 - [/optimize](wiki/entries/optimize-skill.md) — 31 项性能体检：先测量、安全修复、再对比
@@ -224,6 +229,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Blender Agent Skills](wiki/entries/blender-skills.md) — 28 个 Blender 5.2+/5.3 全流程技能（建模到导出/质检，1,246★）
 - [image-to-sculpt](wiki/entries/image-to-sculpt.md) — 一张图 → 可对图度量的 Blender 雕刻技能
 - [story-to-handdrawn-video](wiki/entries/story-to-handdrawn-video.md) — 中文故事 → 3:4 手绘动画
+- [Muse Video Skill](wiki/entries/muse-video-skill.md) — 虚拟剧组：创意 → 剧本/分镜/美术/模型指令（38 案例库，94★；上游仍标开发中）
 - [Bang Motion](wiki/entries/bang-motion.md) — 浏览器动效成片（非 PPT）
 - [match-cut](wiki/entries/match-cut.md) — 接力匹配剪辑宣传片
 - [teardown](wiki/entries/teardown.md) — 任意机器 → 可拆解的离线 3D 模拟器 + 60fps 讲解片

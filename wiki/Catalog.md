@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [ib-check-deck（Anthropic 官方投行路演材料质检）](entries/anthropic-ib-check-deck.md) | finance, investment-banking, presentation, qa, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2122277961516904951) | 2026-11-16 |
+| [bookleme（读了么：把书编译成 Agent Skill）](entries/bookleme.md) | skill-authoring, books, knowledge-base, meta, chinese | [@jevlorde](https://x.com/jevlorde/status/2122255946860683316) | 2026-11-16 |
+| [claude-drawing-skill（用代码作画，83 种画风）](entries/claude-drawing-skill.md) | generative-art, illustration, python, claude-code, skill | [@warmtalent1](https://x.com/warmtalent1/status/2122280866319942140) | 2026-11-16 |
+| [Motion Design Skill（LottieFiles 官方动效原则）](entries/motion-design-skill.md) | official, motion, animation, ui, design, skill | [@fuji_ai_](https://x.com/fuji_ai_/status/2122267958055764298) | 2026-11-16 |
+| [Muse Video Skill（视频创作虚拟剧组）](entries/muse-video-skill.md) | video, storyboard, preproduction, prompt, skill | [@Emad0x1](https://x.com/Emad0x1/status/2122280615613526095) | 2026-11-16 |
 | [Agent Skills 开放标准（agentskills / skills-ref）](entries/agentskills-spec.md) | meta, specification, validation, official, skill-infra | [@KaiyuanDesk](https://x.com/KaiyuanDesk/status/2122134059774070973) | 2026-11-16 |
 | [3-statement-model（Anthropic 官方三张表模板填报）](entries/anthropic-3-statement-model.md) | finance, financial-model, excel, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2122141869199229232) | 2026-11-16 |
 | [earnings-analysis（Anthropic 官方季报更新备忘）](entries/anthropic-earnings-analysis.md) | finance, equity-research, earnings, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2122186405980078174) | 2026-11-16 |

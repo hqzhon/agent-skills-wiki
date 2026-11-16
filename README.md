@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-290-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-299-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（290 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（299 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -78,9 +78,11 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 | [last30days](wiki/entries/last30days-skill.md) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 67k | Research what Reddit / X / HN said in the last 30 days |
 | [Marketing Skills](wiki/entries/marketingskills.md) | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 60k | CRO, copywriting, SEO, customer research |
 | [Obsidian Skills](wiki/entries/obsidian-skills.md) | [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | 52k | Official Obsidian vault skills (Markdown, Bases, Canvas) |
+| [HowToLiveLonger](wiki/entries/howtolivelonger.md) | [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 36.1k | Evidence-based longevity lookup for everyday habits |
 | [Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 35k | Anthropic's role-based skill plugins |
 | [video-use](wiki/entries/video-use.md) | [browser-use/video-use](https://github.com/browser-use/video-use) | 31k | Edit talking-head footage by chatting |
 | [飞书 / Lark 官方 CLI Skills](wiki/entries/lark-cli-skills.md) | [larksuite/cli](https://github.com/larksuite/cli) | 18k | Official Feishu/Lark CLI + 26 agent skills |
+| [figures4papers](wiki/entries/figures4papers.md) | [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) | 11.8k | Publication-quality Matplotlib figures + a loadable skill |
 | [Dashi PPT Skill](wiki/entries/dashi-ppt-skill.md) | [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 10.7k | Browser-editable decks, export real PPTX |
 | [improve](wiki/entries/shadcn-improve.md) | [shadcn/improve](https://github.com/shadcn/improve) | 10k | Strong model audits & plans, cheap model executes |
 | [ljg-skills（李继刚）](wiki/entries/ljg-skills.md) | [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) | 7.7k | 26 atomic thinking / writing skills (中文) |
@@ -106,6 +108,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Expo Skills（官方）](wiki/entries/expo-skills.md) — React Native / EAS
 - [NVIDIA Agent Skills（官方）](wiki/entries/nvidia-skills.md) — CUDA / Physical AI
 - [Loom Skills（AMD Loom）](wiki/entries/loom-skills.md) — 在 Strix Halo 等设备上移植/优化模型并对照 llama.cpp 测速
+- [global-stock-data](wiki/entries/global-stock-data.md) — 美股/港股等公开数据工具包（官方源优先、零鉴权，~1881★）；内嵌 Python 会联网，先审权限
 - [financial-statements（Anthropic 官方）](wiki/entries/anthropic-financial-statements.md) — 按期间整理三张表和差异分析，不编行情
 - [xlsx-author（Anthropic 官方）](wiki/entries/anthropic-xlsx-author.md) — headless 生成可复核的 Excel 文件
 - [claude-bughunter](wiki/entries/claude-bughunter.md) — 授权漏洞狩猎 / 红队技能包（83 个 skill，~5858★）
@@ -170,7 +173,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Addy Osmani Agent Skills](wiki/entries/addyosmani-agent-skills.md) · [Matt Pocock Skills](wiki/entries/mattpocock-skills.md)
 - [CCPM](wiki/entries/ccpm.md) — PRD → Issues → 并行 agents
 - [CodexQA](wiki/entries/codexqa.md) — 合入前本地验证包
-- [skill-guard](wiki/entries/skill-guard.md) · [SkillSpector](wiki/entries/skillspector.md) · [aig-skill-scan](wiki/entries/aig-skill-scan.md) — 安装卫生 / 信任门
+- [skill-guard](wiki/entries/skill-guard.md) · [SkillSpector](wiki/entries/skillspector.md) · [aig-skill-scan](wiki/entries/aig-skill-scan.md) · [agnix](wiki/entries/agnix.md) — 安装卫生 / 信任门；agnix 做 SKILL.md / CLAUDE.md 等配置 lint + autofix（~484★）
 - [vibe-shield](wiki/entries/vibe-shield.md) — AI 生成应用的静态安全扫描（含 MCP/Skill 投毒）
 - [ghost-qa](wiki/entries/ghost-qa.md) — 前端交稿前的无头浏览器闭环 QA
 - [skill-sync](wiki/entries/skill-sync.md) — 一份技能源，软链同步到本机多个 agent
@@ -178,6 +181,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Elephant-Goldfish Model（Google）](wiki/entries/elephant-goldfish-model.md) — 带上下文起草规格，无记忆子 agent 评审
 - [Anthropic-Cybersecurity-Skills](wiki/entries/anthropic-cybersecurity-skills.md) — 817 安全技能包（授权场景）
 - [AI Research Skills Library](wiki/entries/ai-research-skills.md) — 98 个 AI 研究工程技能（训练 → 论文）
+- [Product Engineering](wiki/entries/product-engineering.md) — 从选题到上线的 45 个技能、6 个插件包（MIT，~608★）
+- [rederive](wiki/entries/rederive.md) — 苏格拉底式重推设计，逼你自己想出代码库方案（~838★，MIT）
 - [learn-from-materials](wiki/entries/learn-from-materials.md) — 把 PDF/书变成可追溯知识库与测验页，区分原文与推断
 - [video-to-skill](wiki/entries/video-to-skill.md) — 本地看教程视频（解说+画面）并验证步骤，装成可复用 skill
 - [commerce-agent-skills](wiki/entries/commerce-agent-skills.md) — 29 个电商技能，带评测 fixtures
@@ -232,6 +237,9 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Chaperone（RosettaCommons）](wiki/entries/chaperone.md) — 蛋白质设计
 - [leanrea（轻装逆向）](wiki/entries/leanrea.md) · [BAMA](wiki/entries/bama.md) — Build Any Mac App
 - [史鉴人生抉择](wiki/entries/shiji-tongjian-decisions.md) — 史记/通鉴核源决策
+- [HowToLiveLonger](wiki/entries/howtolivelonger.md) — 循证延寿数据集 + skill：先查 evidence.json 再给建议（~36.1k★，Unlicense）
+- [coolapk-skills](wiki/entries/coolapk-skills.md) — 酷安技术知识整理成 139 个技能，带证据边界（MIT，仓库仍很新）
+- [figures4papers](wiki/entries/figures4papers.md) — 投稿级 Matplotlib 作图 skill，示范图来自 Nature/NeurIPS 等（~11.8k★，CC BY-NC 4.0，商用不可直接用）
 
 ---
 

@@ -4,6 +4,15 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [figures4papers（投稿级 Matplotlib 科研作图）](entries/figures4papers.md) | research, figures, matplotlib, academic, skill | [@lawson_ste3476](https://x.com/lawson_ste3476/status/2122080475049259416) | 2026-11-16 |
+| [Product Engineering（从想法到上线的 45 个技能包）](entries/product-engineering.md) | product, engineering, skill-pack, shipping, claude-code | [@PawelHuryn](https://x.com/PawelHuryn/status/2122017820657455466) | 2026-11-16 |
+| [agnix（Agent 配置 linter / LSP）](entries/agnix.md) | devtools, linter, skill-safety, lsp, meta | [@hsianghui](https://x.com/hsianghui/status/2121898878244904971) | 2026-11-15 |
+| [BofAI Skills（TRON 钱包 / 链上技能包）](entries/bofai-skills.md) | skill-pack, crypto, tron, wallet, cli | [@Ashtonexi](https://x.com/Ashtonexi/status/2121909641399427267) | 2026-11-15 |
+| [coolapk-skills（酷安技术知识技能库）](entries/coolapk-skills.md) | android, homelab, self-hosting, skill-pack, chinese | [@LIghtJUNction_x](https://x.com/LIghtJUNction_x/status/2121922951004209174) | 2026-11-15 |
+| [global-stock-data（美股港股公开数据工具包）](entries/global-stock-data.md) | finance, market-data, sec, macro, skill | [@huangcheng943](https://x.com/huangcheng943/status/2121915406378303741) | 2026-11-15 |
+| [HowToLiveLonger（程序员延寿指南 Skill）](entries/howtolivelonger.md) | health, evidence, longevity, skill | [@huangho75845189](https://x.com/huangho75845189/status/2121859020021805153) | 2026-11-15 |
+| [rederive（苏格拉底式重推设计）](entries/rederive.md) | education, socratic, codebase, learning, skill | [@vintcessun](https://x.com/vintcessun/status/2121869821575078201) | 2026-11-15 |
+| [suzhe-ui（苏哲 UI 网页设计方法）](entries/suzhe-ui.md) | design, frontend, ui, claude-code, skill | [@ai_algoit](https://x.com/ai_algoit/status/2121917469606699404) | 2026-11-15 |
 | [financial-statements（Anthropic 官方三张表 + 差异分析）](entries/anthropic-financial-statements.md) | finance, financial-statements, variance-analysis, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2121823503448260896) | 2026-11-15 |
 | [xlsx-author（Anthropic 官方 headless 出 Excel）](entries/anthropic-xlsx-author.md) | finance, excel, spreadsheet, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2121778388830756874) | 2026-11-15 |
 | [character-voice-lock（角色声线锁定）](entries/character-voice-lock.md) | video, voice, seedance, dreamina, character-consistency, skill | [@PJaccetturo](https://x.com/PJaccetturo/status/2121611611286716750) | 2026-11-15 |

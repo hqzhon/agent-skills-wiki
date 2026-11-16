@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-15T14:00:00+08:00",
-  "last_since_id": "2121841020891738169",
+  "last_scan_at": "2026-11-16T08:00:00+08:00",
+  "last_since_id": "2122114570546483456",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2121747931719991456 (~6h). EN/ZH/library queries, 99 new ids. 4 accepted: anthropic-financial-statements, anthropic-xlsx-author, claude-bughunter, freedisk. Repeats skipped (google/skills, Scrapling, SkillSpector, janestreet, Skill Recorder, scientific-agent-skills, ste80-humanizer, unslop, modern-web-guidance, book-to-skill, claude-trading, caveman, knowledge-work-plugins pack, Obsidian pack). Tools skipped: TermiX, COCOAI, kura (no repo), Workspace in-app skills. No-repo skipped: CX Callback Generator, net-sheet video, paid video SKILL.md, animation-studio video, Pawel Huryn recap, movie-recap critique. github-skill-forge skipped (no license, stale since 2026-01, Trae-oriented). Watch: archive-reel long-post recipe, kura, Workspace Studio skills."
+  "last_result": "Scan after 2121934746242396389 (~12h, prior 20:00 store write had not synced to the Mac git remote). EN/ZH/library queries, 242 new ids. 2 accepted: product-engineering, figures4papers. Repeats skipped (anthropics/skills, remotion, SkillEvaluator/SkillSpector, archify, dream-loop, anatomy, Kubai Icons, Modern Web Guidance, vibe-shield). Skipped: Claude-Red (offensive pack), VoltAgent/awesome-agent-skills (README-only list), VATGuard Lite (new, Pro upsell), Real Python tutorial, ZedNilm1/support-resolver/Zipopics (no public repo). Watch: LIghtJUNction/x-skills (148 SKILL.md, no license)."
 }

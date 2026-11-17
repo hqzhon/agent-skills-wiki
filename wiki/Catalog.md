@@ -4,6 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Google Cloud HPC Skills（gke-batch-hpc）](entries/google-cloud-hpc.md) | google-cloud, hpc, gke, batch, official, skill | [@Zen_with_AI](https://x.com/Zen_with_AI/status/2122531682603688430) | 2026-11-17 |
+| [thesis-tracker（Anthropic 官方投资论点跟踪）](entries/anthropic-thesis-tracker.md) | finance, equity-research, portfolio, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2122502730321367294) | 2026-11-17 |
+| [VoltAgent Awesome Agent Skills（精选技能目录）](entries/voltagent-awesome-agent-skills.md) | catalog, discovery, awesome-list, skill-pack, meta | [@kunal_twts](https://x.com/kunal_twts/status/2122561177293381703) | 2026-11-17 |
+| [nuxt-explicit-imports（Nuxt 自动导入 → 显式导入）](entries/nuxt-explicit-imports.md) | nuxt, migration, codemod, typescript, frontend, skill | [@aidevbird](https://x.com/aidevbird/status/2122505086681403606) | 2026-11-17 |
+| [secondbrain-skills（Obsidian 第二大脑技能包）](entries/secondbrain-skills.md) | obsidian, knowledge-base, wiki, ingest, skill-pack | [@BeromArtDev](https://x.com/BeromArtDev/status/2122510557781627344) | 2026-11-17 |
 | [ECC（Agent 工程系统 / 技能棚）](entries/ecc.md) | skill-pack, agent-harness, memory, hooks, engineering, meta | [@VaibhavSisinty](https://x.com/VaibhavSisinty/status/2122366618705797317) | 2026-11-17 |
 | [Effective HTML（自包含 HTML 产物技能包）](entries/effective-html.md) | frontend, html, wireframe, prototype, diagrams, skill-pack | [@tom_doerr](https://x.com/tom_doerr/status/2122324126064935034) | 2026-11-17 |
 | [scroll-world（滚动穿越 3D 世界落地页）](entries/scroll-world.md) | frontend, landing-page, scroll, video, generative, skill | [@bkdgiffug](https://x.com/bkdgiffug/status/2122308200565522721) | 2026-11-17 |

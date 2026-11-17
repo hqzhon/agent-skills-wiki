@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-316-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-321-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（316 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（321 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -79,6 +79,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 | [last30days](wiki/entries/last30days-skill.md) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 67k | Research what Reddit / X / HN said in the last 30 days |
 | [Marketing Skills](wiki/entries/marketingskills.md) | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 60k | CRO, copywriting, SEO, customer research |
 | [Obsidian Skills](wiki/entries/obsidian-skills.md) | [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | 52k | Official Obsidian vault skills (Markdown, Bases, Canvas) |
+| [VoltAgent Awesome Agent Skills](wiki/entries/voltagent-awesome-agent-skills.md) | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37.3k | Curated 1,497+ official & community agent skills |
 | [HowToLiveLonger](wiki/entries/howtolivelonger.md) | [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 36.1k | Evidence-based longevity lookup for everyday habits |
 | [Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 35k | Anthropic's role-based skill plugins |
 | [video-use](wiki/entries/video-use.md) | [browser-use/video-use](https://github.com/browser-use/video-use) | 31k | Edit talking-head footage by chatting |
@@ -116,6 +117,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [xlsx-author（Anthropic 官方）](wiki/entries/anthropic-xlsx-author.md) — headless 生成可复核的 Excel 文件
 - [claude-bughunter](wiki/entries/claude-bughunter.md) — 授权漏洞狩猎 / 红队技能包（83 个 skill，~5858★）
 - [Google Cloud Skills（官方）](wiki/entries/google-cloud-skills.md) — IAM Helper 等
+- [Google Cloud HPC Skills（官方 gke-batch-hpc）](wiki/entries/google-cloud-hpc.md) — GKE 批处理/HPC 队列、MPI、Kueue；SC26 与 Cluster Toolkit 配对（约 24.4k★）
 - [Google Workspace CLI Skills（gws）](wiki/entries/google-workspace-cli-skills.md) — Gmail/Calendar/Drive 等 ~95 skills
 - [飞书 / Lark 官方 CLI Agent Skills](wiki/entries/lark-cli-skills.md) — 200+ 命令 + 26 个飞书办公 skill，可 dry-run
 - [Remotion Agent Skills（官方）](wiki/entries/remotion-skills.md) — React 视频创作与渲染
@@ -138,6 +140,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [3-statement-model（Anthropic 官方）](wiki/entries/anthropic-3-statement-model.md) — 在已有模板里用公式填通三张表，禁止把算死的数字写入预测格
 - [earnings-analysis（Anthropic 官方）](wiki/entries/anthropic-earnings-analysis.md) — 已覆盖公司的季报更新备忘（8–12 页，强制可点击引用）
 - [ib-check-deck（Anthropic 官方）](wiki/entries/anthropic-ib-check-deck.md) — 路演/投资者演示稿只读质检：跨页数字、叙事与图表、语域和版式
+- [thesis-tracker（Anthropic 官方）](wiki/entries/anthropic-thesis-tracker.md) — 组合/观察名单投资论点跟踪：支柱、催化剂、否决条件
 - [Claude Trading Skills](wiki/entries/claude-trading-skills.md) — 74 个长线投资 + 波段流程技能（非自动下单，~4804★）
 
 ### 设计 / UI / 品味
@@ -177,6 +180,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [gstack（Garry Tan）](wiki/entries/gstack.md) — review / QA / shipping
 - [pstack `/statechart`](wiki/entries/pstack-statechart.md) — TLA+ 状态图找 bug
 - [next-bundle-optimizer](wiki/entries/next-bundle-optimizer.md) — Next.js 官方捆包优化
+- [nuxt-explicit-imports（Anthony Fu）](wiki/entries/nuxt-explicit-imports.md) — Nuxt 4 自动导入迁到显式 import：warn → 分目录迁移自检 → strict（新建仓，6★，MIT）
 - [App Store Connect CLI Skills（asc）](wiki/entries/app-store-connect-cli-skills.md) — TestFlight / 元数据 / 提交审核等约 25 个发版 skill
 - [Webcrawl Anything](wiki/entries/webcrawl-anything.md) — 本地免 Key 抓取 / 8 个 agent skills + CLI/MCP
 - [Graphify](wiki/entries/graphify.md) — 本地 AST 知识图谱 CLI
@@ -190,6 +194,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [CCPM](wiki/entries/ccpm.md) — PRD → Issues → 并行 agents
 - [CodexQA](wiki/entries/codexqa.md) — 合入前本地验证包
 - [Agent Skills 开放标准 / skills-ref](wiki/entries/agentskills-spec.md) — agentskills.io 规范 + 参考校验 CLI（27,330★；skills-ref 声明仅供演示）
+- [VoltAgent Awesome Agent Skills](wiki/entries/voltagent-awesome-agent-skills.md) — 人工精选 1,497+ 官方/社区技能目录（约 37.3k★，MIT；与 Agentic Awesome Skills 互补，装前仍需审阅上游）
 - [skill-guard](wiki/entries/skill-guard.md) · [SkillSpector](wiki/entries/skillspector.md) · [aig-skill-scan](wiki/entries/aig-skill-scan.md) · [agnix](wiki/entries/agnix.md) — 安装卫生 / 信任门；agnix 做 SKILL.md / CLAUDE.md 等配置 lint + autofix（~484★）
 - [vibe-shield](wiki/entries/vibe-shield.md) — AI 生成应用的静态安全扫描（含 MCP/Skill 投毒）
 - [ghost-qa](wiki/entries/ghost-qa.md) — 前端交稿前的无头浏览器闭环 QA
@@ -253,6 +258,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [书脉（weread-atlas）](wiki/entries/weread-atlas.md) — 微信读书划线 → Obsidian 主题卡片 + 知识环地图
 - [WilmAI](wiki/entries/wilmai.md) — 芬兰学校系统 Wilma：MCP + CLI + 家校晨报 skill
 - [Obsidian Skills（官方 obsidianmd）](wiki/entries/obsidian-skills.md)
+- [secondbrain-skills](wiki/entries/secondbrain-skills.md) — Obsidian 第二大脑：收录原文、编译 wiki、带引用作答（早期社区包，0★，MIT）
 - [md2html](wiki/entries/md2html.md) — AI 长文档 → 带目录和图表的单文件 HTML
 - [NVIDIA BioNeMo Agent Toolkit](wiki/entries/bionemo-agent-toolkit.md)
 - [Chaperone（RosettaCommons）](wiki/entries/chaperone.md) — 蛋白质设计

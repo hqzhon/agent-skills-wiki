@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-17T14:00:00+08:00",
-  "last_since_id": "2122565629714551093",
+  "last_scan_at": "2026-11-17T20:00:00+08:00",
+  "last_since_id": "2122658004604752207",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2122476192930689279 (~6h, 14:00 run). EN/ZH/library queries, 194 unique / 186 new ids. 5 accepted: google-cloud-hpc, anthropic-thesis-tracker, voltagent-awesome-agent-skills, nuxt-explicit-imports, secondbrain-skills. Repeats skipped (last30days, SkillEvaluator, SkillSpector, archify, lieflat-gongwen, ffmpeg-skill, addyosmani/verify, comps-analysis, obsidian-skills, agentskills-spec). Skipped: Claude-Red (offensive), Univer SDK, Muse tips, rushrtrade recap, jiangshan-map. Watch: integral-lens, ship-ready-skills unchanged."
+  "last_result": "Scan after 2122565629714551093 (~6h, 20:00 run). EN/ZH/library queries, 181 unique / 181 new ids. 4 accepted: sciwrite, ux-audit-skill, anthropic-earnings-preview, mengto-skills. Repeats skipped (SkillSpector, SkillEvaluator, stitch-skills, initiating-coverage, Claude-BugHunter, Jane Street, Ponytail). Roundup skipped (Asteri 20 skills → superpowers/marketingskills). Skipped: TermiX, Oxylabs, Skillbox, webmcpx, Framer Talve, Jerry_Galaxy /learn. Insufficient: isagi 3D recap, Abdiraimov 800★ screenshot, outreach/persona unresolved. Watch: kar-tally; integral-lens, ship-ready-skills unchanged."
 }

@@ -4,6 +4,10 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [SciWrite（科学论文写作审校）](entries/sciwrite.md) | academic, scientific-writing, editing, review, skill | [@LorenaABarba](https://x.com/LorenaABarba/status/2122599340262785153) | 2026-11-17 |
+| [ux-audit（高级产品设计师式 UX 审计）](entries/ux-audit-skill.md) | ux, design, audit, product, skill | [@AndriiDsgn](https://x.com/AndriiDsgn/status/2122609600700825873) | 2026-11-17 |
+| [earnings-preview（Anthropic 官方财报前瞻）](entries/anthropic-earnings-preview.md) | finance, equity-research, earnings, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2122593312251224437) | 2026-11-17 |
+| [MengTo Skills（设计师 / 前端技能包）](entries/mengto-skills.md) | design, frontend, 3d, illustration, skill-pack, html | [@qi_zhen85546](https://x.com/qi_zhen85546/status/2122621565422501917) | 2026-11-17 |
 | [Google Cloud HPC Skills（gke-batch-hpc）](entries/google-cloud-hpc.md) | google-cloud, hpc, gke, batch, official, skill | [@Zen_with_AI](https://x.com/Zen_with_AI/status/2122531682603688430) | 2026-11-17 |
 | [thesis-tracker（Anthropic 官方投资论点跟踪）](entries/anthropic-thesis-tracker.md) | finance, equity-research, portfolio, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2122502730321367294) | 2026-11-17 |
 | [VoltAgent Awesome Agent Skills（精选技能目录）](entries/voltagent-awesome-agent-skills.md) | catalog, discovery, awesome-list, skill-pack, meta | [@kunal_twts](https://x.com/kunal_twts/status/2122561177293381703) | 2026-11-17 |

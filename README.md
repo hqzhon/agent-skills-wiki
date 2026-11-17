@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-321-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-325-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（321 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（325 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -89,6 +89,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 | [Dashi PPT Skill](wiki/entries/dashi-ppt-skill.md) | [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 10.7k | Browser-editable decks, export real PPTX |
 | [improve](wiki/entries/shadcn-improve.md) | [shadcn/improve](https://github.com/shadcn/improve) | 10k | Strong model audits & plans, cheap model executes |
 | [ljg-skills（李继刚）](wiki/entries/ljg-skills.md) | [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) | 7.7k | 26 atomic thinking / writing skills (中文) |
+| [MengTo Skills](wiki/entries/mengto-skills.md) | [MengTo/Skills](https://github.com/MengTo/Skills) | 7.7k | Design+Code skill pack: HTML demos, 3D, illustration |
 | [.NET Agent Skills](wiki/entries/dotnet-skills.md) | [dotnet/skills](https://github.com/dotnet/skills) | 5.9k | Official C# / MSBuild / NuGet skills with public evals |
 | [gzh-design-skill](wiki/entries/gzh-design-skill.md) | [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) | 4.3k | Markdown → WeChat 公众号-ready HTML (中文) |
 | [Effective HTML](wiki/entries/effective-html.md) | [plannotator/effective-html](https://github.com/plannotator/effective-html) | 4.2k | HTML wireframes, prototypes, diagrams, one-pagers |
@@ -174,6 +175,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Effective HTML](wiki/entries/effective-html.md) — 8 个自包含 HTML 产物技能：线框 / 原型 / 一页纸 / 图解（4,194★，MIT）
 - [scroll-world](wiki/entries/scroll-world.md) — 滚动穿越 3D 世界落地页（生成镜头链 + scrub 引擎，11,029★；需付费视频 API，与 scroll-craft 互补）
 - [line-art-animation](wiki/entries/line-art-animation.md) — SVG 线描动画 skill + 无依赖 TypeScript 库（920★，MIT）
+- [MengTo Skills](wiki/entries/mengto-skills.md) — Design+Code 作者的设计师/前端技能包，约 177 个 SKILL.md；本窗点名 html-demo（7,671★，MIT）
 
 ### 工程 / 交付 / Meta
 - [fuck-u-code-analysis](wiki/entries/fuck-u-code-analysis.md) — 提交前跑屎山体检，按 11 项指标给重构建议
@@ -267,6 +269,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [HowToLiveLonger](wiki/entries/howtolivelonger.md) — 循证延寿数据集 + skill：先查 evidence.json 再给建议（~36.1k★，Unlicense）
 - [coolapk-skills](wiki/entries/coolapk-skills.md) — 酷安技术知识整理成 139 个技能，带证据边界（MIT，仓库仍很新）
 - [figures4papers](wiki/entries/figures4papers.md) — 投稿级 Matplotlib 作图 skill，示范图来自 Nature/NeurIPS 等（~11.8k★，CC BY-NC 4.0，商用不可直接用）
+- [SciWrite](wiki/entries/sciwrite.md) — 科学/工程文稿写作审校：六轮赘词/语态/结构/术语/数字检查，基于 Sainani 课程（890★，CC-BY-4.0，DOI）
 
 ---
 

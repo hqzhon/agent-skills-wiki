@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-325-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-332-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（325 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（332 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -134,6 +134,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [FlyAI（飞猪官方旅行搜索）](wiki/entries/flyai-skill.md) — 自然语言查机票/酒店/火车，结构化可预订结果
 - [campus-recruiting-skill](wiki/entries/campus-recruiting-skill.md) — 中国非技术岗校招：核岗/简历/面试/Offer（不代投）
 - [kr-career-skill](wiki/entries/kr-career-skill.md) — 韩国就业/跳槽：找匹配职位、公司分析、自荐草稿（不代投；新建仓，14★）
+- [Itential Infrastructure Agent Skills（官方）](wiki/entries/itential-infra-agent-skills.md) — 40 个网络/基础设施操作技能、153 份厂商参考（Apache-2.0；新公开推广，1★）
 
 - [equity-research（Anthropic × LSEG）](wiki/entries/anthropic-lseg-equity-research.md) — 一致预期 + 基本面 + 价格 + 宏观的研究快照（需 LSEG MCP）
 - [dcf-model（Anthropic 官方）](wiki/entries/anthropic-dcf-model.md) — SEC + 研报取数，公式化 DCF 与敏感性分析
@@ -214,11 +215,14 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [tinker-ai-skill](wiki/entries/tinker-ai-skill.md) — 用自己的 Claude Code/Codex 会话在 Tinker 上微调并导出本机 GGUF
 - [/optimize](wiki/entries/optimize-skill.md) — 31 项性能体检：先测量、安全修复、再对比
 - [SwiftUI Pro（Paul Hudson）](wiki/entries/swiftui-pro.md) — 专治 LLM 写 SwiftUI 的废弃 API / 无障碍 / 性能错误 (~6.5k★)
+- [Modern Java Guidance](wiki/entries/modern-java-guidance.md) — 拦 Java 8 / Boot 2.x 旧写法，版本感知 CLI + PostToolUse 钩子（对标 modern-web-guidance；新建仓，5★，MIT）
+- [inference-optimisation](wiki/entries/inference-optimisation-skill.md) — 本地 LLM decode/prefill/投机解码爬坡：先算上限再交错 A/B（914★，MIT）
 
 ### 营销 / 增长
 - [Marketing Skills（coreyhaines31）](wiki/entries/marketingskills.md) — CRO / 文案 / SEO / 客户研究 (~58.8k★)
 - [marketing-skill-hub](wiki/entries/marketing-skill-hub.md) — 出海投放 / UGC / 开发信
 - [Apify Agent Skills](wiki/entries/apify-agent-skills.md) — 官方抓取 / Actor 技能
+- [SEO Prompt Master](wiki/entries/seo-prompt-master.md) — 技术 SEO / GEO 审计：零依赖 CLI + skill + 带出处知识库（591★，MIT）
 
 ### 视频 / 成片
 - [huashu-motion](wiki/entries/huashu-motion.md) — 可指着画面局部改的产品发布片（本机作曲）
@@ -250,6 +254,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [teardown](wiki/entries/teardown.md) — 任意机器 → 可拆解的离线 3D 模拟器 + 60fps 讲解片
 - [Reelsmith Media](wiki/entries/reelsmith-media.md) — 素材文件夹 → 本地字幕对齐的竖版 Reel
 - [Stickman Video Director](wiki/entries/stickman-video-director.md) — 不露脸火柴人动画出片
+- [Zazzy Skills（animate-my-work）](wiki/entries/zazzy-skills.md) — Figma 画板分镜后用 Remotion 成片并踩点混音（新建仓，2★，MIT；音效/配乐文件另行保留）
 
 ### 知识库 / 科学 / 其他高信号
 - [fundraising](wiki/entries/fundraising-skill.md) — 融资 / LP / M&A 操盘护栏

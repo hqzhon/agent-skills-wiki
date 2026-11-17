@@ -4,6 +4,13 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [inference-optimisation（本地 LLM 推理爬坡）](entries/inference-optimisation-skill.md) | inference, llm, performance, benchmarking, skill | [@TheArthiAI](https://x.com/TheArthiAI/status/2122718192426721583) | 2026-11-18 |
+| [Itential Infrastructure Agent Skills（官方基础设施技能库）](entries/itential-infra-agent-skills.md) | official, infrastructure, networking, devops, skill-pack | [@Itential](https://x.com/Itential/status/2122695045585248299) | 2026-11-18 |
+| [mobile-app-audit（移动应用证据式 QA）](entries/mobile-app-audit.md) | mobile, qa, ios, android, flutter, react-native, skill | [@ronaldmaco_](https://x.com/ronaldmaco_/status/2122828999722459175) | 2026-11-18 |
+| [Modern Java Guidance（现代 Java / Spring Boot 护栏）](entries/modern-java-guidance.md) | java, spring-boot, lint, hook, skill | [@sivalabs](https://x.com/sivalabs/status/2122834579895763396) | 2026-11-18 |
+| [SEO Prompt Master（技术 SEO / GEO 审计）](entries/seo-prompt-master.md) | seo, geo, audit, cli, skill | [@DanKornas](https://x.com/DanKornas/status/2122795905602740651) | 2026-11-18 |
+| [ui-diff（PR 界面前后对比）](entries/ui-diff.md) | frontend, visual-diff, pr-review, playwright, skill | [@davidamunga_](https://x.com/davidamunga_/status/2122735807551152269) | 2026-11-18 |
+| [Zazzy Skills（animate-my-work：Figma → 动效成片）](entries/zazzy-skills.md) | motion, figma, remotion, animation, skill-pack | [@zazzygfx](https://x.com/zazzygfx/status/2122680715393241336) | 2026-11-18 |
 | [SciWrite（科学论文写作审校）](entries/sciwrite.md) | academic, scientific-writing, editing, review, skill | [@LorenaABarba](https://x.com/LorenaABarba/status/2122599340262785153) | 2026-11-17 |
 | [ux-audit（高级产品设计师式 UX 审计）](entries/ux-audit-skill.md) | ux, design, audit, product, skill | [@AndriiDsgn](https://x.com/AndriiDsgn/status/2122609600700825873) | 2026-11-17 |
 | [earnings-preview（Anthropic 官方财报前瞻）](entries/anthropic-earnings-preview.md) | finance, equity-research, earnings, official, skill | [@huangcheng943](https://x.com/huangcheng943/status/2122593312251224437) | 2026-11-17 |

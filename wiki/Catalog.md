@@ -4,6 +4,8 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [OpenMotion（参考片 → 可编辑品牌动效）](entries/openmotion.md) | video, motion, brand-kit, skill-pack | [@hx0000001](https://x.com/hx0000001/status/2122844696783598036) | 2026-11-18 |
+| [Boring Marketing Skills（32 个营销技能）](entries/boring-marketing-skills.md) | marketing, seo, ads, local-business, skill-pack | [@boringmarketer](https://x.com/boringmarketer/status/2122395509293989985) | 2026-11-18 |
 | [inference-optimisation（本地 LLM 推理爬坡）](entries/inference-optimisation-skill.md) | inference, llm, performance, benchmarking, skill | [@TheArthiAI](https://x.com/TheArthiAI/status/2122718192426721583) | 2026-11-18 |
 | [Itential Infrastructure Agent Skills（官方基础设施技能库）](entries/itential-infra-agent-skills.md) | official, infrastructure, networking, devops, skill-pack | [@Itential](https://x.com/Itential/status/2122695045585248299) | 2026-11-18 |
 | [mobile-app-audit（移动应用证据式 QA）](entries/mobile-app-audit.md) | mobile, qa, ios, android, flutter, react-native, skill | [@ronaldmaco_](https://x.com/ronaldmaco_/status/2122828999722459175) | 2026-11-18 |

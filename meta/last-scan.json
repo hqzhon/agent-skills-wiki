@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-18T08:00:00+08:00",
-  "last_since_id": "2122838487741436387",
+  "last_scan_at": "2026-11-18T14:00:00+08:00",
+  "last_since_id": "2122929680894623907",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2122658004604752207 (~12h, 08:00 run). EN/ZH/library queries, 355 unique / 355 new ids. 7 accepted: inference-optimisation-skill, itential-infra-agent-skills, mobile-app-audit, modern-java-guidance, seo-prompt-master, ui-diff, zazzy-skills. Repeats skipped (Stitch, Blender, ffmpeg-skill, last30days, Claude-BugHunter, SkillEvaluator, Hallmark, unslop, kar-canon, book-to-skill, Obsidian Skills, Kubai Icons). Ads/products skipped (Cituna, Glen, TermiX). Roundups skipped. Out of scope: Pentestizer. Insufficient: Avik-creator/agent-skills, xrpl-muse-skill, /clip with no repo. Watch unchanged: kar-tally, integral-lens, ship-ready-skills."
+  "last_result": "Scan after 2122838487741436387 (~6h, 14:00 run). EN/ZH/library queries, 118 unique / 118 new ids; library query empty. 2 accepted: openmotion, boring-marketing-skills (补录; distinct from coreyhaines31/marketingskills). Repeats skipped (modern-web-guidance, Jane Street socratic-tutor, google/skills, last30days, book-to-skill, Motion Prompt, Stitch, Superpowers, ai-manju-skills, idea-generation). Ads skipped (TermiX, BuildBase, gated DCF, Tripo #PR). Roundups skipped. Insufficient: AgentCV, LinkedIn 10-rules skill, ipo-open-execution. Watch unchanged: kar-tally, integral-lens, ship-ready-skills."
 }

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-332-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-334-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（332 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（334 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -220,11 +220,13 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 
 ### 营销 / 增长
 - [Marketing Skills（coreyhaines31）](wiki/entries/marketingskills.md) — CRO / 文案 / SEO / 客户研究 (~58.8k★)
+- [Boring Marketing Skills](wiki/entries/boring-marketing-skills.md) — 32 个技能：先 start-here 写品牌档案，再做本地获客 / SEO / 广告（565★，MIT；与 coreyhaines31 那套不是同一库）
 - [marketing-skill-hub](wiki/entries/marketing-skill-hub.md) — 出海投放 / UGC / 开发信
 - [Apify Agent Skills](wiki/entries/apify-agent-skills.md) — 官方抓取 / Actor 技能
 - [SEO Prompt Master](wiki/entries/seo-prompt-master.md) — 技术 SEO / GEO 审计：零依赖 CLI + skill + 带出处知识库（591★，MIT）
 
 ### 视频 / 成片
+- [OpenMotion](wiki/entries/openmotion.md) — 参考片 + 品牌套件重做成可编辑动效（11,251★，Apache-2.0；与 OpenMontage 不是同一项目）
 - [huashu-motion](wiki/entries/huashu-motion.md) — 可指着画面局部改的产品发布片（本机作曲）
 - [character-voice-lock](wiki/entries/character-voice-lock.md) — Seedance / Dreamina 角色声线锁定：先测文本，再用人声或「配音供体」固定参考
 - [long-poster-making-video](wiki/entries/long-poster-making-video.md) — 1:4 四页长海报 + 42 光标线框成片制作过程

@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-18T14:00:00+08:00",
-  "last_since_id": "2122929680894623907",
+  "last_scan_at": "2026-11-18T20:00:00+08:00",
+  "last_since_id": "2123021849605062931",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Scan after 2122838487741436387 (~6h, 14:00 run). EN/ZH/library queries, 118 unique / 118 new ids; library query empty. 2 accepted: openmotion, boring-marketing-skills (补录; distinct from coreyhaines31/marketingskills). Repeats skipped (modern-web-guidance, Jane Street socratic-tutor, google/skills, last30days, book-to-skill, Motion Prompt, Stitch, Superpowers, ai-manju-skills, idea-generation). Ads skipped (TermiX, BuildBase, gated DCF, Tripo #PR). Roundups skipped. Insufficient: AgentCV, LinkedIn 10-rules skill, ipo-open-execution. Watch unchanged: kar-tally, integral-lens, ship-ready-skills."
+  "last_result": "Scan after 2122838487741436387 (~12h overlapping the 14:00 window whose cursor was 2122929680894623907). EN/ZH/library queries, 297 unique / 297 new ids vs 08:00 cursor (180 unseen vs 14:00 seen-ids; 1 14:00 id merged). 7 accepted: rust-anything, 3dviz-pro-max, grim-prompter, spritecast, flawless-ui-ux, h3-fight, quadmotion. 14:00 already added openmotion, boring-marketing-skills (kept). Repeats skipped (last30days, superpowers, modern-java-guidance, line-art-animation, huashu-motion, stack-diagram, vibe-shield, inference-optimisation, book-to-skill, ECC, scientific-agent-skills, security-audit-skill, impeccable, modern-web-guidance, ai-manju-skills, vvv, google/skills, emilkowalski/skills, Anthropic financial-services, hithink-finance, stock-skill). Ads/products skipped (TermiX, Skilvella, Skillbox, AgentCV, paperclip, orca, agent-desktop, open-design, HyperFrames). Mysticism pack watched, not batched. Insufficient: larrey-seo-audit, human-readable."
 }

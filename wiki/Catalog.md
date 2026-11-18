@@ -4,13 +4,20 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
-| [OpenMotion（参考片 → 可编辑品牌动效）](entries/openmotion.md) | video, motion, brand-kit, skill-pack | [@hx0000001](https://x.com/hx0000001/status/2122844696783598036) | 2026-11-18 |
+| [3dviz-pro-max（一句话做可逛 3D 场景）](entries/3dviz-pro-max.md) | 3d, threejs, blender, visualization, skill | [@aigljrzj](https://x.com/aigljrzj/status/2122947080247476665) | 2026-11-18 |
 | [Boring Marketing Skills（32 个营销技能）](entries/boring-marketing-skills.md) | marketing, seo, ads, local-business, skill-pack | [@boringmarketer](https://x.com/boringmarketer/status/2122395509293989985) | 2026-11-18 |
+| [flawless-ui-ux（产品语境 UI/UX + 本地检查）](entries/flawless-ui-ux.md) | ui, ux, frontend, design, cli, skill | [@GitTrend0x](https://x.com/GitTrend0x/status/2123016010366144917) | 2026-11-18 |
+| [Grim Prompter（仓库威胁建模）](entries/grim-prompter.md) | security, threat-modeling, privacy, appsec, skill | [@fngly343149](https://x.com/fngly343149/status/2122994769215496322) | 2026-11-18 |
+| [h3-fight（MiniMax H3 打戏提示词）](entries/h3-fight.md) | video, prompt-writing, minimax, motion, skill | [@ShenfuX](https://x.com/ShenfuX/status/2122948653908373645) | 2026-11-18 |
 | [inference-optimisation（本地 LLM 推理爬坡）](entries/inference-optimisation-skill.md) | inference, llm, performance, benchmarking, skill | [@TheArthiAI](https://x.com/TheArthiAI/status/2122718192426721583) | 2026-11-18 |
 | [Itential Infrastructure Agent Skills（官方基础设施技能库）](entries/itential-infra-agent-skills.md) | official, infrastructure, networking, devops, skill-pack | [@Itential](https://x.com/Itential/status/2122695045585248299) | 2026-11-18 |
 | [mobile-app-audit（移动应用证据式 QA）](entries/mobile-app-audit.md) | mobile, qa, ios, android, flutter, react-native, skill | [@ronaldmaco_](https://x.com/ronaldmaco_/status/2122828999722459175) | 2026-11-18 |
 | [Modern Java Guidance（现代 Java / Spring Boot 护栏）](entries/modern-java-guidance.md) | java, spring-boot, lint, hook, skill | [@sivalabs](https://x.com/sivalabs/status/2122834579895763396) | 2026-11-18 |
+| [OpenMotion（参考片 → 可编辑品牌动效）](entries/openmotion.md) | video, motion, brand-kit, skill-pack | [@hx0000001](https://x.com/hx0000001/status/2122844696783598036) | 2026-11-18 |
+| [QuadMotion（终端 Unicode 像素吉祥物）](entries/quadmotion.md) | terminal, animation, pixel-art, tui, skill | [@Liquid__Ring](https://x.com/Liquid__Ring/status/2122871577914306996) | 2026-11-18 |
+| [rust-anything（逐步迁到 Rust，行为对照）](entries/rust-anything.md) | rust, migration, performance, testing, skill | [@GitTrend0x](https://x.com/GitTrend0x/status/2123016010366144917) | 2026-11-18 |
 | [SEO Prompt Master（技术 SEO / GEO 审计）](entries/seo-prompt-master.md) | seo, geo, audit, cli, skill | [@DanKornas](https://x.com/DanKornas/status/2122795905602740651) | 2026-11-18 |
+| [spritecast（按镜头角度出游戏精灵图）](entries/spritecast.md) | gamedev, sprites, pixel-art, claude-code, skill | [@GitTrend0x](https://x.com/GitTrend0x/status/2123016010366144917) | 2026-11-18 |
 | [ui-diff（PR 界面前后对比）](entries/ui-diff.md) | frontend, visual-diff, pr-review, playwright, skill | [@davidamunga_](https://x.com/davidamunga_/status/2122735807551152269) | 2026-11-18 |
 | [Zazzy Skills（animate-my-work：Figma → 动效成片）](entries/zazzy-skills.md) | motion, figma, remotion, animation, skill-pack | [@zazzygfx](https://x.com/zazzygfx/status/2122680715393241336) | 2026-11-18 |
 | [SciWrite（科学论文写作审校）](entries/sciwrite.md) | academic, scientific-writing, editing, review, skill | [@LorenaABarba](https://x.com/LorenaABarba/status/2122599340262785153) | 2026-11-17 |

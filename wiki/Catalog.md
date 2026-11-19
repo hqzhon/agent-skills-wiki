@@ -4,12 +4,18 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [agent-redteam（给自己的 Agent 做红队测试）](entries/agent-redteam.md) | security, red-team, evaluation, skill | [@edbrdi](https://x.com/edbrdi/status/2123217019277304200) | 2026-11-19 |
 | [blattify（把 claudeblattman 工作法用到现有工作流）](entries/blattify.md) | productivity, research, workflow, workbook, skill | [@cblatts](https://x.com/cblatts/status/2123048780065128721) | 2026-11-19 |
 | [cleared-for-takeoff（App Store 提交前预检）](entries/cleared-for-takeoff.md) | ios, app-store, qa, flutter, react-native, skill | [@pavleos](https://x.com/pavleos/status/2123099078804295809) | 2026-11-19 |
+| [CLI-Anything（把任意软件变成 Agent 可调用的 CLI）](entries/cli-anything.md) | cli, agent-native, tooling, skill-pack | [@Aw5295388256244](https://x.com/Aw5295388256244/status/2123229067294253299) | 2026-11-19 |
+| [cogsec（带着批判思维把想法过一遍）](entries/cogsec.md) | critical-thinking, research, cognitive-security, skill | [@sprice](https://x.com/sprice/status/2123234152053174301) | 2026-11-19 |
+| [creator-generalist（2D/3D 社媒内容技能包）](entries/creator-generalist.md) | video, 3d, 2d, social, blender, skill-pack | [@dextune](https://x.com/dextune/status/2123249654208839867) | 2026-11-19 |
+| [godot-agent（用 CLI/Skill/MCP 做可验证的 Godot 原型）](entries/godot-agent.md) | godot, gamedev, cli, mcp, skill | [@vincentjuan0507](https://x.com/vincentjuan0507/status/2123272554773188883) | 2026-11-19 |
 | [hstack（大模型编排小模型并行交付）](entries/hstack.md) | orchestration, cost, multi-agent, worktree, skill-pack | [@shellhaki](https://x.com/shellhaki/status/2123189263248359441) | 2026-11-19 |
 | [Instagram Agent Skill（13 个 Instagram 运营技能）](entries/instagram-agent-skill.md) | instagram, content, hooks, social, skill-pack | [@AKhomssi](https://x.com/AKhomssi/status/2123170873628655974) | 2026-11-19 |
 | [llm-council（五顾问合议决策）](entries/llm-council-skill.md) | decision-making, debate, evaluation, claude-code, skill | [@Mostlybuilds](https://x.com/Mostlybuilds/status/2123083382267756769) | 2026-11-19 |
 | [mac-tuneup（先测量再安全清理 Mac）](entries/mac-tuneup.md) | macos, diagnostics, storage, icloud, skill | [@sencanon](https://x.com/sencanon/status/2123043472869396884) | 2026-11-19 |
+| [repo-vet（安装前只读审查仓库与软件包）](entries/repo-vet.md) | security, supply-chain, audit, skill | [@usuallyazu](https://x.com/usuallyazu/status/2123218900838146521) | 2026-11-19 |
 | [seo-canon（Google 官方搜索文档离线技能）](entries/seo-canon.md) | seo, google, documentation, schema, audit, skill | [@abhayofc](https://x.com/abhayofc/status/2123046486216933575) | 2026-11-19 |
 | [3dviz-pro-max（一句话做可逛 3D 场景）](entries/3dviz-pro-max.md) | 3d, threejs, blender, visualization, skill | [@aigljrzj](https://x.com/aigljrzj/status/2122947080247476665) | 2026-11-18 |
 | [Boring Marketing Skills（32 个营销技能）](entries/boring-marketing-skills.md) | marketing, seo, ads, local-business, skill-pack | [@boringmarketer](https://x.com/boringmarketer/status/2122395509293989985) | 2026-11-18 |

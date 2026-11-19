@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-348-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-354-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（348 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（354 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -194,6 +194,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [达尔文.skill 3.0](wiki/entries/darwin-skill.md) — 盲评实跑产出，只保留真有增益的 SKILL.md 改动（~6916★）
 - [Superpowers (obra)](wiki/entries/superpowers.md) — brainstorming + TDD 交付流
 - [ECC](wiki/entries/ecc.md) — Agent 工程系统：约 327 个 skill、72 个 agent、hooks / memory / AgentShield（约 305k★，MIT）
+- [CLI-Anything](wiki/entries/cli-anything.md) — 把 GIMP / Blender / Obsidian 等软件变成 Agent 可调用的 CLI，并可用 skill 生成新 harness（约 60.0k★，Apache-2.0；港大 HKUDS）
 - [founder-skill](wiki/entries/founder-skill.md) — 创业压力测试包
 - [Addy Osmani Agent Skills](wiki/entries/addyosmani-agent-skills.md) · [Matt Pocock Skills](wiki/entries/mattpocock-skills.md)
 - [CCPM](wiki/entries/ccpm.md) — PRD → Issues → 并行 agents
@@ -252,6 +253,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [dream-loop](wiki/entries/dream-loop.md) — 先梦目标截图，再由 critic 对照实机画面迭代高保真 3D/游戏画面
 - [Open 3D Skills](wiki/entries/open-3d-skills.md) — three.js 场景 / 滚动影片 / 爆炸图 / 60fps 录制 8 件套
 - [Blender Agent Skills](wiki/entries/blender-skills.md) — 28 个 Blender 5.2+/5.3 全流程技能（建模到导出/质检，1,246★）
+- [creator-generalist](wiki/entries/creator-generalist.md) — 2D/3D/小游戏社媒成片技能包：先提问和廉价预览再渲染（310★，MIT；与 Blender Agent Skills、Open 3D Skills 互补）
 - [image-to-sculpt](wiki/entries/image-to-sculpt.md) — 一张图 → 可对图度量的 Blender 雕刻技能
 - [story-to-handdrawn-video](wiki/entries/story-to-handdrawn-video.md) — 中文故事 → 3:4 手绘动画
 - [Muse Video Skill](wiki/entries/muse-video-skill.md) — 虚拟剧组：创意 → 剧本/分镜/美术/模型指令（38 案例库，94★；上游仍标开发中）

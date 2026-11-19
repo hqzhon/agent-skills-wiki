@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-341-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-348-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（341 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（348 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -186,6 +186,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [next-bundle-optimizer](wiki/entries/next-bundle-optimizer.md) — Next.js 官方捆包优化
 - [nuxt-explicit-imports（Anthony Fu）](wiki/entries/nuxt-explicit-imports.md) — Nuxt 4 自动导入迁到显式 import：warn → 分目录迁移自检 → strict（新建仓，6★，MIT）
 - [App Store Connect CLI Skills（asc）](wiki/entries/app-store-connect-cli-skills.md) — TestFlight / 元数据 / 提交审核等约 25 个发版 skill
+- [llm-council](wiki/entries/llm-council-skill.md) — 五个视角不同的顾问匿名互评后再给结论（Karpathy LLM Council；1,065★；仓库较久未更新且未标许可证）
 - [Webcrawl Anything](wiki/entries/webcrawl-anything.md) — 本地免 Key 抓取 / 8 个 agent skills + CLI/MCP
 - [Graphify](wiki/entries/graphify.md) — 本地 AST 知识图谱 CLI
 - [skill-diet](wiki/entries/skill-diet.md) — 给臃肿 Skill 减重（token ↓）
@@ -227,6 +228,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [marketing-skill-hub](wiki/entries/marketing-skill-hub.md) — 出海投放 / UGC / 开发信
 - [Apify Agent Skills](wiki/entries/apify-agent-skills.md) — 官方抓取 / Actor 技能
 - [SEO Prompt Master](wiki/entries/seo-prompt-master.md) — 技术 SEO / GEO 审计：零依赖 CLI + skill + 带出处知识库（591★，MIT）
+- [Instagram Agent Skill](wiki/entries/instagram-agent-skill.md) — 13 个 Instagram 运营技能：钩子打分、对标、文案与去 AI 腔，默认不代发（7,116★，MIT；与 YouTube Agent Skill 为同一作者姊妹包）
 
 ### 视频 / 成片
 - [OpenMotion](wiki/entries/openmotion.md) — 参考片 + 品牌套件重做成可编辑动效（11,251★，Apache-2.0；与 OpenMontage 不是同一项目）
@@ -279,6 +281,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Chaperone（RosettaCommons）](wiki/entries/chaperone.md) — 蛋白质设计
 - [leanrea（轻装逆向）](wiki/entries/leanrea.md) · [BAMA](wiki/entries/bama.md) — Build Any Mac App
 - [史鉴人生抉择](wiki/entries/shiji-tongjian-decisions.md) — 史记/通鉴核源决策
+- [blattify](wiki/entries/blattify.md) — 把 claudeblattman.com 的工作法用到现有项目：评估后带练（父仓库 487★，MIT）
 - [HowToLiveLonger](wiki/entries/howtolivelonger.md) — 循证延寿数据集 + skill：先查 evidence.json 再给建议（~36.1k★，Unlicense）
 - [coolapk-skills](wiki/entries/coolapk-skills.md) — 酷安技术知识整理成 139 个技能，带证据边界（MIT，仓库仍很新）
 - [figures4papers](wiki/entries/figures4papers.md) — 投稿级 Matplotlib 作图 skill，示范图来自 Nature/NeurIPS 等（~11.8k★，CC BY-NC 4.0，商用不可直接用）

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-354-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-360-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（354 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（360 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -178,6 +178,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [line-art-animation](wiki/entries/line-art-animation.md) — SVG 线描动画 skill + 无依赖 TypeScript 库（920★，MIT）
 - [MengTo Skills](wiki/entries/mengto-skills.md) — Design+Code 作者的设计师/前端技能包，约 177 个 SKILL.md；本窗点名 html-demo（7,671★，MIT）
 - [flawless-ui-ux](wiki/entries/flawless-ui-ux.md) — 按产品语境做网页/手机/桌面界面，并带本地检查 CLI（248★，MIT）
+- [hairline](wiki/entries/hairline.md) — 等距单线插画：按想法生成或从 SVG 领养，交出自包含 HTML（4,015★，MIT）
 
 ### 工程 / 交付 / Meta
 - [fuck-u-code-analysis](wiki/entries/fuck-u-code-analysis.md) — 提交前跑屎山体检，按 11 项指标给重构建议
@@ -195,6 +196,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Superpowers (obra)](wiki/entries/superpowers.md) — brainstorming + TDD 交付流
 - [ECC](wiki/entries/ecc.md) — Agent 工程系统：约 327 个 skill、72 个 agent、hooks / memory / AgentShield（约 305k★，MIT）
 - [CLI-Anything](wiki/entries/cli-anything.md) — 把 GIMP / Blender / Obsidian 等软件变成 Agent 可调用的 CLI，并可用 skill 生成新 harness（约 60.0k★，Apache-2.0；港大 HKUDS）
+- [mcu-skills](wiki/entries/mcu-skills.md) — STM32 / ESP32 / RP2040 等开发板固件技能：引脚、时钟、烧录，一块板一个 SKILL.md（29★，MIT）
+- [ruby-memsafety-exposure](wiki/entries/ruby-memsafety-exposure.md) — 升级前只读审查 Rails/Sinatra 是否暴露于 2026-11-18 Ruby 内存安全修复（与官方公告同日发布；0★，未标许可证）
 - [founder-skill](wiki/entries/founder-skill.md) — 创业压力测试包
 - [Addy Osmani Agent Skills](wiki/entries/addyosmani-agent-skills.md) · [Matt Pocock Skills](wiki/entries/mattpocock-skills.md)
 - [CCPM](wiki/entries/ccpm.md) — PRD → Issues → 并行 agents
@@ -245,6 +248,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Remotion Agent Skills（官方）](wiki/entries/remotion-skills.md)
 - [video-talkcraft（口播 Remotion）](wiki/entries/video-talkcraft.md)
 - [Lemo-Opuscar](wiki/entries/lemo-opuscar.md) — 代码成片风格工具箱
+- [lemo-animi](wiki/entries/lemo-animi.md) — 一句话做定格动画短片（黏土/纸艺等八种材质），生图+代码逐帧，不走视频模型（100★，CC BY-NC 4.0）
 - [vvv](wiki/entries/vvv.md) — Remotion 视频模板工厂
 - [product-launch-motion](wiki/entries/product-launch-motion.md) — URL → 发布片
 - [onetake](wiki/entries/onetake.md) — 一镜到底发布片 / 功能演示，带连贯性评分（非商业许可）
@@ -261,6 +265,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Bang Motion](wiki/entries/bang-motion.md) — 浏览器动效成片（非 PPT）
 - [match-cut](wiki/entries/match-cut.md) — 接力匹配剪辑宣传片
 - [teardown](wiki/entries/teardown.md) — 任意机器 → 可拆解的离线 3D 模拟器 + 60fps 讲解片
+- [simulator](wiki/entries/simulator.md) — 把机场/工厂等行业做成玩具比例、可点击的离线模拟器并录成 60fps 片（19★，MIT）
 - [Reelsmith Media](wiki/entries/reelsmith-media.md) — 素材文件夹 → 本地字幕对齐的竖版 Reel
 - [Stickman Video Director](wiki/entries/stickman-video-director.md) — 不露脸火柴人动画出片
 - [Zazzy Skills（animate-my-work）](wiki/entries/zazzy-skills.md) — Figma 画板分镜后用 Remotion 成片并踩点混音（新建仓，2★，MIT；音效/配乐文件另行保留）

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-360-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-370-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（360 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（370 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -77,6 +77,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 | [Impeccable](wiki/entries/impeccable.md) | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 108k | Frontend design vocabulary for agents |
 | [Humanizer](wiki/entries/humanizer.md) | [blader/humanizer](https://github.com/blader/humanizer) | 68k | Remove 26 patterns of AI-sounding writing |
 | [last30days](wiki/entries/last30days-skill.md) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 67k | Research what Reddit / X / HN said in the last 30 days |
+| [i-have-adhd](wiki/entries/i-have-adhd.md) | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 62k | ADHD-friendly outputs: action first, no buried answers |
 | [Marketing Skills](wiki/entries/marketingskills.md) | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 60k | CRO, copywriting, SEO, customer research |
 | [Obsidian Skills](wiki/entries/obsidian-skills.md) | [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | 52k | Official Obsidian vault skills (Markdown, Bases, Canvas) |
 | [VoltAgent Awesome Agent Skills](wiki/entries/voltagent-awesome-agent-skills.md) | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37.3k | Curated 1,497+ official & community agent skills |
@@ -107,6 +108,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Modern Web Guidance（浏览器厂商官方）](wiki/entries/modern-web-guidance.md) — 让编码 agent 用原生 Web API，附 legacy-scan
 - [improve（shadcn）](wiki/entries/shadcn-improve.md) — 强模型审计写计划、便宜模型执行
 - [.NET Agent Skills（官方）](wiki/entries/dotnet-skills.md) — C# / MSBuild / 升级迁移，附公开评测看板
+- [NestJS Agent Skills（官方）](wiki/entries/nestjs-agent-skills.md) — 6 个技能按当前 Nest API 写接口/认证/数据/测试/上线（145★，MIT；本窗新发布）
+- [Mapbox Agent Skills（官方）](wiki/entries/mapbox-agent-skills.md) — Web / iOS / Android / Flutter 地图开发技能 + Mapbox MCP（87★，MIT）
 - [Meteor Agent Skills（官方）](wiki/entries/meteor-agent-skills.md) — Meteor 3 开发与迁移 17 技能
 - [last30days](wiki/entries/last30days-skill.md) — 近 30 天 Reddit / X / Polymarket 真实讨论调研
 - [Gemini API Skills（Google 官方）](wiki/entries/gemini-skills.md) — Gemini API / 媒体生成 CLI
@@ -151,6 +154,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [ai-writing](wiki/entries/ai-writing.md) — 先砍篇幅和清晰度，再去 AI 腔（与 Humanizer 互补）
 - [gzh-design-skill](wiki/entries/gzh-design-skill.md) — Markdown 一键排成公众号可粘贴 HTML，6 套主题
 - [Taste Skill](wiki/entries/taste-skill.md) — 艺术指导 + 去 AI 味前端
+- [antialgorithm](wiki/entries/antialgorithm.md) — 先点名模型的第一平均解，再按项目上下文离开它（707★，MIT）
 - [baoyu-design（本地 Claude Design）](wiki/entries/baoyu-design.md) — 幻灯片 / Dashboard / HTML
 - [Impeccable](wiki/entries/impeccable.md) — 前端设计词汇表
 - [ip-as-logo](wiki/entries/ip-as-logo.md) — 极简 IP 吉祥物 Logo：三方向、六候选、严格复杂度预算
@@ -196,6 +200,9 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Superpowers (obra)](wiki/entries/superpowers.md) — brainstorming + TDD 交付流
 - [ECC](wiki/entries/ecc.md) — Agent 工程系统：约 327 个 skill、72 个 agent、hooks / memory / AgentShield（约 305k★，MIT）
 - [CLI-Anything](wiki/entries/cli-anything.md) — 把 GIMP / Blender / Obsidian 等软件变成 Agent 可调用的 CLI，并可用 skill 生成新 harness（约 60.0k★，Apache-2.0；港大 HKUDS）
+- [i-have-adhd](wiki/entries/i-have-adhd.md) — 先给答案和编号步骤，别把结论埋进客套（61,966★，MIT）
+- [finetune-inkling-2-small](wiki/entries/finetune-inkling-2-small.md) — 在 Tinker 上微调 Inkling 2 Small 的完整配方，付费步骤前会停（18★，MIT）
+- [roblox-dev-skill](wiki/entries/roblox-dev-skill.md) — 按已核对的 Studio / Luau 版本写 Roblox，附 14 篇参考（101★，MIT）
 - [mcu-skills](wiki/entries/mcu-skills.md) — STM32 / ESP32 / RP2040 等开发板固件技能：引脚、时钟、烧录，一块板一个 SKILL.md（29★，MIT）
 - [ruby-memsafety-exposure](wiki/entries/ruby-memsafety-exposure.md) — 升级前只读审查 Rails/Sinatra 是否暴露于 2026-11-18 Ruby 内存安全修复（与官方公告同日发布；0★，未标许可证）
 - [founder-skill](wiki/entries/founder-skill.md) — 创业压力测试包
@@ -232,6 +239,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [marketing-skill-hub](wiki/entries/marketing-skill-hub.md) — 出海投放 / UGC / 开发信
 - [Apify Agent Skills](wiki/entries/apify-agent-skills.md) — 官方抓取 / Actor 技能
 - [SEO Prompt Master](wiki/entries/seo-prompt-master.md) — 技术 SEO / GEO 审计：零依赖 CLI + skill + 带出处知识库（591★，MIT）
+- [SEO Skills（Illyism）](wiki/entries/seo-skills.md) — 30 个可落地 SEO 工作流，产出是可合并的 PR / 仓库改动（1,912★，README 标 MIT）
 - [Instagram Agent Skill](wiki/entries/instagram-agent-skill.md) — 13 个 Instagram 运营技能：钩子打分、对标、文案与去 AI 腔，默认不代发（7,116★，MIT；与 YouTube Agent Skill 为同一作者姊妹包）
 
 ### 视频 / 成片
@@ -270,10 +278,13 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Stickman Video Director](wiki/entries/stickman-video-director.md) — 不露脸火柴人动画出片
 - [Zazzy Skills（animate-my-work）](wiki/entries/zazzy-skills.md) — Figma 画板分镜后用 Remotion 成片并踩点混音（新建仓，2★，MIT；音效/配乐文件另行保留）
 - [3dviz-pro-max](wiki/entries/3dviz-pro-max.md) — 一句话做成可逛的 Three.js / Blender 场景，带案例与验收（1,410★，MIT；仓最近推送停在 2026-09-11）
+- [BB-Video](wiki/entries/bb-video.md) — 纯代码画出讲解片 / 产品宣传片，37 种风格，给 URL 就能做宣传片（207★，MIT）
 - [spritecast](wiki/entries/spritecast.md) — 按游戏镜头角度从立绘生成 8 向精灵图 / 像素表（288★，MIT；出图走付费 API）
+- [sprite-stacking](wiki/entries/sprite-stacking.md) — 四视图像素画雕刻叠层，做成可旋转伪 3D 精灵（450★，MIT；与 spritecast 互补）
 - [h3-fight](wiki/entries/h3-fight.md) — MiniMax H3 打戏/运动提示词库 + 提交前检查（133★；工具 MIT，提示词库 CC BY-NC 4.0）
 
 ### 知识库 / 科学 / 其他高信号
+- [muse-grok-x-search](wiki/entries/muse-grok-x-search.md) — 给 Muse 补上只读 X 搜索（经 Grok Build CLI，227★，MIT）
 - [fundraising](wiki/entries/fundraising-skill.md) — 融资 / LP / M&A 操盘护栏
 - [BLA / Blind LLM Agents](wiki/entries/bla-blind-llm-agents.md) — Counter-REA 加固 skill + MCP/CLI（防御自有产物）
 - [ghidra-rpc](wiki/entries/ghidra-rpc.md) — Cellebrite Labs 出品，agent 驱动 Ghidra 做二进制逆向

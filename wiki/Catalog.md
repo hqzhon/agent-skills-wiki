@@ -4,6 +4,16 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [antialgorithm（先点名再躲开模型的第一平均解）](entries/antialgorithm.md) | creativity, design, naming, writing, skill | [@TheArthiAI](https://x.com/TheArthiAI/status/2124167079087759602) | 2026-11-23 |
+| [BB-Video（纯代码画出讲解片 / 产品宣传片）](entries/bb-video.md) | video, motion, explainer, promo, skill | [@dextune](https://x.com/dextune/status/2123974429700976700) | 2026-11-23 |
+| [finetune-inkling-2-small（在 Tinker 上微调 Inkling 2 Small）](entries/finetune-inkling-2-small.md) | finetune, llm, tinker, serving, skill | [@migtissera](https://x.com/migtissera/status/2123849865679749342) | 2026-11-23 |
+| [i-have-adhd（先给答案，别把结论埋在长篇客套里）](entries/i-have-adhd.md) | productivity, writing, ux, claude-code, skill | [@damnGruz](https://x.com/damnGruz/status/2123847167928574121) | 2026-11-23 |
+| [Mapbox Agent Skills（官方地图开发技能包）](entries/mapbox-agent-skills.md) | official, mapbox, maps, mobile, web, skill-pack | [@gitrepos](https://x.com/gitrepos/status/2124624047530975256) | 2026-11-23 |
+| [muse-grok-x-search（给 Muse 补上只读的 X 搜索）](entries/muse-grok-x-search.md) | muse, x-search, research, skill | [@777iiikk](https://x.com/777iiikk/status/2124513964432502885) | 2026-11-23 |
+| [NestJS Agent Skills（官方 Nest 技能包）](entries/nestjs-agent-skills.md) | official, nestjs, typescript, backend, skill-pack | [@nestframework](https://x.com/nestframework/status/2123741121482489930) | 2026-11-23 |
+| [roblox-dev-skill（按当前 Studio / Luau 写 Roblox）](entries/roblox-dev-skill.md) | gamedev, roblox, luau, mcp, skill | [@0xKense1](https://x.com/0xKense1/status/2124248203629306061) | 2026-11-23 |
+| [SEO Skills（Illyism，30 个可落地 SEO 工作流）](entries/seo-skills.md) | seo, geo, content, audit, skill-pack | [@growaiskills](https://x.com/growaiskills/status/2124364557644697709) | 2026-11-23 |
+| [sprite-stacking（四视图像素画叠成可旋转伪 3D 精灵）](entries/sprite-stacking.md) | gamedev, pixel-art, sprites, fake-3d, skill | [@dwhitedesign](https://x.com/dwhitedesign/status/2123815052553650499) | 2026-11-23 |
 | [agent-redteam（给自己的 Agent 做红队测试）](entries/agent-redteam.md) | security, red-team, evaluation, skill | [@edbrdi](https://x.com/edbrdi/status/2123217019277304200) | 2026-11-19 |
 | [blattify（把 claudeblattman 工作法用到现有工作流）](entries/blattify.md) | productivity, research, workflow, workbook, skill | [@cblatts](https://x.com/cblatts/status/2123048780065128721) | 2026-11-19 |
 | [cleared-for-takeoff（App Store 提交前预检）](entries/cleared-for-takeoff.md) | ios, app-store, qa, flutter, react-native, skill | [@pavleos](https://x.com/pavleos/status/2123099078804295809) | 2026-11-19 |

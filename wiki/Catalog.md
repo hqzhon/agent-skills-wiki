@@ -4,6 +4,12 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [app-store-compliance（App Store / Play 拒审预检）](entries/app-store-compliance.md) | ios, android, app-store, google-play, compliance, skill | [@forgetsen](https://x.com/forgetsen/status/2124684491994087498) | 2026-11-23 |
+| [best-paper-writing-skill（按获奖论文笔法写摘要/引言/方法）](entries/best-paper-writing-skill.md) | academic, paper-writing, cvpr, figures, skill | [@fngly343149](https://x.com/fngly343149/status/2124679935302480122) | 2026-11-23 |
+| [diorama（可旋转 Three.js 立体模型盒）](entries/diorama.md) | 3d, threejs, pixel-art, toon, visualization, skill | [@scharssazael](https://x.com/scharssazael/status/2124687253721030965) | 2026-11-23 |
+| [drama-skills（ZenStory 短剧/漫剧十二技能）](entries/drama-skills.md) | short-drama, screenplay, storyboard, video, skill-pack, chinese | [@bibitcanus](https://x.com/bibitcanus/status/2124679047879840082) | 2026-11-23 |
+| [papercraft（弹出式剪纸风 3D/2D 场景）](entries/papercraft.md) | 3d, threejs, papercraft, animation, video, skill | [@dextune](https://x.com/dextune/status/2124676807844929900) | 2026-11-23 |
+| [vela-agent-skills（LuxAlgo 官方图表库技能包）](entries/vela-agent-skills.md) | official, charts, trading, finance, typescript, skill-pack | [@hisevenih](https://x.com/hisevenih/status/2124724649443656039) | 2026-11-23 |
 | [antialgorithm（先点名再躲开模型的第一平均解）](entries/antialgorithm.md) | creativity, design, naming, writing, skill | [@TheArthiAI](https://x.com/TheArthiAI/status/2124167079087759602) | 2026-11-23 |
 | [BB-Video（纯代码画出讲解片 / 产品宣传片）](entries/bb-video.md) | video, motion, explainer, promo, skill | [@dextune](https://x.com/dextune/status/2123974429700976700) | 2026-11-23 |
 | [finetune-inkling-2-small（在 Tinker 上微调 Inkling 2 Small）](entries/finetune-inkling-2-small.md) | finetune, llm, tinker, serving, skill | [@migtissera](https://x.com/migtissera/status/2123849865679749342) | 2026-11-23 |

@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-23T08:00:00+08:00",
-  "last_since_id": "2124649377058742573",
+  "last_scan_at": "2026-11-23T14:00:00+08:00",
+  "last_since_id": "2124742860968955998",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Backfill after 2123382289027547356 (from 11-19 20:00 cursor; missed runs 11-20..11-22). EN/ZH/library queries, 2049 unique / 2049 new ids. 10 accepted: nestjs-agent-skills, sprite-stacking, seo-skills, i-have-adhd, antialgorithm, mapbox-agent-skills, bb-video, finetune-inkling-2-small, roblox-dev-skill, muse-grok-x-search. High-star misses filled (i-have-adhd 61966★, seo-skills 1912★). Repeats skipped (last30days, superpowers, SkillEvaluator, CLI-Anything, etc.). Ads skipped (TermiX, Oxylabs). Listicles skipped except extracting roblox-dev-skill. Not a skill: Kintsugi-27B model, Xcode 27 export (watch). Early 0★ watch: BharatSkills, chatgpt-business-profile-setup, launch-project."
+  "last_result": "Window after 2124649377058742573 (11-23 08:00). EN/ZH/library queries, 138 unique / 138 new ids. 6 accepted: papercraft, diorama, best-paper-writing-skill, vela-agent-skills, drama-skills, app-store-compliance. High-star misses filled (drama-skills 4782, app-store-compliance 4170, Vela 1378, diorama 710). Repeats skipped (muse-grok-x-search, antialgorithm, gemini-skills, kubai-icons, unslop, story-studio, etc.). Ads skipped (TermiX, HOUSE, qHooks). Not a skill: SkillBench, MuseAI-Skills unofficial snapshot, AutoClip, AnyS1. Early watch: Azzzzznnnn SaaS Go/No-Go SKILL.md (no stable public repo)."
 }

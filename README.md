@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-370-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-376-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（370 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（376 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -110,6 +110,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [.NET Agent Skills（官方）](wiki/entries/dotnet-skills.md) — C# / MSBuild / 升级迁移，附公开评测看板
 - [NestJS Agent Skills（官方）](wiki/entries/nestjs-agent-skills.md) — 6 个技能按当前 Nest API 写接口/认证/数据/测试/上线（145★，MIT；本窗新发布）
 - [Mapbox Agent Skills（官方）](wiki/entries/mapbox-agent-skills.md) — Web / iOS / Android / Flutter 地图开发技能 + Mapbox MCP（87★，MIT）
+- [vela-agent-skills（LuxAlgo 官方）](wiki/entries/vela-agent-skills.md) — 金融图表库自带 6 个 skill + llms.txt，避免模型编过时 API（1,378★，Apache-2.0）
 - [Meteor Agent Skills（官方）](wiki/entries/meteor-agent-skills.md) — Meteor 3 开发与迁移 17 技能
 - [last30days](wiki/entries/last30days-skill.md) — 近 30 天 Reddit / X / Polymarket 真实讨论调研
 - [Gemini API Skills（Google 官方）](wiki/entries/gemini-skills.md) — Gemini API / 媒体生成 CLI
@@ -191,6 +192,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [next-bundle-optimizer](wiki/entries/next-bundle-optimizer.md) — Next.js 官方捆包优化
 - [nuxt-explicit-imports（Anthony Fu）](wiki/entries/nuxt-explicit-imports.md) — Nuxt 4 自动导入迁到显式 import：warn → 分目录迁移自检 → strict（新建仓，6★，MIT）
 - [App Store Connect CLI Skills（asc）](wiki/entries/app-store-connect-cli-skills.md) — TestFlight / 元数据 / 提交审核等约 25 个发版 skill
+- [app-store-compliance](wiki/entries/app-store-compliance.md) — App Store / Google Play 拒审预检与提交前 hook（4,170★，OpenRoots ORA 2.3，装前先看许可；与 cleared-for-takeoff 互补）
 - [llm-council](wiki/entries/llm-council-skill.md) — 五个视角不同的顾问匿名互评后再给结论（Karpathy LLM Council；1,065★；仓库较久未更新且未标许可证）
 - [Webcrawl Anything](wiki/entries/webcrawl-anything.md) — 本地免 Key 抓取 / 8 个 agent skills + CLI/MCP
 - [Graphify](wiki/entries/graphify.md) — 本地 AST 知识图谱 CLI
@@ -278,6 +280,9 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Stickman Video Director](wiki/entries/stickman-video-director.md) — 不露脸火柴人动画出片
 - [Zazzy Skills（animate-my-work）](wiki/entries/zazzy-skills.md) — Figma 画板分镜后用 Remotion 成片并踩点混音（新建仓，2★，MIT；音效/配乐文件另行保留）
 - [3dviz-pro-max](wiki/entries/3dviz-pro-max.md) — 一句话做成可逛的 Three.js / Blender 场景，带案例与验收（1,410★，MIT；仓最近推送停在 2026-09-11）
+- [papercraft](wiki/entries/papercraft.md) — 弹出式剪纸风 Three.js 游戏/场景/短片，带结构类型和出片脚本（262★，MIT；本窗介绍帖 190 赞）
+- [diorama](wiki/entries/diorama.md) — 可旋转 Three.js 立体模型盒，先选像素/卡通外观和模型来源（710★，MIT）
+- [drama-skills（ZenStory）](wiki/entries/drama-skills.md) — 短剧/漫剧十二技能：点子或原著 → 剧本/分镜/提示词/成片（4,782★，MIT）
 - [BB-Video](wiki/entries/bb-video.md) — 纯代码画出讲解片 / 产品宣传片，37 种风格，给 URL 就能做宣传片（207★，MIT）
 - [spritecast](wiki/entries/spritecast.md) — 按游戏镜头角度从立绘生成 8 向精灵图 / 像素表（288★，MIT；出图走付费 API）
 - [sprite-stacking](wiki/entries/sprite-stacking.md) — 四视图像素画雕刻叠层，做成可旋转伪 3D 精灵（450★，MIT；与 spritecast 互补）
@@ -304,6 +309,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [coolapk-skills](wiki/entries/coolapk-skills.md) — 酷安技术知识整理成 139 个技能，带证据边界（MIT，仓库仍很新）
 - [figures4papers](wiki/entries/figures4papers.md) — 投稿级 Matplotlib 作图 skill，示范图来自 Nature/NeurIPS 等（~11.8k★，CC BY-NC 4.0，商用不可直接用）
 - [SciWrite](wiki/entries/sciwrite.md) — 科学/工程文稿写作审校：六轮赘词/语态/结构/术语/数字检查，基于 Sainani 课程（890★，CC-BY-4.0，DOI）
+- [best-paper-writing-skill](wiki/entries/best-paper-writing-skill.md) — 按 CVPR/ICCV/NeurIPS 获奖论文笔法写摘要/引言/方法并规划配图（424★，CC BY 4.0；与 SciWrite、figures4papers 互补）
 
 ---
 

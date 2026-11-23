@@ -4,6 +4,12 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [formant-voice（Klatt 式共振峰合成语音 + 频谱视频）](entries/formant-voice.md) | audio, speech-synthesis, formant, video, ffmpeg, skill | [@NyxYujin](https://x.com/NyxYujin/status/2124830587508707433) | 2026-11-23 |
+| [ghidra-decompile-skill（按地址做 Ghidra 定向反编译）](entries/ghidra-decompile-skill.md) | security, reverse-engineering, ghidra, decompiler, skill | [@lcheylus](https://x.com/lcheylus/status/2124776238636003682) | 2026-11-23 |
+| [production-ready-architecture（带出处的生产级架构评审）](entries/production-ready-architecture.md) | architecture, review, security, payments, cicd, skill | [@n_bukhtiyarova](https://x.com/n_bukhtiyarova/status/2124830631712493825) | 2026-11-23 |
+| [SkillNet（技能发现 / 安装 / 评估 / 路由）](entries/skillnet.md) | catalog, discovery, evaluation, routing, meta, skill | [@bkdgiffug](https://x.com/bkdgiffug/status/2124828810235256864) | 2026-11-23 |
+| [unslop-ui（去掉界面和图表里的 AI 痕迹）](entries/unslop-ui.md) | design, ui, frontend, anti-slop, charts, copy, skill | [@AlphaByPablo](https://x.com/AlphaByPablo/status/2124802475282845719) | 2026-11-23 |
+| [wallstreet-explainer（华尔街式财经/科技解说短片）](entries/wallstreet-explainer.md) | video, finance, explainer, motion, short-video, chinese, skill | [@ilexax](https://x.com/ilexax/status/2124826095442637150) | 2026-11-23 |
 | [app-store-compliance（App Store / Play 拒审预检）](entries/app-store-compliance.md) | ios, android, app-store, google-play, compliance, skill | [@forgetsen](https://x.com/forgetsen/status/2124684491994087498) | 2026-11-23 |
 | [best-paper-writing-skill（按获奖论文笔法写摘要/引言/方法）](entries/best-paper-writing-skill.md) | academic, paper-writing, cvpr, figures, skill | [@fngly343149](https://x.com/fngly343149/status/2124679935302480122) | 2026-11-23 |
 | [diorama（可旋转 Three.js 立体模型盒）](entries/diorama.md) | 3d, threejs, pixel-art, toon, visualization, skill | [@scharssazael](https://x.com/scharssazael/status/2124687253721030965) | 2026-11-23 |

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-376-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-382-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（376 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（382 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -160,6 +160,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Impeccable](wiki/entries/impeccable.md) — 前端设计词汇表
 - [ip-as-logo](wiki/entries/ip-as-logo.md) — 极简 IP 吉祥物 Logo：三方向、六候选、严格复杂度预算
 - [unslop](wiki/entries/unslop.md) — 把 vibecoded 的 AI 味 UI 逐轮改成有性格的设计
+- [unslop-ui](wiki/entries/unslop-ui.md) — 按编号规则去掉界面/图表里的 AI 痕迹（eyebrow、装饰编号、botsplaining 等），默认不重做视觉方向（767★，MIT；与 heydamir/unslop 互补）
 - [UI UX Pro Max](wiki/entries/ui-ux-pro-max.md) — 设计系统智能技能 + CLI
 - [oil-ui](wiki/entries/oil-ui.md) — UI 方向探索与并排对比
 - [Emil Kowalski Skills](wiki/entries/emilkowalski-skills.md) — UI / 动效 taste
@@ -213,6 +214,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [CodexQA](wiki/entries/codexqa.md) — 合入前本地验证包
 - [Agent Skills 开放标准 / skills-ref](wiki/entries/agentskills-spec.md) — agentskills.io 规范 + 参考校验 CLI（27,330★；skills-ref 声明仅供演示）
 - [VoltAgent Awesome Agent Skills](wiki/entries/voltagent-awesome-agent-skills.md) — 人工精选 1,497+ 官方/社区技能目录（约 37.3k★，MIT；与 Agentic Awesome Skills 互补，装前仍需审阅上游）
+- [SkillNet](wiki/entries/skillnet.md) — 技能发现 / 安装 / 评估 / 路由基础设施，附 Python SDK 与论文（1,460★，MIT；与 VoltAgent 精选目录互补，装来的上游 skill 仍需审阅）
 - [skill-guard](wiki/entries/skill-guard.md) · [SkillSpector](wiki/entries/skillspector.md) · [aig-skill-scan](wiki/entries/aig-skill-scan.md) · [agnix](wiki/entries/agnix.md) — 安装卫生 / 信任门；agnix 做 SKILL.md / CLAUDE.md 等配置 lint + autofix（~484★）
 - [vibe-shield](wiki/entries/vibe-shield.md) — AI 生成应用的静态安全扫描（含 MCP/Skill 投毒）
 - [ghost-qa](wiki/entries/ghost-qa.md) — 前端交稿前的无头浏览器闭环 QA
@@ -284,6 +286,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [diorama](wiki/entries/diorama.md) — 可旋转 Three.js 立体模型盒，先选像素/卡通外观和模型来源（710★，MIT）
 - [drama-skills（ZenStory）](wiki/entries/drama-skills.md) — 短剧/漫剧十二技能：点子或原著 → 剧本/分镜/提示词/成片（4,782★，MIT）
 - [BB-Video](wiki/entries/bb-video.md) — 纯代码画出讲解片 / 产品宣传片，37 种风格，给 URL 就能做宣传片（207★，MIT）
+- [wallstreet-explainer](wiki/entries/wallstreet-explainer.md) — 华尔街式财经/科技解说短片：真新闻作证据，深蓝底 + 金色大数字，横竖屏、有口播/无人出镜四种模式（1,017★，MIT）
+- [formant-voice](wiki/entries/formant-voice.md) — 不用录音也不用 TTS 模型，用 Klatt 共振峰合成复古语音并出频谱视频（MIT zip，作者站点分发）
 - [spritecast](wiki/entries/spritecast.md) — 按游戏镜头角度从立绘生成 8 向精灵图 / 像素表（288★，MIT；出图走付费 API）
 - [sprite-stacking](wiki/entries/sprite-stacking.md) — 四视图像素画雕刻叠层，做成可旋转伪 3D 精灵（450★，MIT；与 spritecast 互补）
 - [h3-fight](wiki/entries/h3-fight.md) — MiniMax H3 打戏/运动提示词库 + 提交前检查（133★；工具 MIT，提示词库 CC BY-NC 4.0）

@@ -4,6 +4,17 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [notebooklm-py（非官方 Gemini Notebook / NotebookLM API 与技能）](entries/notebooklm-py.md) | unofficial, gemini-notebook, notebooklm, python, cli, research, audio, video, skill | [@fngly343149](https://x.com/fngly343149/status/2125170610825527782) | 2026-11-24 |
+| [You.com Agent Skills（官方：实时搜索 / 抽取 / 带引用调研）](entries/youdotcom-agent-skills.md) | official, you.com, web-search, research, finance, mcp, skill-pack | [@cheery9998](https://x.com/cheery9998/status/2125175846457770015) | 2026-11-24 |
+| [fast-anything（只把最慢的那 5% 迁到 Rust 并对照验证）](entries/fast-anything.md) | rust, performance, profiling, migration, cli, mcp, skill | [@GitTrend0x](https://x.com/GitTrend0x/status/2125190362742374569) | 2026-11-24 |
+| [safe-anything（代码漏洞 / 密钥 / 依赖 / Agent 配置扫描）](entries/safe-anything.md) | security, audit, rust, cli, mcp, agent-hygiene, skill | [@GitTrend0x](https://x.com/GitTrend0x/status/2125190362742374569) | 2026-11-24 |
+| [unslop-anything（先查真用户痛点，再修 AI 味 UI/UX）](entries/unslop-anything.md) | design, ui, ux, frontend, mobile, anti-slop, skill | [@fngly343149](https://x.com/fngly343149/status/2125108987104522520) | 2026-11-24 |
+| [open-diagram（会自检布局的架构图 / 系统图）](entries/open-diagram.md) | diagrams, architecture, python, svg, mcp, skill | [@GitTrend0x](https://x.com/GitTrend0x/status/2125190362742374569) | 2026-11-24 |
+| [OmniCAD Skill（有证据的二维 CAD 出图与校对）](entries/omnicad-skill.md) | cad, autocad, dxf, dwg, engineering, python, skill | [@CommunismHaruh1](https://x.com/CommunismHaruh1/status/2125106497118228685) | 2026-11-24 |
+| [CF Daml Skill（Canton Network 上的 Daml 智能合约）](entries/cf-daml-skill.md) | official, daml, canton, smart-contracts, skill | [@Jpandya26](https://x.com/Jpandya26/status/2125173050018848911) | 2026-11-24 |
+| [AI Werk Skills（编码 Agent 里的五阶段软件交付线）](entries/aiwerk-skills.md) | software-delivery, workflow, planning, review, skill-pack | [@AnPod](https://x.com/AnPod/status/2125170054107136167) | 2026-11-24 |
+| [svg-line-story（主题生成可离线打开的 SVG 长卷）](entries/svg-line-story.md) | svg, animation, storytelling, illustration, python, chinese, skill | [@lkkchenlkk](https://x.com/lkkchenlkk/status/2125154245750186486) | 2026-11-24 |
+| [vlog-shorts-4k60（实拍短视频或墨线漫画：画面与字幕分层）](entries/vlog-shorts-4k60.md) | video, shorts, subtitles, ffmpeg, playwright, chinese, skill | [@YiFuBai](https://x.com/YiFuBai/status/2125110945131479048) | 2026-11-24 |
 | [Claude for Legal（Anthropic 官方法律工作流插件包）](entries/claude-for-legal.md) | official, legal, anthropic, skill-pack, cowork | [@r3ktFM](https://x.com/r3ktFM/status/2125079629467910255) | 2026-11-24 |
 | [boring-video-studio（先把内容与分镜批完再交给制作）](entries/boring-video-studio.md) | video, planning, narration, skill-pack, chinese | [@verysmallwoods](https://x.com/verysmallwoods/status/2125036183730213131) | 2026-11-24 |
 | [Apple App Intents Skill（给 iOS 应用加 Siri / Shortcuts / App Intents）](entries/apple-app-intents-skill.md) | ios, siri, shortcuts, app-intents, apple-intelligence, skill | [@Sdefendre](https://x.com/Sdefendre/status/2125032562812682413) | 2026-11-24 |

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-397-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-408-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（397 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（408 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -135,6 +135,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [ElevenLabs Skills（官方）](wiki/entries/elevenlabs-skills.md) — 语音 / 实时音频
 - [Anthropic Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) — Cowork 角色技能包
 - [Claude for Legal（Anthropic 官方）](wiki/entries/claude-for-legal.md) — 12 个法律插件 / 约 157 个技能；输出仅为供律师复核的草稿（10,078★，Apache-2.0）
+- [You.com Agent Skills（官方）](wiki/entries/youdotcom-agent-skills.md) — 实时网页搜索 / 抽取 / 带引用调研与财经技能（108★，MIT；基础搜索可用免费 MCP profile）
+- [CF Daml Skill（Canton Foundation DevRel）](wiki/entries/cf-daml-skill.md) — Canton Network 上编写/审阅 Daml 合约，v2.0.0 覆盖 3.5–3.7（4★，Apache-2.0）
 - [Microsoft SkillOpt](wiki/entries/microsoft-skillopt.md) — 训 Skill.md、不动权重
 - [PixiJS Skills（官方）](wiki/entries/pixijs-skills.md) · [Android Official Skills](wiki/entries/android-official-skills.md) · [Compose Skill（Jetpack Compose 七件套）](wiki/entries/compose-skill.md)
 - [Tailscale Skill（官方）](wiki/entries/tailscale-skill.md) — networking / tsnet / k8s
@@ -168,6 +170,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [ip-as-logo](wiki/entries/ip-as-logo.md) — 极简 IP 吉祥物 Logo：三方向、六候选、严格复杂度预算
 - [unslop](wiki/entries/unslop.md) — 把 vibecoded 的 AI 味 UI 逐轮改成有性格的设计
 - [unslop-ui](wiki/entries/unslop-ui.md) — 按编号规则去掉界面/图表里的 AI 痕迹（eyebrow、装饰编号、botsplaining 等），默认不重做视觉方向（767★，MIT；与 heydamir/unslop 互补）
+- [unslop-anything](wiki/entries/unslop-anything.md) — 先查真实差评里的 UX 故障，再修 Web/移动端的 AI 味界面（358★，MIT；与 unslop、unslop-ui 不是同一仓库）
+- [open-diagram](wiki/entries/open-diagram.md) — 会测量标签并自检布局的架构图 / 系统图，输出 SVG/PNG（373★，MIT）
 - [UI UX Pro Max](wiki/entries/ui-ux-pro-max.md) — 设计系统智能技能 + CLI
 - [oil-ui](wiki/entries/oil-ui.md) — UI 方向探索与并排对比
 - [Emil Kowalski Skills](wiki/entries/emilkowalski-skills.md) — UI / 动效 taste
@@ -249,6 +253,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Modern Java Guidance](wiki/entries/modern-java-guidance.md) — 拦 Java 8 / Boot 2.x 旧写法，版本感知 CLI + PostToolUse 钩子（对标 modern-web-guidance；新建仓，5★，MIT）
 - [inference-optimisation](wiki/entries/inference-optimisation-skill.md) — 本地 LLM decode/prefill/投机解码爬坡：先算上限再交错 A/B（914★，MIT）
 - [rust-anything](wiki/entries/rust-anything.md) — 把 TS/Python/Go/Java 等一块块迁到 Rust，先给原程序录像再对照（2,386★，MIT）
+- [fast-anything](wiki/entries/fast-anything.md) — 只把最慢的约 5% 热点纯函数迁到 Rust，并用录制调用做对照（3,425★，MIT；与 rust-anything 互补）
+- [safe-anything](wiki/entries/safe-anything.md) — 扫描代码漏洞、密钥、CVE 依赖和不安全的 MCP/skill 配置（567★，MIT）
 - [Grim Prompter](wiki/entries/grim-prompter.md) — 对着仓库做可追溯威胁建模：36 套架构工作流 + 证据报告（538★，MIT）
 
 ### 营销 / 增长
@@ -312,6 +318,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [h3-fight](wiki/entries/h3-fight.md) — MiniMax H3 打戏/运动提示词库 + 提交前检查（133★；工具 MIT，提示词库 CC BY-NC 4.0）
 
 ### 知识库 / 科学 / 其他高信号
+- [notebooklm-py](wiki/entries/notebooklm-py.md) — 非官方 Gemini Notebook（原 NotebookLM）Python API / CLI / 可加载技能（20,364★，MIT；走未文档化接口，装前看风险说明）
 - [muse-grok-x-search](wiki/entries/muse-grok-x-search.md) — 给 Muse 补上只读 X 搜索（经 Grok Build CLI，227★，MIT）
 - [fundraising](wiki/entries/fundraising-skill.md) — 融资 / LP / M&A 操盘护栏
 - [BLA / Blind LLM Agents](wiki/entries/bla-blind-llm-agents.md) — Counter-REA 加固 skill + MCP/CLI（防御自有产物）

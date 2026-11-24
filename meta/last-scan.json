@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-24T14:00:00+08:00",
-  "last_since_id": "2125103903658365088",
+  "last_scan_at": "2026-11-24T20:00:00+08:00",
+  "last_since_id": "2125194580316545191",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Window after 2125011944402727031 (11-24 08:00). EN/ZH/library queries, 154 unique / 154 new ids. 4 accepted: claude-for-legal, boring-video-studio, apple-app-intents-skill, project-health. Updated baoyu-design to Open Artifact (JimLiu/open-artifact). Official miss filled (claude-for-legal 10078). Repeats skipped (find-skills/vercel-skills-cli, mattpocock, sprite-stacking, shuohao-skills, claude-bughunter, taste-skill, autoresearch, app-store-compliance, muse-grok-x-search, stitch-skills, financial-services). Ads skipped (TermiX, earnadvise bounty board, dealpoller). Watch: openai/plugins (skills repo deprecated); ClawVet v0.18.0 (no stable repo link yet); Intel perf skill still no public repo."
+  "last_result": "Window after 2125103903658365088 (11-24 14:00). EN/ZH/library queries, 170 unique / 170 new ids. 11 accepted: notebooklm-py, youdotcom-agent-skills, fast-anything, safe-anything, unslop-anything, open-diagram, omnicad-skill, cf-daml-skill, aiwerk-skills, svg-line-story, vlog-shorts-4k60. Repeats skipped (sprite-stacking, cli-anything, z-video-downloader, claude-animated-shorts, Vela, hithink-finance, muse-grok-x-search, bughunter, diagram-design, scientific-agent-skills, financial-services, stickman, cloudflare-security-audit, SkillSpector, nuwa, scrapling, taste-skill, papercraft). Ads skipped (Scriptwriter Pro, Scrolltide, TermiX, Starveil, RepoGates, msm-agent-skill). Watch: web2skill, Cuttlefish.MD, SkillPlumber paper, Firebase GA skills; native-game-re skipped (game-hacking)."
 }

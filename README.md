@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-382-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-393-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（382 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（393 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -79,11 +79,14 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 | [last30days](wiki/entries/last30days-skill.md) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 67k | Research what Reddit / X / HN said in the last 30 days |
 | [i-have-adhd](wiki/entries/i-have-adhd.md) | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 62k | ADHD-friendly outputs: action first, no buried answers |
 | [Marketing Skills](wiki/entries/marketingskills.md) | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 60k | CRO, copywriting, SEO, customer research |
+| [Chrome DevTools MCP](wiki/entries/chrome-devtools-mcp.md) | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 59k | Official live-Chrome debugging MCP + 8 agent skills |
 | [Obsidian Skills](wiki/entries/obsidian-skills.md) | [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | 52k | Official Obsidian vault skills (Markdown, Bases, Canvas) |
 | [VoltAgent Awesome Agent Skills](wiki/entries/voltagent-awesome-agent-skills.md) | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37.3k | Curated 1,497+ official & community agent skills |
 | [HowToLiveLonger](wiki/entries/howtolivelonger.md) | [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 36.1k | Evidence-based longevity lookup for everyday habits |
 | [Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 35k | Anthropic's role-based skill plugins |
 | [video-use](wiki/entries/video-use.md) | [browser-use/video-use](https://github.com/browser-use/video-use) | 31k | Edit talking-head footage by chatting |
+| [PM Skills](wiki/entries/pm-skills.md) | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 28.3k | 72 PM decision skills / 9 plugins, companion to product-engineering |
+| [planning-with-files](wiki/entries/planning-with-files.md) | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 28.2k | Crash-proof markdown plans that survive /clear |
 | [飞书 / Lark 官方 CLI Skills](wiki/entries/lark-cli-skills.md) | [larksuite/cli](https://github.com/larksuite/cli) | 18k | Official Feishu/Lark CLI + 26 agent skills |
 | [figures4papers](wiki/entries/figures4papers.md) | [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) | 11.8k | Publication-quality Matplotlib figures + a loadable skill |
 | [scroll-world](wiki/entries/scroll-world.md) | [oso95/scroll-world](https://github.com/oso95/scroll-world) | 11.0k | Scroll-scrubbed 3D-world landing pages |
@@ -122,6 +125,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [xlsx-author（Anthropic 官方）](wiki/entries/anthropic-xlsx-author.md) — headless 生成可复核的 Excel 文件
 - [claude-bughunter](wiki/entries/claude-bughunter.md) — 授权漏洞狩猎 / 红队技能包（83 个 skill，~5858★）
 - [Google Cloud Skills（官方）](wiki/entries/google-cloud-skills.md) — IAM Helper 等
+- [Chrome DevTools MCP（官方）](wiki/entries/chrome-devtools-mcp.md) — 实况 Chrome 调试 MCP + 8 个 skill（LCP / 无障碍 / Cookie / 内存泄漏，59k★，Apache-2.0；默认采集用量统计，可关闭）
+- [RoboDK Agent Skills（官方）](wiki/entries/robodk-agent-skills.md) — 用自然语言搭工位、写 API、生成机器人程序（10★，MIT；仓最近推送停在 2026-10-06）
 - [Google Cloud HPC Skills（官方 gke-batch-hpc）](wiki/entries/google-cloud-hpc.md) — GKE 批处理/HPC 队列、MPI、Kueue；SC26 与 Cluster Toolkit 配对（约 24.4k★）
 - [Google Workspace CLI Skills（gws）](wiki/entries/google-workspace-cli-skills.md) — Gmail/Calendar/Drive 等 ~95 skills
 - [飞书 / Lark 官方 CLI Agent Skills](wiki/entries/lark-cli-skills.md) — 200+ 命令 + 26 个飞书办公 skill，可 dry-run
@@ -198,6 +203,11 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Webcrawl Anything](wiki/entries/webcrawl-anything.md) — 本地免 Key 抓取 / 8 个 agent skills + CLI/MCP
 - [Graphify](wiki/entries/graphify.md) — 本地 AST 知识图谱 CLI
 - [skill-diet](wiki/entries/skill-diet.md) — 给臃肿 Skill 减重（token ↓）
+- [planning-with-files](wiki/entries/planning-with-files.md) — 计划/发现/进度落盘，`/clear` 后仍可续上（28.2k★，MIT）
+- [PM Skills](wiki/entries/pm-skills.md) — 72 个产品决策技能 / 9 个插件（28.3k★，MIT）；与已收录的 [product-engineering](wiki/entries/product-engineering.md) 配套
+- [Agentic Production Skills](wiki/entries/agentic-production-skills.md) — 12 个生产门禁（审计、检查点、输入防火墙、影子评估）+ 零依赖参考实现
+- [a11y-loop](wiki/entries/a11y-loop.md) — 先按无障碍写 UI，再在真浏览器里审计（MIT，npm + 评测）
+- [grok-export-tool](wiki/entries/grok-export-tool.md) — 本地导出自己的 Grok Bot 与对话，附 MCP 和 skill（无 API key）
 - [better-skill](wiki/entries/better-skill.md) — 技能体检 / 打分 / 选型标准
 - [达尔文.skill 3.0](wiki/entries/darwin-skill.md) — 盲评实跑产出，只保留真有增益的 SKILL.md 改动（~6916★）
 - [Superpowers (obra)](wiki/entries/superpowers.md) — brainstorming + TDD 交付流
@@ -247,6 +257,10 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Instagram Agent Skill](wiki/entries/instagram-agent-skill.md) — 13 个 Instagram 运营技能：钩子打分、对标、文案与去 AI 腔，默认不代发（7,116★，MIT；与 YouTube Agent Skill 为同一作者姊妹包）
 
 ### 视频 / 成片
+- [bilibili-douyin-notes](wiki/entries/bilibili-douyin-notes.md) — 把 B站/抖音/YouTube/小红书视频整理成 Markdown 课堂笔记（200★，MIT，本地字幕/识别）
+- [scenario-selfie-hologram](wiki/entries/scenario-selfie-hologram.md) — 自拍登记成会说话的 3D 全息影像（依赖 Scenario MCP 与约 1.6 GB 本地安装）
+- [subtitle-skills](wiki/entries/subtitle-skills.md) — 本地 SRT ↔ VTT 转换、检查、平移、合并与拆分（标准库，MIT）
+- [split-for-x](wiki/entries/split-for-x.md) — 把一张图切成 X / Instagram 能对缝的多图，发布前出预览
 - [OpenMotion](wiki/entries/openmotion.md) — 参考片 + 品牌套件重做成可编辑动效（11,251★，Apache-2.0；与 OpenMontage 不是同一项目）
 - [huashu-motion](wiki/entries/huashu-motion.md) — 可指着画面局部改的产品发布片（本机作曲）
 - [character-voice-lock](wiki/entries/character-voice-lock.md) — Seedance / Dreamina 角色声线锁定：先测文本，再用人声或「配音供体」固定参考

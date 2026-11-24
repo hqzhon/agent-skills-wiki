@@ -4,6 +4,17 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Chrome DevTools MCP（官方：实况 Chrome 调试 + 8 个技能）](entries/chrome-devtools-mcp.md) | official, chrome, devtools, mcp, debugging, skill-pack | [@hsianghui](https://x.com/hsianghui/status/2124900166507585833) | 2026-11-24 |
+| [PM Skills（产品决策框架市场，72 个技能）](entries/pm-skills.md) | product, pm, strategy, discovery, skill-pack | [@PawelHuryn](https://x.com/PawelHuryn/status/2124984448106009025) | 2026-11-24 |
+| [planning-with-files（把计划写到磁盘，清会话也能接着干）](entries/planning-with-files.md) | planning, persistence, context, workflow, skill | [@hsianghui](https://x.com/hsianghui/status/2124916631558291626) | 2026-11-24 |
+| [bilibili-douyin-notes（B站/抖音/YouTube/小红书视频课堂笔记）](entries/bilibili-douyin-notes.md) | video, notes, bilibili, douyin, youtube, chinese, skill | [@Chenfacai0](https://x.com/Chenfacai0/status/2124994149250138117) | 2026-11-24 |
+| [a11y-loop（先写出无障碍 UI，再用真浏览器审计）](entries/a11y-loop.md) | a11y, accessibility, frontend, audit, skill | [@chanmeng666](https://x.com/chanmeng666/status/2124964644603465858) | 2026-11-24 |
+| [RoboDK Agent Skills（官方：从描述到工位/机器人程序）](entries/robodk-agent-skills.md) | official, robotics, robodk, manufacturing, skill-pack | [@RoboDKinc](https://x.com/RoboDKinc/status/2124873177167720506) | 2026-11-24 |
+| [Agentic Production Skills（12 个生产级门禁与韧性技能）](entries/agentic-production-skills.md) | production, reliability, security, evaluation, skill-pack | [@ParraEvan](https://x.com/ParraEvan/status/2124874359756234953) | 2026-11-24 |
+| [grok-export-tool（本地导出自己的 Grok Bot 与对话）](entries/grok-export-tool.md) | grok, export, backup, mcp, skill | [@su_lofi](https://x.com/su_lofi/status/2124910293851729922) | 2026-11-24 |
+| [scenario-selfie-hologram（自拍登记成会说话的 3D 全息影像）](entries/scenario-selfie-hologram.md) | video, 3d, hologram, scenario, skill | [@AIandDesign](https://x.com/AIandDesign/status/2124950659342750117) | 2026-11-24 |
+| [subtitle-skills（本地 SRT ↔ VTT 转换、检查、平移、合并与拆分）](entries/subtitle-skills.md) | subtitles, srt, vtt, video, skill | [@woshiyanali](https://x.com/woshiyanali/status/2124880506827510117) | 2026-11-24 |
+| [split-for-x（把一张图切成 X / Instagram 能对缝的多图）](entries/split-for-x.md) | image, twitter, instagram, social, design, skill | [@tiborwell](https://x.com/tiborwell/status/2124975777762447462) | 2026-11-24 |
 | [formant-voice（Klatt 式共振峰合成语音 + 频谱视频）](entries/formant-voice.md) | audio, speech-synthesis, formant, video, ffmpeg, skill | [@NyxYujin](https://x.com/NyxYujin/status/2124830587508707433) | 2026-11-23 |
 | [ghidra-decompile-skill（按地址做 Ghidra 定向反编译）](entries/ghidra-decompile-skill.md) | security, reverse-engineering, ghidra, decompiler, skill | [@lcheylus](https://x.com/lcheylus/status/2124776238636003682) | 2026-11-23 |
 | [production-ready-architecture（带出处的生产级架构评审）](entries/production-ready-architecture.md) | architecture, review, security, payments, cicd, skill | [@n_bukhtiyarova](https://x.com/n_bukhtiyarova/status/2124830631712493825) | 2026-11-23 |

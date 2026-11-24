@@ -4,6 +4,10 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Claude for Legal（Anthropic 官方法律工作流插件包）](entries/claude-for-legal.md) | official, legal, anthropic, skill-pack, cowork | [@r3ktFM](https://x.com/r3ktFM/status/2125079629467910255) | 2026-11-24 |
+| [boring-video-studio（先把内容与分镜批完再交给制作）](entries/boring-video-studio.md) | video, planning, narration, skill-pack, chinese | [@verysmallwoods](https://x.com/verysmallwoods/status/2125036183730213131) | 2026-11-24 |
+| [Apple App Intents Skill（给 iOS 应用加 Siri / Shortcuts / App Intents）](entries/apple-app-intents-skill.md) | ios, siri, shortcuts, app-intents, apple-intelligence, skill | [@Sdefendre](https://x.com/Sdefendre/status/2125032562812682413) | 2026-11-24 |
+| [project-health（上线前证据驱动审计与交付验收）](entries/project-health.md) | audit, qa, delivery, verification, skill | [@fallen_leaves08](https://x.com/fallen_leaves08/status/2125102616518791268) | 2026-11-24 |
 | [Chrome DevTools MCP（官方：实况 Chrome 调试 + 8 个技能）](entries/chrome-devtools-mcp.md) | official, chrome, devtools, mcp, debugging, skill-pack | [@hsianghui](https://x.com/hsianghui/status/2124900166507585833) | 2026-11-24 |
 | [PM Skills（产品决策框架市场，72 个技能）](entries/pm-skills.md) | product, pm, strategy, discovery, skill-pack | [@PawelHuryn](https://x.com/PawelHuryn/status/2124984448106009025) | 2026-11-24 |
 | [planning-with-files（把计划写到磁盘，清会话也能接着干）](entries/planning-with-files.md) | planning, persistence, context, workflow, skill | [@hsianghui](https://x.com/hsianghui/status/2124916631558291626) | 2026-11-24 |

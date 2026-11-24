@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-393-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-397-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（393 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（397 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -91,6 +91,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 | [figures4papers](wiki/entries/figures4papers.md) | [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) | 11.8k | Publication-quality Matplotlib figures + a loadable skill |
 | [scroll-world](wiki/entries/scroll-world.md) | [oso95/scroll-world](https://github.com/oso95/scroll-world) | 11.0k | Scroll-scrubbed 3D-world landing pages |
 | [Dashi PPT Skill](wiki/entries/dashi-ppt-skill.md) | [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 10.7k | Browser-editable decks, export real PPTX |
+| [Claude for Legal](wiki/entries/claude-for-legal.md) | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | 10.1k | Official legal workflow plugins / 157 skills |
 | [improve](wiki/entries/shadcn-improve.md) | [shadcn/improve](https://github.com/shadcn/improve) | 10k | Strong model audits & plans, cheap model executes |
 | [ljg-skills（李继刚）](wiki/entries/ljg-skills.md) | [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) | 7.7k | 26 atomic thinking / writing skills (中文) |
 | [MengTo Skills](wiki/entries/mengto-skills.md) | [MengTo/Skills](https://github.com/MengTo/Skills) | 7.7k | Design+Code skill pack: HTML demos, 3D, illustration |
@@ -133,6 +134,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Remotion Agent Skills（官方）](wiki/entries/remotion-skills.md) — React 视频创作与渲染
 - [ElevenLabs Skills（官方）](wiki/entries/elevenlabs-skills.md) — 语音 / 实时音频
 - [Anthropic Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) — Cowork 角色技能包
+- [Claude for Legal（Anthropic 官方）](wiki/entries/claude-for-legal.md) — 12 个法律插件 / 约 157 个技能；输出仅为供律师复核的草稿（10,078★，Apache-2.0）
 - [Microsoft SkillOpt](wiki/entries/microsoft-skillopt.md) — 训 Skill.md、不动权重
 - [PixiJS Skills（官方）](wiki/entries/pixijs-skills.md) · [Android Official Skills](wiki/entries/android-official-skills.md) · [Compose Skill（Jetpack Compose 七件套）](wiki/entries/compose-skill.md)
 - [Tailscale Skill（官方）](wiki/entries/tailscale-skill.md) — networking / tsnet / k8s
@@ -161,7 +163,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [gzh-design-skill](wiki/entries/gzh-design-skill.md) — Markdown 一键排成公众号可粘贴 HTML，6 套主题
 - [Taste Skill](wiki/entries/taste-skill.md) — 艺术指导 + 去 AI 味前端
 - [antialgorithm](wiki/entries/antialgorithm.md) — 先点名模型的第一平均解，再按项目上下文离开它（707★，MIT）
-- [baoyu-design（本地 Claude Design）](wiki/entries/baoyu-design.md) — 幻灯片 / Dashboard / HTML
+- [baoyu-design / Open Artifact（本地 Claude Design）](wiki/entries/baoyu-design.md) — 幻灯片 / Dashboard / HTML；项目已重建为 JimLiu/open-artifact
 - [Impeccable](wiki/entries/impeccable.md) — 前端设计词汇表
 - [ip-as-logo](wiki/entries/ip-as-logo.md) — 极简 IP 吉祥物 Logo：三方向、六候选、严格复杂度预算
 - [unslop](wiki/entries/unslop.md) — 把 vibecoded 的 AI 味 UI 逐轮改成有性格的设计
@@ -171,6 +173,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Emil Kowalski Skills](wiki/entries/emilkowalski-skills.md) — UI / 动效 taste
 - [jakubkrehel/skills（Interface Skills）](wiki/entries/jakubkrehel-skills.md) — a11y / 字体 / 布局
 - [Apple Human Interface Skills](wiki/entries/apple-human-interface-skills.md) — Apple HIG
+- [Apple App Intents Skill](wiki/entries/apple-app-intents-skill.md) — 给 iOS 应用加 App Intents / Siri / Shortcuts / App Schemas（9★，MIT）
 - [design-apps-with-imagegen（swyx）](wiki/entries/design-apps-with-imagegen.md) — 图像探索 → 真实现产品
 - [garden-skills（ConardLi）](wiki/entries/garden-skills.md) — 网页设计 / RAG / 生图 / 动效小花园
 - [萝卜 PPT](wiki/entries/luobo-ppt.md) — 生成 / 照参考图美化原生可编辑 PPTX
@@ -206,6 +209,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [planning-with-files](wiki/entries/planning-with-files.md) — 计划/发现/进度落盘，`/clear` 后仍可续上（28.2k★，MIT）
 - [PM Skills](wiki/entries/pm-skills.md) — 72 个产品决策技能 / 9 个插件（28.3k★，MIT）；与已收录的 [product-engineering](wiki/entries/product-engineering.md) 配套
 - [Agentic Production Skills](wiki/entries/agentic-production-skills.md) — 12 个生产门禁（审计、检查点、输入防火墙、影子评估）+ 零依赖参考实现
+- [project-health](wiki/entries/project-health.md) — 上线/交接前证据驱动审计，输出带 file:line 的 P0–P3 清单（1★，PolyForm Noncommercial，商用需另授权）
 - [a11y-loop](wiki/entries/a11y-loop.md) — 先按无障碍写 UI，再在真浏览器里审计（MIT，npm + 评测）
 - [grok-export-tool](wiki/entries/grok-export-tool.md) — 本地导出自己的 Grok Bot 与对话，附 MCP 和 skill（无 API key）
 - [better-skill](wiki/entries/better-skill.md) — 技能体检 / 打分 / 选型标准
@@ -257,6 +261,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-11). 按 GitHub Star
 - [Instagram Agent Skill](wiki/entries/instagram-agent-skill.md) — 13 个 Instagram 运营技能：钩子打分、对标、文案与去 AI 腔，默认不代发（7,116★，MIT；与 YouTube Agent Skill 为同一作者姊妹包）
 
 ### 视频 / 成片
+- [boring-video-studio](wiki/entries/boring-video-studio.md) — 先批准选题/文稿/分镜再交给制作；本窗更新了本地口播录音 skill（195★，MIT）
 - [bilibili-douyin-notes](wiki/entries/bilibili-douyin-notes.md) — 把 B站/抖音/YouTube/小红书视频整理成 Markdown 课堂笔记（200★，MIT，本地字幕/识别）
 - [scenario-selfie-hologram](wiki/entries/scenario-selfie-hologram.md) — 自拍登记成会说话的 3D 全息影像（依赖 Scenario MCP 与约 1.6 GB 本地安装）
 - [subtitle-skills](wiki/entries/subtitle-skills.md) — 本地 SRT ↔ VTT 转换、检查、平移、合并与拆分（标准库，MIT）

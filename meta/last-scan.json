@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-24T08:00:00+08:00",
-  "last_since_id": "2125011944402727031",
+  "last_scan_at": "2026-11-24T14:00:00+08:00",
+  "last_since_id": "2125103903658365088",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Window after 2124831879584981207 (11-23 20:00). EN/ZH/library queries, 321 unique / 321 new ids. 11 accepted: chrome-devtools-mcp, pm-skills, planning-with-files, bilibili-douyin-notes, a11y-loop, robodk-agent-skills, agentic-production-skills, grok-export-tool, scenario-selfie-hologram, subtitle-skills, split-for-x. High-star misses filled (chrome-devtools-mcp 59020, pm-skills 28260, planning-with-files 28209). Repeats skipped (google/skills, stitch-skills, diagram-design, muse-grok-x-search, anthropics/skills, product-engineering, last30days, NestJS, addyosmani). Ads skipped (Oxylabs, Cituna, TermiX). Watch: Intel perf skill (no public repo yet); previous watch list unchanged."
+  "last_result": "Window after 2125011944402727031 (11-24 08:00). EN/ZH/library queries, 154 unique / 154 new ids. 4 accepted: claude-for-legal, boring-video-studio, apple-app-intents-skill, project-health. Updated baoyu-design to Open Artifact (JimLiu/open-artifact). Official miss filled (claude-for-legal 10078). Repeats skipped (find-skills/vercel-skills-cli, mattpocock, sprite-stacking, shuohao-skills, claude-bughunter, taste-skill, autoresearch, app-store-compliance, muse-grok-x-search, stitch-skills, financial-services). Ads skipped (TermiX, earnadvise bounty board, dealpoller). Watch: openai/plugins (skills repo deprecated); ClawVet v0.18.0 (no stable repo link yet); Intel perf skill still no public repo."
 }

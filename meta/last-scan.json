@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-24T20:00:00+08:00",
-  "last_since_id": "2125194580316545191",
+  "last_scan_at": "2026-11-25T08:00:00+08:00",
+  "last_since_id": "2125375845531533550",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Window after 2125103903658365088 (11-24 14:00). EN/ZH/library queries, 170 unique / 170 new ids. 11 accepted: notebooklm-py, youdotcom-agent-skills, fast-anything, safe-anything, unslop-anything, open-diagram, omnicad-skill, cf-daml-skill, aiwerk-skills, svg-line-story, vlog-shorts-4k60. Repeats skipped (sprite-stacking, cli-anything, z-video-downloader, claude-animated-shorts, Vela, hithink-finance, muse-grok-x-search, bughunter, diagram-design, scientific-agent-skills, financial-services, stickman, cloudflare-security-audit, SkillSpector, nuwa, scrapling, taste-skill, papercraft). Ads skipped (Scriptwriter Pro, Scrolltide, TermiX, Starveil, RepoGates, msm-agent-skill). Watch: web2skill, Cuttlefish.MD, SkillPlumber paper, Firebase GA skills; native-game-re skipped (game-hacking)."
+  "last_result": "Window after 2125194580316545191 (11-24 20:00, ~12h; 02:00 slot missed). EN/ZH/library queries, 454 unique / 454 new ids. 11 accepted: skill-distill, oxylabs-web-api-skills, weaviate-agent-skills, guizang-social-card-skill, video-podcast-maker, claude-code-video-toolkit, hyperframes, agent-browser, no-ai-slop, youtube-skills, user-interview-skill. Repeats skipped (gemini-frontend-design, Jane Street tutor, opc-skills, lieflat-gongwen, computer-repair-skill, last30days-skill, thesis-tracker, inference-optimisation, diagram-design, remotion skills, youtube-agent-skill, ffmpeg-skill, SkillSpector, openmontage, OmniCAD-related walkthrough posts). Ads skipped (TermiX, HeroUI Pro, Rushr, Cituna, Gumroad commit-guard, SSHYard). Watch: laravel/mcp skills extension, sfx-skill, web2skill, Cuttlefish.MD, SkillPlumber, Firebase GA skills."
 }

@@ -4,6 +4,17 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [skill-distill（把一次成功会话蒸馏成便宜模型也能跑的技能）](entries/skill-distill.md) | distillation, skills, evaluation, open-weight, claude-code, skill | [@Zipopics](https://x.com/Zipopics/status/2125203364946624878) | 2026-11-25 |
+| [Oxylabs Web API Skills（官方：实时搜索 / 读网页）](entries/oxylabs-web-api-skills.md) | official, oxylabs, web-search, scraping, mcp, skill-pack | [@Sophia_Ai0](https://x.com/Sophia_Ai0/status/2125251160173093204) | 2026-11-25 |
+| [Weaviate Agent Skills（官方）](entries/weaviate-agent-skills.md) | official, weaviate, vector-db, search, rag, skill-pack | [@_jphwang](https://x.com/_jphwang/status/2125201260093607936) | 2026-11-25 |
+| [Guizang Social Card Skill（小红书图文 / 公众号封面对）](entries/guizang-social-card-skill.md) | social, xiaohongshu, wechat, design, html, skill | [@heyrimsha](https://x.com/heyrimsha/status/2125207339993276815) | 2026-11-25 |
+| [Video Podcast Maker（题目到解说视频）](entries/video-podcast-maker.md) | video, podcast, remotion, tts, skill-pack | [@heyrimsha](https://x.com/heyrimsha/status/2125207339993276815) | 2026-11-25 |
+| [claude-code-video-toolkit（brief 到已质检的 MP4）](entries/claude-code-video-toolkit.md) | video, claude-code, remotion, tts, skill-pack | [@0xClaudAI](https://x.com/0xClaudAI/status/2125267294783680939) | 2026-11-25 |
+| [HyperFrames（HeyGen 官方：HTML 渲染成片）](entries/hyperframes.md) | official, video, html, heygen, skill-pack | [@0xClaudAI](https://x.com/0xClaudAI/status/2125267294783680939) | 2026-11-25 |
+| [agent-browser（Vercel Labs：给 Agent 用的浏览器 CLI）](entries/agent-browser.md) | official, vercel, browser, cli, automation, skill-pack | [@alanversefir](https://x.com/alanversefir/status/2125228884824342824) | 2026-11-25 |
+| [no-ai-slop（去写作 AI 味，保留个人声音）](entries/no-ai-slop.md) | writing, editing, anti-slop, voice, skill | [@heyrimsha](https://x.com/heyrimsha/status/2125207339993276815) | 2026-11-25 |
+| [YouTube Skills（ZeroPointRepo：转写 / 搜索 / 频道）](entries/youtube-skills.md) | youtube, transcript, research, captions, skill-pack | [@heyrimsha](https://x.com/heyrimsha/status/2125207339993276815) | 2026-11-25 |
+| [User Interview Guide skill（中性 1:1 访谈提纲）](entries/user-interview-skill.md) | ux, research, interviews, discovery, skill | [@benou_irl](https://x.com/benou_irl/status/2125227968108572771) | 2026-11-25 |
 | [notebooklm-py（非官方 Gemini Notebook / NotebookLM API 与技能）](entries/notebooklm-py.md) | unofficial, gemini-notebook, notebooklm, python, cli, research, audio, video, skill | [@fngly343149](https://x.com/fngly343149/status/2125170610825527782) | 2026-11-24 |
 | [You.com Agent Skills（官方：实时搜索 / 抽取 / 带引用调研）](entries/youdotcom-agent-skills.md) | official, you.com, web-search, research, finance, mcp, skill-pack | [@cheery9998](https://x.com/cheery9998/status/2125175846457770015) | 2026-11-24 |
 | [fast-anything（只把最慢的那 5% 迁到 Rust 并对照验证）](entries/fast-anything.md) | rust, performance, profiling, migration, cli, mcp, skill | [@GitTrend0x](https://x.com/GitTrend0x/status/2125190362742374569) | 2026-11-24 |

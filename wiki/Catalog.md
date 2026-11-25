@@ -4,6 +4,12 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Form & Force](entries/form-and-force.md) | design, frontend, motion, ui, ux, claude-code, skill | [@erendeveloper0](https://x.com/erendeveloper0/status/2125672967124525437) | 2026-11-26 |
+| [iOS Agent Skill](entries/ios-agent-skill.md) | ios, swift, swiftui, xcode, simulator, mcp, skill | [@Nagarjuna2997](https://x.com/Nagarjuna2997/status/2125728412014694711) | 2026-11-26 |
+| [Jam Skills](entries/jam-skills.md) | debugging, e2e, jam, screen-recording, mcp, skill-pack | [@_goluszka](https://x.com/_goluszka/status/2125637942362116156) | 2026-11-26 |
+| [Skill Lens](entries/skill-lens.md) | diagnostics, skill-hygiene, cli, multi-agent, tool | [@hazem_samak101](https://x.com/hazem_samak101/status/2125640392976519640) | 2026-11-26 |
+| [Spine Animation AI](entries/spine-animation-ai.md) | animation, spine, gamedev, rigging, claude, skill | [@dextune](https://x.com/dextune/status/2125567678152872165) | 2026-11-26 |
+| [SplatForge](entries/splatforge.md) | 3d, gaussian-splatting, threejs, physics, cli, skill | [@zeshen_tian](https://x.com/zeshen_tian/status/2125637865938067658) | 2026-11-26 |
 | [Launch Playbook](entries/launch-playbook.md) | product-hunt, launch, marketing, skill-pack | [@giangptx](https://x.com/giangptx/status/2125486722406617583) | 2026-11-25 |
 | [Launch Video Skill](entries/launch-video-skill.md) | video, launch-video, product-demo, motion, skill | [@ardent__dev](https://x.com/ardent__dev/status/2125476839691038804) | 2026-11-25 |
 | [Talking Head Video Skill（口播前期策划包）](entries/talking-head-video-skill.md) | video, talking-head, pre-production, short-form, skill | [@bancheng0521](https://x.com/bancheng0521/status/2125490881918890384) | 2026-11-25 |

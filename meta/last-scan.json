@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-25T20:00:00+08:00",
-  "last_since_id": "2125558352314814519",
+  "last_scan_at": "2026-11-26T07:45:00+08:00",
+  "last_since_id": "2125737547150033381",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Window after 2125466343252099403 (11-25 14:00, ~6h). EN/ZH/library queries, 217 unique / 217 new ids. 3 accepted: launch-playbook, launch-video-skill, talking-head-video-skill. Skipped Felo-Inc/agent-video-skills (rewritten remix of existing MIT skills + Meltica CTA). Repeats skipped (stitch-skills, muse-grok-x-search, superpowers, gstack, addyosmani, sprite-stacking, ffmpeg-skill, diagram-design). Ads skipped (TermiX, Huawei lucky-draw, Krofla Etsy, agent402). Watch: host-dag, openai/plugins, NVIDIA Isaac ROS 5.1 skills, AdMob skills, web2skill, cuttlefish, imuratalpay/ui-diff vs davidamunga/ui-diff."
+  "last_result": "Window after 2125558352314814519 (11-25 20:00, ~12h). EN/ZH/library queries, 420 unique / 420 new ids. 6 accepted: spine-animation-ai, jam-skills, ios-agent-skill, form-and-force, skill-lens, splatforge. Updated unslop-ui to 1.0.2. Skipped already-in-catalog repeats (line-art-animation, last30days, open-3d-skills, pstack, anthropic-cybersecurity-skills, skillspector, marketingskills, cf-daml-skill v2). Ads skipped (TermiX, Bezoar token, Bright Data / thehype Black Friday skill). Watch: host-dag, openai/plugins, NVIDIA Isaac ROS 5.1 (Office Hours only), AdMob skills, web2skill, cuttlefish, ui-diff fork question, mshumer MAGI-2 secret gist."
 }

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-435-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-441-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（435 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（441 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -190,7 +190,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [Logo Design Skill](wiki/entries/logo-design-skill.md) — brief 到可交付 SVG 标识与套件，附 1,400+ 参考库（只学习不复制；7,675★，MIT）
 - [Frontend Slides](wiki/entries/frontend-slides.md) — 先出视觉预览再生成可离线打开的 HTML 幻灯片，也可转 PPT（32,869★，MIT；仓最近推送停在 2026-06-23）
 - [unslop](wiki/entries/unslop.md) — 把 vibecoded 的 AI 味 UI 逐轮改成有性格的设计
-- [unslop-ui](wiki/entries/unslop-ui.md) — 按编号规则去掉界面/图表里的 AI 痕迹（eyebrow、装饰编号、botsplaining 等），默认不重做视觉方向（767★，MIT；与 heydamir/unslop 互补）
+- [unslop-ui](wiki/entries/unslop-ui.md) — 1.0 起只需贴仓库链接：按编号规则去掉界面/图表里的 AI 痕迹（含默认去掉卡片边缘粗色条），建完一屏后也可自行触发（867★，MIT；与 heydamir/unslop 互补）
 - [unslop-anything](wiki/entries/unslop-anything.md) — 先查真实差评里的 UX 故障，再修 Web/移动端的 AI 味界面（358★，MIT；与 unslop、unslop-ui 不是同一仓库）
 - [no-ai-slop](wiki/entries/no-ai-slop.md) — 去写作 AI 味并保留个人声音，可只检测不重写（13,773★，MIT；针对文案，不是 UI）
 - [Guizang Social Card Skill](wiki/entries/guizang-social-card-skill.md) — 小红书图文 / 公众号 21:9+1:1 封面对（8,249★，AGPL-3.0）
@@ -218,6 +218,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [Effective HTML](wiki/entries/effective-html.md) — 8 个自包含 HTML 产物技能：线框 / 原型 / 一页纸 / 图解（4,194★，MIT）
 - [scroll-world](wiki/entries/scroll-world.md) — 滚动穿越 3D 世界落地页（生成镜头链 + scrub 引擎，11,029★；需付费视频 API，与 scroll-craft 互补）
 - [line-art-animation](wiki/entries/line-art-animation.md) — SVG 线描动画 skill + 无依赖 TypeScript 库（920★，MIT）
+- [Spine Animation AI](wiki/entries/spine-animation-ai.md) — 从角色素材自动绑定并生成 Spine 2D 骨骼动画（786★，PolyForm Noncommercial，商用需另授权）
 - [MengTo Skills](wiki/entries/mengto-skills.md) — Design+Code 作者的设计师/前端技能包，约 177 个 SKILL.md；本窗点名 html-demo（7,671★，MIT）
 - [flawless-ui-ux](wiki/entries/flawless-ui-ux.md) — 按产品语境做网页/手机/桌面界面，并带本地检查 CLI（248★，MIT）
 - [hairline](wiki/entries/hairline.md) — 等距单线插画：按想法生成或从 SVG 领养，交出自包含 HTML（4,015★，MIT）
@@ -261,9 +262,10 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [VoltAgent Awesome Agent Skills](wiki/entries/voltagent-awesome-agent-skills.md) — 人工精选 1,497+ 官方/社区技能目录（约 37.3k★，MIT；与 Agentic Awesome Skills 互补，装前仍需审阅上游）
 - [SkillNet](wiki/entries/skillnet.md) — 技能发现 / 安装 / 评估 / 路由基础设施，附 Python SDK 与论文（1,460★，MIT；与 VoltAgent 精选目录互补，装来的上游 skill 仍需审阅）
 - [skill-distill](wiki/entries/skill-distill.md) — 把一次成功的编码会话蒸馏成开源权重模型可复现的技能，循环对照验收（714★，MIT）
-- [skill-guard](wiki/entries/skill-guard.md) · [SkillSpector](wiki/entries/skillspector.md) · [aig-skill-scan](wiki/entries/aig-skill-scan.md) · [agnix](wiki/entries/agnix.md) — 安装卫生 / 信任门；agnix 做 SKILL.md / CLAUDE.md 等配置 lint + autofix（~484★）
+- [skill-guard](wiki/entries/skill-guard.md) · [SkillSpector](wiki/entries/skillspector.md) · [aig-skill-scan](wiki/entries/aig-skill-scan.md) · [agnix](wiki/entries/agnix.md) · [Skill Lens](wiki/entries/skill-lens.md) — 安装卫生 / 信任门；agnix 做 SKILL.md / CLAUDE.md 等配置 lint + autofix（~484★）；Skill Lens 查本机多 agent 里哪一份 SKILL.md 真正生效（2★，MIT）
 - [vibe-shield](wiki/entries/vibe-shield.md) — AI 生成应用的静态安全扫描（含 MCP/Skill 投毒）
 - [ghost-qa](wiki/entries/ghost-qa.md) — 前端交稿前的无头浏览器闭环 QA
+- [Jam Skills](wiki/entries/jam-skills.md) — 把 jam.dev 录屏（含控制台/网络/操作）交给 agent 修 bug、写 e2e 或录回证（13★，MIT；多数技能需免费 Jam 账号）
 - [skill-sync](wiki/entries/skill-sync.md) — 一份技能源，软链同步到本机多个 agent
 - [SkillEvaluator（NVIDIA）](wiki/entries/nvidia-skillevaluator.md) · [APM（Microsoft）](wiki/entries/microsoft-apm.md) — 技能有无增益的 A/B 实测 + CI 门禁；apm.yml 清单与锁文件可复现安装
 - [Elephant-Goldfish Model（Google）](wiki/entries/elephant-goldfish-model.md) — 带上下文起草规格，无记忆子 agent 评审
@@ -278,6 +280,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [tinker-ai-skill](wiki/entries/tinker-ai-skill.md) — 用自己的 Claude Code/Codex 会话在 Tinker 上微调并导出本机 GGUF
 - [/optimize](wiki/entries/optimize-skill.md) — 31 项性能体检：先测量、安全修复、再对比
 - [SwiftUI Pro（Paul Hudson）](wiki/entries/swiftui-pro.md) — 专治 LLM 写 SwiftUI 的废弃 API / 无障碍 / 性能错误 (~6.5k★)
+- [iOS Agent Skill](wiki/entries/ios-agent-skill.md) — 给编码 agent 本机 Apple 参考、SwiftUI 脚手架和模拟器构建验收（42★，MIT；与 SwiftUI Pro 互补）
 - [Modern Java Guidance](wiki/entries/modern-java-guidance.md) — 拦 Java 8 / Boot 2.x 旧写法，版本感知 CLI + PostToolUse 钩子（对标 modern-web-guidance；新建仓，5★，MIT）
 - [inference-optimisation](wiki/entries/inference-optimisation-skill.md) — 本地 LLM decode/prefill/投机解码爬坡：先算上限再交错 A/B（914★，MIT）
 - [rust-anything](wiki/entries/rust-anything.md) — 把 TS/Python/Go/Java 等一块块迁到 Rust，先给原程序录像再对照（2,386★，MIT）

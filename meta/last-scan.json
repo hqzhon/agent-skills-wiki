@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-25T14:00:00+08:00",
-  "last_since_id": "2125466343252099403",
+  "last_scan_at": "2026-11-25T20:00:00+08:00",
+  "last_since_id": "2125558352314814519",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Window after 2125375845531533550 (11-25 08:00, ~6h). EN/ZH/library queries, 176 unique / 176 new ids. 13 accepted: vercel-agent-skills, huggingface-skills, cloudflare-skills, microsoft-skills, supabase-agent-skills, hashicorp-agent-skills, firebase-agent-skills, frontend-slides, logo-design-skill, remocn, joggernaut, godot-skills, sfx-skill. Skipped deprecated openai/skills (still points to openai/plugins). Repeats skipped (scientific-agent-skills, sprite-stacking, expo/google official already in catalog, jakubkrehel pack overlap). Ads skipped (TermiX, WorkBuddy, Huawei lucky-draw, agensi.io). Watch: openai/plugins, NVIDIA Isaac ROS 5.1 skills, AdMob skills, web2skill, cuttlefish, imuratalpay/ui-diff vs davidamunga/ui-diff."
+  "last_result": "Window after 2125466343252099403 (11-25 14:00, ~6h). EN/ZH/library queries, 217 unique / 217 new ids. 3 accepted: launch-playbook, launch-video-skill, talking-head-video-skill. Skipped Felo-Inc/agent-video-skills (rewritten remix of existing MIT skills + Meltica CTA). Repeats skipped (stitch-skills, muse-grok-x-search, superpowers, gstack, addyosmani, sprite-stacking, ffmpeg-skill, diagram-design). Ads skipped (TermiX, Huawei lucky-draw, Krofla Etsy, agent402). Watch: host-dag, openai/plugins, NVIDIA Isaac ROS 5.1 skills, AdMob skills, web2skill, cuttlefish, imuratalpay/ui-diff vs davidamunga/ui-diff."
 }

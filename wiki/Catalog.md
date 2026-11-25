@@ -4,6 +4,9 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Launch Playbook](entries/launch-playbook.md) | product-hunt, launch, marketing, skill-pack | [@giangptx](https://x.com/giangptx/status/2125486722406617583) | 2026-11-25 |
+| [Launch Video Skill](entries/launch-video-skill.md) | video, launch-video, product-demo, motion, skill | [@ardent__dev](https://x.com/ardent__dev/status/2125476839691038804) | 2026-11-25 |
+| [Talking Head Video Skill（口播前期策划包）](entries/talking-head-video-skill.md) | video, talking-head, pre-production, short-form, skill | [@bancheng0521](https://x.com/bancheng0521/status/2125490881918890384) | 2026-11-25 |
 | [Vercel Agent Skills（官方技能包）](entries/vercel-agent-skills.md) | official, vercel, react, nextjs, performance, skill-pack | [@Astrodevil_](https://x.com/Astrodevil_/status/2125446900103209152) | 2026-11-25 |
 | [Hugging Face Skills（官方）](entries/huggingface-skills.md) | official, huggingface, ml, datasets, training, skill-pack | [@Astrodevil_](https://x.com/Astrodevil_/status/2125446900103209152) | 2026-11-25 |
 | [Cloudflare Skills（官方）](entries/cloudflare-skills.md) | official, cloudflare, workers, agents-sdk, skill-pack | [@Astrodevil_](https://x.com/Astrodevil_/status/2125446900103209152) | 2026-11-25 |

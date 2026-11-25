@@ -4,6 +4,19 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Vercel Agent Skills（官方技能包）](entries/vercel-agent-skills.md) | official, vercel, react, nextjs, performance, skill-pack | [@Astrodevil_](https://x.com/Astrodevil_/status/2125446900103209152) | 2026-11-25 |
+| [Hugging Face Skills（官方）](entries/huggingface-skills.md) | official, huggingface, ml, datasets, training, skill-pack | [@Astrodevil_](https://x.com/Astrodevil_/status/2125446900103209152) | 2026-11-25 |
+| [Cloudflare Skills（官方）](entries/cloudflare-skills.md) | official, cloudflare, workers, agents-sdk, skill-pack | [@Astrodevil_](https://x.com/Astrodevil_/status/2125446900103209152) | 2026-11-25 |
+| [Microsoft Skills（Azure / Foundry 官方）](entries/microsoft-skills.md) | official, microsoft, azure, foundry, sdk, skill-pack | [@Astrodevil_](https://x.com/Astrodevil_/status/2125446900103209152) | 2026-11-25 |
+| [Supabase Agent Skills（官方）](entries/supabase-agent-skills.md) | official, supabase, postgres, auth, skill-pack | [@Astrodevil_](https://x.com/Astrodevil_/status/2125446900103209152) | 2026-11-25 |
+| [HashiCorp Agent Skills（官方）](entries/hashicorp-agent-skills.md) | official, hashicorp, terraform, packer, skill-pack | [@Astrodevil_](https://x.com/Astrodevil_/status/2125446900103209152) | 2026-11-25 |
+| [Firebase Agent Skills（官方）](entries/firebase-agent-skills.md) | official, firebase, google, analytics, firestore, skill-pack | [@Astrodevil_](https://x.com/Astrodevil_/status/2125446900103209152) | 2026-11-25 |
+| [Frontend Slides（网页幻灯片 / 转 PPT）](entries/frontend-slides.md) | slides, html, presentation, skill, claude-code | [@CatOnShift](https://x.com/CatOnShift/status/2125438934117151001) | 2026-11-25 |
+| [Logo Design Skill（brief 到可交付 SVG 标识）](entries/logo-design-skill.md) | logo, branding, svg, design, skill | [@forevercompo](https://x.com/forevercompo/status/2125388129506869565) | 2026-11-25 |
+| [Remocn（用组件库给 Remotion 做演示/发布视频）](entries/remocn.md) | video, remotion, components, mcp, skill-pack | [@forevercompo](https://x.com/forevercompo/status/2125388129506869565) | 2026-11-25 |
+| [Joggernaut（找出 GitHub Actions 上 PR 在等什么）](entries/joggernaut.md) | ci, github-actions, performance, diagnostics, skill-pack | [@ai_algoit](https://x.com/ai_algoit/status/2125438246226366950) | 2026-11-25 |
+| [Godot Agent Skills（EL4CTEO，面向 Godot 4.7）](entries/godot-skills.md) | godot, gamedev, gdscript, csharp, skill-pack | [@ai_algoit](https://x.com/ai_algoit/status/2125435662598111587) | 2026-11-25 |
+| [sfx-skill（合成 + CC0 采音做游戏音效）](entries/sfx-skill.md) | audio, sfx, gamedev, synthesis, skill | 上轮 Watch 复核 | 2026-11-25 |
 | [skill-distill（把一次成功会话蒸馏成便宜模型也能跑的技能）](entries/skill-distill.md) | distillation, skills, evaluation, open-weight, claude-code, skill | [@Zipopics](https://x.com/Zipopics/status/2125203364946624878) | 2026-11-25 |
 | [Oxylabs Web API Skills（官方：实时搜索 / 读网页）](entries/oxylabs-web-api-skills.md) | official, oxylabs, web-search, scraping, mcp, skill-pack | [@Sophia_Ai0](https://x.com/Sophia_Ai0/status/2125251160173093204) | 2026-11-25 |
 | [Weaviate Agent Skills（官方）](entries/weaviate-agent-skills.md) | official, weaviate, vector-db, search, rag, skill-pack | [@_jphwang](https://x.com/_jphwang/status/2125201260093607936) | 2026-11-25 |

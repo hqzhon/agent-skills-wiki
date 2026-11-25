@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-25T08:00:00+08:00",
-  "last_since_id": "2125375845531533550",
+  "last_scan_at": "2026-11-25T14:00:00+08:00",
+  "last_since_id": "2125466343252099403",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Window after 2125194580316545191 (11-24 20:00, ~12h; 02:00 slot missed). EN/ZH/library queries, 454 unique / 454 new ids. 11 accepted: skill-distill, oxylabs-web-api-skills, weaviate-agent-skills, guizang-social-card-skill, video-podcast-maker, claude-code-video-toolkit, hyperframes, agent-browser, no-ai-slop, youtube-skills, user-interview-skill. Repeats skipped (gemini-frontend-design, Jane Street tutor, opc-skills, lieflat-gongwen, computer-repair-skill, last30days-skill, thesis-tracker, inference-optimisation, diagram-design, remotion skills, youtube-agent-skill, ffmpeg-skill, SkillSpector, openmontage, OmniCAD-related walkthrough posts). Ads skipped (TermiX, HeroUI Pro, Rushr, Cituna, Gumroad commit-guard, SSHYard). Watch: laravel/mcp skills extension, sfx-skill, web2skill, Cuttlefish.MD, SkillPlumber, Firebase GA skills."
+  "last_result": "Window after 2125375845531533550 (11-25 08:00, ~6h). EN/ZH/library queries, 176 unique / 176 new ids. 13 accepted: vercel-agent-skills, huggingface-skills, cloudflare-skills, microsoft-skills, supabase-agent-skills, hashicorp-agent-skills, firebase-agent-skills, frontend-slides, logo-design-skill, remocn, joggernaut, godot-skills, sfx-skill. Skipped deprecated openai/skills (still points to openai/plugins). Repeats skipped (scientific-agent-skills, sprite-stacking, expo/google official already in catalog, jakubkrehel pack overlap). Ads skipped (TermiX, WorkBuddy, Huawei lucky-draw, agensi.io). Watch: openai/plugins, NVIDIA Isaac ROS 5.1 skills, AdMob skills, web2skill, cuttlefish, imuratalpay/ui-diff vs davidamunga/ui-diff."
 }

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-419-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-432-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（419 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（432 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -86,12 +86,15 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 | [VoltAgent Awesome Agent Skills](wiki/entries/voltagent-awesome-agent-skills.md) | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37.3k | Curated 1,497+ official & community agent skills |
 | [HowToLiveLonger](wiki/entries/howtolivelonger.md) | [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 36.1k | Evidence-based longevity lookup for everyday habits |
 | [Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 35k | Anthropic's role-based skill plugins |
+| [Vercel Agent Skills](wiki/entries/vercel-agent-skills.md) | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | 34.9k | Official React / Next.js / Vercel deploy and optimize skills |
+| [Frontend Slides](wiki/entries/frontend-slides.md) | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 32.9k | HTML decks from scratch or from PowerPoint, preview first |
 | [video-use](wiki/entries/video-use.md) | [browser-use/video-use](https://github.com/browser-use/video-use) | 31k | Edit talking-head footage by chatting |
 | [PM Skills](wiki/entries/pm-skills.md) | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 28.3k | 72 PM decision skills / 9 plugins, companion to product-engineering |
 | [planning-with-files](wiki/entries/planning-with-files.md) | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 28.2k | Crash-proof markdown plans that survive /clear |
 | [飞书 / Lark 官方 CLI Skills](wiki/entries/lark-cli-skills.md) | [larksuite/cli](https://github.com/larksuite/cli) | 18k | Official Feishu/Lark CLI + 26 agent skills |
 | [no-ai-slop](wiki/entries/no-ai-slop.md) | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | 13.8k | Edit out AI-writing patterns, keep the author's voice |
 | [figures4papers](wiki/entries/figures4papers.md) | [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) | 11.8k | Publication-quality Matplotlib figures + a loadable skill |
+| [Hugging Face Skills](wiki/entries/huggingface-skills.md) | [huggingface/skills](https://github.com/huggingface/skills) | 11.4k | Official Hub / datasets / training skills, start with hf-cli |
 | [scroll-world](wiki/entries/scroll-world.md) | [oso95/scroll-world](https://github.com/oso95/scroll-world) | 11.0k | Scroll-scrubbed 3D-world landing pages |
 | [Dashi PPT Skill](wiki/entries/dashi-ppt-skill.md) | [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 10.7k | Browser-editable decks, export real PPTX |
 | [Claude for Legal](wiki/entries/claude-for-legal.md) | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | 10.1k | Official legal workflow plugins / 157 skills |
@@ -123,6 +126,13 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [last30days](wiki/entries/last30days-skill.md) — 近 30 天 Reddit / X / Polymarket 真实讨论调研
 - [Gemini API Skills（Google 官方）](wiki/entries/gemini-skills.md) — Gemini API / 媒体生成 CLI
 - [Expo Skills（官方）](wiki/entries/expo-skills.md) — React Native / EAS
+- [Vercel Agent Skills（官方技能包）](wiki/entries/vercel-agent-skills.md) — React / Next.js 性能规则、Vercel 部署与成本审计（34,881★；与 skills CLI、agent-browser 不是同一个仓）
+- [Hugging Face Skills（官方）](wiki/entries/huggingface-skills.md) — 先装 hf-cli，再按需加数据集/训练/Spaces 技能（11,397★，Apache-2.0）
+- [Cloudflare Skills（官方）](wiki/entries/cloudflare-skills.md) — Workers / Agents SDK / Wrangler，插件可带 MCP（3,450★，Apache-2.0）
+- [Microsoft Skills（Azure / Foundry 官方）](wiki/entries/microsoft-skills.md) — 约 175 个 Azure SDK / Foundry 技能，有文档站（3,245★，MIT；与 APM、SkillOpt 互补）
+- [Supabase Agent Skills（官方）](wiki/entries/supabase-agent-skills.md) — Auth / RLS / Edge Functions 等 + Postgres 实践（3,136★，MIT）
+- [HashiCorp Agent Skills（官方）](wiki/entries/hashicorp-agent-skills.md) — Terraform 16 + Packer 4（939★，MPL-2.0）
+- [Firebase Agent Skills（官方）](wiki/entries/firebase-agent-skills.md) — Auth / Firestore / Analytics / Rules 等 14 个技能（529★，Apache-2.0）
 - [NVIDIA Agent Skills（官方）](wiki/entries/nvidia-skills.md) — CUDA / Physical AI
 - [Loom Skills（AMD Loom）](wiki/entries/loom-skills.md) — 在 Strix Halo 等设备上移植/优化模型并对照 llama.cpp 测速
 - [global-stock-data](wiki/entries/global-stock-data.md) — 美股/港股等公开数据工具包（官方源优先、零鉴权，~1881★）；内嵌 Python 会联网，先审权限
@@ -136,6 +146,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [Google Workspace CLI Skills（gws）](wiki/entries/google-workspace-cli-skills.md) — Gmail/Calendar/Drive 等 ~95 skills
 - [飞书 / Lark 官方 CLI Agent Skills](wiki/entries/lark-cli-skills.md) — 200+ 命令 + 26 个飞书办公 skill，可 dry-run
 - [Remotion Agent Skills（官方）](wiki/entries/remotion-skills.md) — React 视频创作与渲染
+- [Remocn](wiki/entries/remocn.md) — 从约 935 个 MIT 组件做 Remotion 演示/发布视频，先分镜再写代码（1,869★，MIT；公司规模 >3 人需 Remotion 付费许可）
 - [ElevenLabs Skills（官方）](wiki/entries/elevenlabs-skills.md) — 语音 / 实时音频
 - [Anthropic Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) — Cowork 角色技能包
 - [Claude for Legal（Anthropic 官方）](wiki/entries/claude-for-legal.md) — 12 个法律插件 / 约 157 个技能；输出仅为供律师复核的草稿（10,078★，Apache-2.0）
@@ -176,6 +187,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [baoyu-design / Open Artifact（本地 Claude Design）](wiki/entries/baoyu-design.md) — 幻灯片 / Dashboard / HTML；项目已重建为 JimLiu/open-artifact
 - [Impeccable](wiki/entries/impeccable.md) — 前端设计词汇表
 - [ip-as-logo](wiki/entries/ip-as-logo.md) — 极简 IP 吉祥物 Logo：三方向、六候选、严格复杂度预算
+- [Logo Design Skill](wiki/entries/logo-design-skill.md) — brief 到可交付 SVG 标识与套件，附 1,400+ 参考库（只学习不复制；7,675★，MIT）
+- [Frontend Slides](wiki/entries/frontend-slides.md) — 先出视觉预览再生成可离线打开的 HTML 幻灯片，也可转 PPT（32,869★，MIT；仓最近推送停在 2026-06-23）
 - [unslop](wiki/entries/unslop.md) — 把 vibecoded 的 AI 味 UI 逐轮改成有性格的设计
 - [unslop-ui](wiki/entries/unslop-ui.md) — 按编号规则去掉界面/图表里的 AI 痕迹（eyebrow、装饰编号、botsplaining 等），默认不重做视觉方向（767★，MIT；与 heydamir/unslop 互补）
 - [unslop-anything](wiki/entries/unslop-anything.md) — 先查真实差评里的 UX 故障，再修 Web/移动端的 AI 味界面（358★，MIT；与 unslop、unslop-ui 不是同一仓库）
@@ -226,6 +239,9 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [Agentic Production Skills](wiki/entries/agentic-production-skills.md) — 12 个生产门禁（审计、检查点、输入防火墙、影子评估）+ 零依赖参考实现
 - [project-health](wiki/entries/project-health.md) — 上线/交接前证据驱动审计，输出带 file:line 的 P0–P3 清单（1★，PolyForm Noncommercial，商用需另授权）
 - [a11y-loop](wiki/entries/a11y-loop.md) — 先按无障碍写 UI，再在真浏览器里审计（MIT，npm + 评测）
+- [Joggernaut](wiki/entries/joggernaut.md) — 诊断 GitHub Actions 上 PR 在等什么，确认后再改，并用前后 run / JUnit 验收（60★，MIT）
+- [Godot Agent Skills（EL4CTEO）](wiki/entries/godot-skills.md) — Godot 4.7 的 27 个技能，查本机 API 并用编译/导出验收（51★，MIT；与 godot-agent 互补）
+- [sfx-skill](wiki/entries/sfx-skill.md) — 用合成 + CC0 采音做游戏音效，不走音频生成模型（42★，MIT）
 - [grok-export-tool](wiki/entries/grok-export-tool.md) — 本地导出自己的 Grok Bot 与对话，附 MCP 和 skill（无 API key）
 - [better-skill](wiki/entries/better-skill.md) — 技能体检 / 打分 / 选型标准
 - [达尔文.skill 3.0](wiki/entries/darwin-skill.md) — 盲评实跑产出，只保留真有增益的 SKILL.md 改动（~6916★）

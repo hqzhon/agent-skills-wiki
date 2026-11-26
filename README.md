@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-441-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-450-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（441 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（450 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -81,6 +81,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 | [i-have-adhd](wiki/entries/i-have-adhd.md) | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 62k | ADHD-friendly outputs: action first, no buried answers |
 | [Marketing Skills](wiki/entries/marketingskills.md) | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 60k | CRO, copywriting, SEO, customer research |
 | [Chrome DevTools MCP](wiki/entries/chrome-devtools-mcp.md) | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 59k | Official live-Chrome debugging MCP + 8 agent skills |
+| [Open Code Review](wiki/entries/open-code-review.md) | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 56.4k | Alibaba official hybrid code review CLI + agent skills |
 | [agent-browser](wiki/entries/agent-browser.md) | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 53.8k | Vercel Labs browser automation CLI for agents |
 | [Obsidian Skills](wiki/entries/obsidian-skills.md) | [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | 52k | Official Obsidian vault skills (Markdown, Bases, Canvas) |
 | [VoltAgent Awesome Agent Skills](wiki/entries/voltagent-awesome-agent-skills.md) | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37.3k | Curated 1,497+ official & community agent skills |
@@ -100,6 +101,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 | [Claude for Legal](wiki/entries/claude-for-legal.md) | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | 10.1k | Official legal workflow plugins / 157 skills |
 | [improve](wiki/entries/shadcn-improve.md) | [shadcn/improve](https://github.com/shadcn/improve) | 10k | Strong model audits & plans, cheap model executes |
 | [Guizang Social Card Skill](wiki/entries/guizang-social-card-skill.md) | [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) | 8.2k | Xiaohongshu carousels & WeChat cover pairs |
+| [Social Media Research Skills](wiki/entries/social-media-research-skills.md) | [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) | 8.0k | Social research: outliers, comments, ads, trends (ScrapeCreators API) |
 | [ljg-skills（李继刚）](wiki/entries/ljg-skills.md) | [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) | 7.7k | 26 atomic thinking / writing skills (中文) |
 | [MengTo Skills](wiki/entries/mengto-skills.md) | [MengTo/Skills](https://github.com/MengTo/Skills) | 7.7k | Design+Code skill pack: HTML demos, 3D, illustration |
 | [.NET Agent Skills](wiki/entries/dotnet-skills.md) | [dotnet/skills](https://github.com/dotnet/skills) | 5.9k | Official C# / MSBuild / NuGet skills with public evals |
@@ -115,6 +117,9 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 
 ### 官方 / 厂商包
 - [gemini-frontend-design（Google 官方）](wiki/entries/gemini-frontend-design.md) — 按主题定制视觉方向、渲染后自检的前端设计 skill
+- [Science Skills（Google DeepMind 官方）](wiki/entries/science-skills.md) — 文献库 / 蛋白与基因组公共库 / AlphaGenome 等约 40 个科研技能（3,536★，Apache-2.0；部分需 API key）
+- [Open Code Review（阿里官方）](wiki/entries/open-code-review.md) — 确定性规则 + LLM 的行级代码审查 CLI 与两种 Agent Skill（56,426★，Apache-2.0；需 ocr CLI / 模型端点）
+- [Gemma Skills](wiki/entries/gemma-skills.md) — Gemma 4 应用开发与微调（LoRA/QLoRA/DPO/GRPO）；仓库在 google-gemma 下，但 README 写明不是 Google 官方支持的产品（1,074★；根目录无 LICENSE）
 - [gh（GitHub CLI 官方）](wiki/entries/gh-cli-skill.md) — agent 正确用 `gh`：JSON 输出、分页、`gh api` 兜底
 - [Modern Web Guidance（浏览器厂商官方）](wiki/entries/modern-web-guidance.md) — 让编码 agent 用原生 Web API，附 legacy-scan
 - [improve（shadcn）](wiki/entries/shadcn-improve.md) — 强模型审计写计划、便宜模型执行
@@ -180,6 +185,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 ### 设计 / UI / 品味
 - [sepia（去 AI 味写作）](wiki/entries/sepia.md) — 叙事架构层去 AI 味
 - [Humanizer（blader）](wiki/entries/humanizer.md) — 26 种 AI 写作痕迹改写，~67k★ · 日语版思路见 [yomiyasu](wiki/entries/yomiyasu.md)
+- [UX Writing Skill](wiki/entries/ux-writing-skill.md) — 按钮/错误/空状态等界面微文案框架（268★，MIT；与 ux-audit 分工不同）
 - [ai-writing](wiki/entries/ai-writing.md) — 先砍篇幅和清晰度，再去 AI 腔（与 Humanizer 互补）
 - [gzh-design-skill](wiki/entries/gzh-design-skill.md) — Markdown 一键排成公众号可粘贴 HTML，6 套主题
 - [Taste Skill](wiki/entries/taste-skill.md) — 艺术指导 + 去 AI 味前端
@@ -289,6 +295,9 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [Grim Prompter](wiki/entries/grim-prompter.md) — 对着仓库做可追溯威胁建模：36 套架构工作流 + 证据报告（538★，MIT）
 
 ### 营销 / 增长
+- [Social Media Research Skills](wiki/entries/social-media-research-skills.md) — 爆款/评论/广告库/趋势调研（7,979★，MIT；需 ScrapeCreators API，以 README 平台列表为准）
+- [last30days-cn](wiki/entries/last30days-skill-cn.md) — 微博/小红书/B 站/知乎等中文平台近 30 天讨论与全网热榜（2,245★，MIT；last30days 的中文本土化 fork）
+- [Seed Skill](wiki/entries/seed-skill.md) — 11 个种子轮技能：竞品、投资人、计划/路演、条款与跟进（261★，MIT；外联需批准）
 - [Marketing Skills（coreyhaines31）](wiki/entries/marketingskills.md) — CRO / 文案 / SEO / 客户研究 (~58.8k★)
 - [Boring Marketing Skills](wiki/entries/boring-marketing-skills.md) — 32 个技能：先 start-here 写品牌档案，再做本地获客 / SEO / 广告（565★，MIT；与 coreyhaines31 那套不是同一库）
 - [marketing-skill-hub](wiki/entries/marketing-skill-hub.md) — 出海投放 / UGC / 开发信
@@ -298,6 +307,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [Instagram Agent Skill](wiki/entries/instagram-agent-skill.md) — 13 个 Instagram 运营技能：钩子打分、对标、文案与去 AI 腔，默认不代发（7,116★，MIT；与 YouTube Agent Skill 为同一作者姊妹包）
 
 ### 视频 / 成片
+- [video-jumpcut-polish](wiki/entries/video-jumpcut-polish.md) — macOS 14+ 把口播/开箱毛片自动精剪并出五平台文案（本窗新发布，0★，MIT；需 ffmpeg，推荐 Apple Silicon）
 - [HyperFrames（HeyGen 官方）](wiki/entries/hyperframes.md) — HTML 渲染成 MP4，官方技能包（89,560★，Apache-2.0；许多视频条目的上游）
 - [claude-code-video-toolkit](wiki/entries/claude-code-video-toolkit.md) — brief → 轮询任务 → 质检 MP4，偏开源模型自托管（2,751★，MIT）
 - [Video Podcast Maker](wiki/entries/video-podcast-maker.md) — 主题 → 旁白解说/知识视频，Remotion 4K 渲染（1,733★，MIT）
@@ -337,6 +347,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [Bang Motion](wiki/entries/bang-motion.md) — 浏览器动效成片（非 PPT）
 - [match-cut](wiki/entries/match-cut.md) — 接力匹配剪辑宣传片
 - [teardown](wiki/entries/teardown.md) — 任意机器 → 可拆解的离线 3D 模拟器 + 60fps 讲解片
+- [Inkworks](wiki/entries/inkworks-skill.md) — 工程图纸风的可交互 3D 原理页（发动机/泵等，277★，MIT；Open 3D Skills 同一作者，本窗新发布）
 - [simulator](wiki/entries/simulator.md) — 把机场/工厂等行业做成玩具比例、可点击的离线模拟器并录成 60fps 片（19★，MIT）
 - [Reelsmith Media](wiki/entries/reelsmith-media.md) — 素材文件夹 → 本地字幕对齐的竖版 Reel
 - [Stickman Video Director](wiki/entries/stickman-video-director.md) — 不露脸火柴人动画出片
@@ -355,7 +366,10 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 ### 知识库 / 科学 / 其他高信号
 - [notebooklm-py](wiki/entries/notebooklm-py.md) — 非官方 Gemini Notebook（原 NotebookLM）Python API / CLI / 可加载技能（20,364★，MIT；走未文档化接口，装前看风险说明）
 - [muse-grok-x-search](wiki/entries/muse-grok-x-search.md) — 给 Muse 补上只读 X 搜索（经 Grok Build CLI，227★，MIT）
+- [Science Skills（Google DeepMind）](wiki/entries/science-skills.md) — 文献与生物信息公共库 / AlphaGenome 等约 40 个科研技能（3,536★，Apache-2.0）
 - [fundraising](wiki/entries/fundraising-skill.md) — 融资 / LP / M&A 操盘护栏
+- [Seed Skill](wiki/entries/seed-skill.md) — 种子轮 11 件套（与 fundraising 不是同一包；261★，MIT）
+- [last30days-cn](wiki/entries/last30days-skill-cn.md) — 中文平台近 30 天讨论调研，互补 last30days
 - [BLA / Blind LLM Agents](wiki/entries/bla-blind-llm-agents.md) — Counter-REA 加固 skill + MCP/CLI（防御自有产物）
 - [ghidra-rpc](wiki/entries/ghidra-rpc.md) — Cellebrite Labs 出品，agent 驱动 Ghidra 做二进制逆向
 - [khazix-skills（数字生命卡兹克）](wiki/entries/khazix-skills.md) — leader 定目标 / neat-freak 收工对齐 / 横纵分析 (~22k★)

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-450-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-457-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（450 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（457 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -105,6 +105,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 | [ljg-skills（李继刚）](wiki/entries/ljg-skills.md) | [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) | 7.7k | 26 atomic thinking / writing skills (中文) |
 | [MengTo Skills](wiki/entries/mengto-skills.md) | [MengTo/Skills](https://github.com/MengTo/Skills) | 7.7k | Design+Code skill pack: HTML demos, 3D, illustration |
 | [.NET Agent Skills](wiki/entries/dotnet-skills.md) | [dotnet/skills](https://github.com/dotnet/skills) | 5.9k | Official C# / MSBuild / NuGet skills with public evals |
+| [Seedance 2.0 Prompt Skill](wiki/entries/seedance2-skill.md) | [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill) | 4.6k | Prompt writing for Jimeng Seedance 2.0, EN/ZH SKILL.md |
 | [gzh-design-skill](wiki/entries/gzh-design-skill.md) | [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) | 4.3k | Markdown → WeChat 公众号-ready HTML (中文) |
 | [Effective HTML](wiki/entries/effective-html.md) | [plannotator/effective-html](https://github.com/plannotator/effective-html) | 4.2k | HTML wireframes, prototypes, diagrams, one-pagers |
 | [Modern Web Guidance](wiki/entries/modern-web-guidance.md) | [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | 4.0k | Chrome + Edge + Firefox + MDN: use modern web APIs |
@@ -167,6 +168,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [h3-image-prompt-writing（MiniMax 官方）](wiki/entries/minimax-h3-image-prompt-writing.md) — 一句想法扩写成 H3-Image 长提示词，可直接调 API 出图
 - [Stitch Skills（Google Labs 官方）](wiki/entries/stitch-skills.md) — 配合 Stitch MCP 出设计再出 React/RN 代码（16 个 skill，~9447★）；仓最近推送停在 2026-08-17
 - [Motion Design Skill（LottieFiles 官方）](wiki/entries/motion-design-skill.md) — 实现无关的 UI 动效原则：时长/缓动/迪士尼 12 原则与编排配方（3,206★，MIT；仓最近推送停在 2026-05-18）
+- [First Principles Tutor](wiki/entries/first-principles-tutor.md) — 不给现成答案，用第一性原理逼你自己重建概念（6★，MIT；与 Jane Street 家教包不是同一仓库）
 - [Jane Street Socratic Tutor（官方）](wiki/entries/janestreet-agent-skills.md) — 苏格拉底式家教：诊断、0–5 技能图、间隔复习
 - [FlyAI（飞猪官方旅行搜索）](wiki/entries/flyai-skill.md) — 自然语言查机票/酒店/火车，结构化可预订结果
 - [campus-recruiting-skill](wiki/entries/campus-recruiting-skill.md) — 中国非技术岗校招：核岗/简历/面试/Offer（不代投）
@@ -248,6 +250,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [a11y-loop](wiki/entries/a11y-loop.md) — 先按无障碍写 UI，再在真浏览器里审计（MIT，npm + 评测）
 - [Joggernaut](wiki/entries/joggernaut.md) — 诊断 GitHub Actions 上 PR 在等什么，确认后再改，并用前后 run / JUnit 验收（60★，MIT）
 - [Godot Agent Skills（EL4CTEO）](wiki/entries/godot-skills.md) — Godot 4.7 的 27 个技能，查本机 API 并用编译/导出验收（51★，MIT；与 godot-agent 互补）
+- [SoundKit](wiki/entries/soundkit.md) — 给 Remotion 成片加带命中点的音效/床垫，也可 `npx skills add soundza/soundkit`（16★；代码 MIT，随附音频 CC0；搜完整曲库需 API key）
 - [sfx-skill](wiki/entries/sfx-skill.md) — 用合成 + CC0 采音做游戏音效，不走音频生成模型（42★，MIT）
 - [grok-export-tool](wiki/entries/grok-export-tool.md) — 本地导出自己的 Grok Bot 与对话，附 MCP 和 skill（无 API key）
 - [better-skill](wiki/entries/better-skill.md) — 技能体检 / 打分 / 选型标准
@@ -286,6 +289,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [tinker-ai-skill](wiki/entries/tinker-ai-skill.md) — 用自己的 Claude Code/Codex 会话在 Tinker 上微调并导出本机 GGUF
 - [/optimize](wiki/entries/optimize-skill.md) — 31 项性能体检：先测量、安全修复、再对比
 - [SwiftUI Pro（Paul Hudson）](wiki/entries/swiftui-pro.md) — 专治 LLM 写 SwiftUI 的废弃 API / 无障碍 / 性能错误 (~6.5k★)
+- [Mobile Agent Skills](wiki/entries/mobile-agent-skills.md) — Android / iOS / Flutter 等 10 个工程技能 + 多 agent 安装脚本（本窗新发布，0★，MIT；与 iOS Agent Skill / Compose Skill 互补）
 - [iOS Agent Skill](wiki/entries/ios-agent-skill.md) — 给编码 agent 本机 Apple 参考、SwiftUI 脚手架和模拟器构建验收（42★，MIT；与 SwiftUI Pro 互补）
 - [Modern Java Guidance](wiki/entries/modern-java-guidance.md) — 拦 Java 8 / Boot 2.x 旧写法，版本感知 CLI + PostToolUse 钩子（对标 modern-web-guidance；新建仓，5★，MIT）
 - [inference-optimisation](wiki/entries/inference-optimisation-skill.md) — 本地 LLM decode/prefill/投机解码爬坡：先算上限再交错 A/B（914★，MIT）
@@ -307,6 +311,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [Instagram Agent Skill](wiki/entries/instagram-agent-skill.md) — 13 个 Instagram 运营技能：钩子打分、对标、文案与去 AI 腔，默认不代发（7,116★，MIT；与 YouTube Agent Skill 为同一作者姊妹包）
 
 ### 视频 / 成片
+- [Seedance 2.0 Prompt Skill](wiki/entries/seedance2-skill.md) — 即梦 Seedance 2.0 提示词：输入上限、@ 引用与 12 类场景（4,584★，MIT；仓最近推送停在 2026-09-19）
 - [video-jumpcut-polish](wiki/entries/video-jumpcut-polish.md) — macOS 14+ 把口播/开箱毛片自动精剪并出五平台文案（本窗新发布，0★，MIT；需 ffmpeg，推荐 Apple Silicon）
 - [HyperFrames（HeyGen 官方）](wiki/entries/hyperframes.md) — HTML 渲染成 MP4，官方技能包（89,560★，Apache-2.0；许多视频条目的上游）
 - [claude-code-video-toolkit](wiki/entries/claude-code-video-toolkit.md) — brief → 轮询任务 → 质检 MP4，偏开源模型自托管（2,751★，MIT）

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-471-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-478-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（471 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（478 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -124,6 +124,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 - [Meta VR Agentic Tools（官方）](wiki/entries/meta-vr-agentic-tools.md) — Quest / Horizon OS 开发技能 + metavr CLI / MCP（255★，Apache-2.0；仓最近推送停在 2026-09-24）
 - [Safe Agent Skills（Safe 官方）](wiki/entries/safe-agent-skills.md) — 只读 Safe 状态、解码 calldata 并提出交易，不能代签（1★，MIT）
 - [gemini-frontend-design（Google 官方）](wiki/entries/gemini-frontend-design.md) — 按主题定制视觉方向、渲染后自检的前端设计 skill
+- [ECMWF Weather Skills（官方）](wiki/entries/ecmwf-weather-skills.md) — 预报 / ERA5 / Destination Earth / MARS 等天气数据技能 + 可选 MCP（23★，Apache-2.0；项目标为 Emerging）
+- [Wallet Theft Detective（GoPlus 官方）](wiki/entries/wallet-theft-detective.md) — 只读排查加密资产被盗可能原因，不读私钥或钱包文件（5★；许可未在 GitHub 明确标出）
 - [Science Skills（Google DeepMind 官方）](wiki/entries/science-skills.md) — 文献库 / 蛋白与基因组公共库 / AlphaGenome 等约 40 个科研技能（3,536★，Apache-2.0；部分需 API key）
 - [Open Code Review（阿里官方）](wiki/entries/open-code-review.md) — 确定性规则 + LLM 的行级代码审查 CLI 与两种 Agent Skill（56,426★，Apache-2.0；需 ocr CLI / 模型端点）
 - [Gemma Skills](wiki/entries/gemma-skills.md) — Gemma 4 应用开发与微调（LoRA/QLoRA/DPO/GRPO）；仓库在 google-gemma 下，但 README 写明不是 Google 官方支持的产品（1,074★；根目录无 LICENSE）
@@ -338,6 +340,9 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 - [GIF 工厂（gif-factory）](wiki/entries/gif-factory.md) — 像素/插画/真人表情包与动态海报技能
 - [video-use（browser-use）](wiki/entries/video-use.md) — 对话式剪辑口播/教程毛片
 - [rea-video](wiki/entries/rea-video.md) — 任意视频逐镜逆向拆解
+- [rea-games](wiki/entries/rea-games.md) — 记录游戏行为、写成 GAME.md、在另一引擎重建并逐帧验证（349★，MIT）
+- [家族迁徙故事（family-migration-story）](wiki/entries/family-migration-story.md) — 族谱做成带出处的调研报告和土耳其语旁白地图视频（95★，MIT）
+- [Perler-Bead MV Skill](wiki/entries/perler-bead-mv-skill.md) — 交互式像素拼豆风 1080p 动画 MV（3★，MIT；本窗介绍帖 46 赞）
 - [Scenario Labs Skills](wiki/entries/scenario-labs-skills.md) — 图片/视频/音频/3D + 本机 DCC 技能包
 - [gpx-3d-video](wiki/entries/gpx-3d-video.md) — GPX 轨迹同步 3D 路线叠加
 - [Claude Animated Shorts](wiki/entries/claude-animated-shorts.md) — three.js + Remotion 本地渲染竖屏动画故事短片
@@ -368,6 +373,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 - [Zazzy Skills（animate-my-work）](wiki/entries/zazzy-skills.md) — Figma 画板分镜后用 Remotion 成片并踩点混音（新建仓，2★，MIT；音效/配乐文件另行保留）
 - [3dviz-pro-max](wiki/entries/3dviz-pro-max.md) — 一句话做成可逛的 Three.js / Blender 场景，带案例与验收（1,410★，MIT；仓最近推送停在 2026-09-11）
 - [Three.js Awesome Graphics Agent Skills](wiki/entries/threejs-awesome-graphics-agent-skills.md) — 约 28 个高质量 Three.js 画面技能 + router + 示例库（1,033★；v0.14.0，MIT AND GPL-3.0-only）
+- [Three.js Game Skills](wiki/entries/threejs-game-skills.md) — 10 个技能做可玩的 Three.js 浏览器游戏：导演路由 + 玩法 / AAA 画面与特效 / UI / 资源 / 验收（2,913★，MIT；本窗作者第一方更新）
 - [papercraft](wiki/entries/papercraft.md) — 弹出式剪纸风 Three.js 游戏/场景/短片，带结构类型和出片脚本（262★，MIT；本窗介绍帖 190 赞）
 - [diorama](wiki/entries/diorama.md) — 可旋转 Three.js 立体模型盒，先选像素/卡通外观和模型来源（710★，MIT）
 - [drama-skills（ZenStory）](wiki/entries/drama-skills.md) — 短剧/漫剧十二技能：点子或原著 → 剧本/分镜/提示词/成片（4,782★，MIT）
@@ -383,6 +389,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 ### 知识库 / 科学 / 其他高信号
 - [OpenMAIC](wiki/entries/openmaic.md) — 清华多 Agent 互动课堂的安装 / 生成 / 二开技能（44,605★，MIT）
 - [Visual Learning Skill](wiki/entries/visual-learning-skill.md) — 把有步骤或部件关系的知识点做成可交互讲解页（24★，MIT）
+- [「动」悉万物（z-dongxi）](wiki/entries/z-dongxi.md) — 把内容做成会动的解析图（35 图型 / 27 风格），位于 tjxj/z-skills 包（684★；根目录未见 LICENSE）
 - [jevgrep](wiki/entries/jevgrep.md) — 用自然语言问仓库行为在哪，返回相关文件和原文摘录（3,271★，MIT）
 - [wechat-selkies](wiki/entries/wechat-selkies.md) — Docker 网页版微信/QQ + 通过桌面 API 操作的技能（4,533★，MIT）
 - [lean-work](wiki/entries/lean-work.md) — 少走步、少读上下文，守住「没验证不说做完」（0★，MIT；对照样本很小）

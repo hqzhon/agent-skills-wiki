@@ -6,17 +6,24 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 | --- | --- | --- | --- |
 | [Argent（Software Mansion：驱动模拟器、真机、电视和 Mac 应用）](entries/argent.md) | official, software-mansion, mcp, ios, android, tv, macos, e2e, profiling, skill-pack | [@hsianghui](https://x.com/hsianghui/status/2126142899197035002) | 2026-11-27 |
 | [Blender Skills（arjun988，94 个 MCP 技能）](entries/blender-skills-arjun.md) | 3d, blender, mcp, game-assets, skill-pack | [@hsianghui](https://x.com/hsianghui/status/2125945423508762903) | 2026-11-27 |
+| [ECMWF Weather Skills（官方：预报 / ERA5 / Destination Earth）](entries/ecmwf-weather-skills.md) | official, ecmwf, weather, climate, era5, mcp, skill-pack | [@AKapur36490](https://x.com/AKapur36490/status/2126194503816040519) | 2026-11-27 |
+| [家族迁徙故事（family-migration-story：族谱做成有声地图纪录片）](entries/family-migration-story.md) | genealogy, video, remotion, research, turkish, skill | [@RoundtableSpace](https://x.com/RoundtableSpace/status/2126213182415114590) | 2026-11-27 |
 | [Fingerprint Leaderboard Skill（给 Sentient 指纹排行榜准备提交）](entries/fingerprint-leaderboard-skill.md) | llm, fingerprinting, evaluation, research, skill | [@qzxcle](https://x.com/qzxcle/status/2126037390863278238) | 2026-11-27 |
 | [jevgrep（用自然语言问仓库「这段行为在哪」）](entries/jevgrep.md) | code-search, cli, discovery, semantic-search, skill | [@hsianghui](https://x.com/hsianghui/status/2126055353871917208) | 2026-11-27 |
 | [lean-work（少走步、少读上下文，守住质量底线）](entries/lean-work.md) | workflow, tokens, glm, zcode, efficiency, skill | [@xyun023](https://x.com/xyun023/status/2125936785998098465) | 2026-11-27 |
 | [Meta VR Agentic Tools（官方：Quest / Horizon OS 开发技能）](entries/meta-vr-agentic-tools.md) | official, meta, vr, quest, horizon-os, mcp, skill-pack | [@Dilmerv](https://x.com/Dilmerv/status/2126013737739911372) | 2026-11-27 |
 | [OpenMAIC（多 Agent 互动课堂：安装 / 生成 / 二开）](entries/openmaic.md) | education, classroom, multi-agent, openclaw, chinese, skill-pack | [@kewangx](https://x.com/kewangx/status/2126090842511389148) | 2026-11-27 |
+| [Perler-Bead MV Skill（像素拼豆风动画 MV）](entries/perler-bead-mv-skill.md) | animation, video, pixel-art, perler-beads, chinese, skill | [@ay1285640043181](https://x.com/ay1285640043181/status/2126224510198362598) | 2026-11-27 |
 | [PPT Agent Skill（一句话生成设计向 HTML 预览和可编辑 PPTX）](entries/ppt-agent-skill.md) | slides, pptx, html, design, skill | [@tzmc9700](https://x.com/tzmc9700/status/2126124094320185738) | 2026-11-27 |
+| [rea-games（逐帧复刻游戏并验证玩法一致）](entries/rea-games.md) | gamedev, reverse-engineering, testing, replay, skill | [@GitTrend0x](https://x.com/GitTrend0x/status/2126277437969387839) | 2026-11-27 |
 | [Safe Agent Skills（官方：读 Safe 状态并提出交易）](entries/safe-agent-skills.md) | official, safe, ethereum, transactions, wallet, skill-pack | [@SafeLabs_](https://x.com/SafeLabs_/status/2125955753622327612) | 2026-11-27 |
 | [sprite-gen（一张立绘做成游戏精灵表或透明循环动画）](entries/sprite-gen.md) | gamedev, sprites, animation, atlas, cli, skill | [@dextune](https://x.com/dextune/status/2125970017896501568) | 2026-11-27 |
 | [Three.js Awesome Graphics Agent Skills（高质量 Three.js 画面技能包）](entries/threejs-awesome-graphics-agent-skills.md) | 3d, threejs, graphics, shaders, webgpu, procedural, skill-pack | [@scottstts](https://x.com/scottstts/status/2126115898566299705) | 2026-11-27 |
+| [Three.js Game Skills（可玩的 Three.js 游戏技能包）](entries/threejs-game-skills.md) | 3d, threejs, gamedev, vfx, graphics, qa, skill-pack | [@majidmanzarpour](https://x.com/majidmanzarpour/status/2126281851946103117) | 2026-11-27 |
 | [Visual Learning Skill（把知识点做成可交互讲解页）](entries/visual-learning-skill.md) | education, explainer, animation, html, skill | [@kewangx](https://x.com/kewangx/status/2126090842511389148) | 2026-11-27 |
+| [Wallet Theft Detective（GoPlus 官方：只读排查加密资产被盗）](entries/wallet-theft-detective.md) | official, goplus, security, web3, wallet, incident-response, skill | [@GoPlusSecurity](https://x.com/GoPlusSecurity/status/2126265943055896824) | 2026-11-27 |
 | [wechat-selkies（通过桌面 API 操作 Docker 版微信）](entries/wechat-selkies.md) | wechat, docker, desktop, chinese, cli, skill | [@NickXia007](https://x.com/NickXia007/status/2125968810566201678) | 2026-11-27 |
+| [「动」悉万物（z-dongxi：把内容做成会动的解析图）](entries/z-dongxi.md) | visualization, svg, animation, explainer, chinese, skill | [@27huff](https://x.com/27huff/status/2126231552476778636) | 2026-11-27 |
 | [郑希观点库（zhengxi-views，可溯源的基金经理投研技能）](entries/zhengxi-views.md) | finance, funds, research, chinese, skill | [@bkdgiffug](https://x.com/bkdgiffug/status/2126128372493287549) | 2026-11-27 |
 | [AnyVFX（把短特效 GIF 做成单通道 Shader）](entries/anyvfx.md) | vfx, shader, shadertoy, webgl, gif, skill | [@gokayfem](https://x.com/gokayfem/status/2125913094182355105) | 2026-11-26 |
 | [First Principles Tutor（用第一性原理逼你自己把概念重建出来）](entries/first-principles-tutor.md) | learning, tutoring, socratic, claude, skill | [@Ishrit_Rai](https://x.com/Ishrit_Rai/status/2125849727279436036) | 2026-11-26 |

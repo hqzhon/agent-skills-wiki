@@ -1,12 +1,12 @@
 {
   "timezone": "Asia/Shanghai",
-  "last_scan_at": "2026-11-26T19:45:00+08:00",
-  "last_since_id": "2125918977700647049",
+  "last_scan_at": "2026-11-27T07:47:00+08:00",
+  "last_since_id": "2126098359547052163",
   "machine_mirror": "/Users/apple/code/agent-skills-wiki",
   "queries": [
     "(\"SKILL.md\" OR \"agent skill\" OR \"agent skills\" OR \"claude skill\" OR \"cursor skill\") -is:retweet lang:en",
     "(\"SKILL.md\" OR \"agent skill\" OR 智能体技能 OR agent技能) -is:retweet lang:zh",
     "(\"awesome skills\" OR \"skills library\" OR \"reusable skill\") (agent OR cursor OR claude) -is:retweet"
   ],
-  "last_result": "Window after 2125830705867620845 (11-26 14:00, ~6h). EN/ZH/library, 231 unique ids (all new), no supplemental search. 7 accepted: seedance2-skill, wx-downloader, soundkit, first-principles-tutor, anyvfx, mobile-agent-skills, full-project-audit. Skipped catalog repeats, TermiX/Finch funnels, listicles, codegraph-rust and reporails/cli (tools). Watch: maharshii unidentified SKILL.md photos, kayshen_xu 笺格 article skill, cyncedin/pstack-t3, lingering threejs-game-skills / RoundtableSpace / ext-skills."
+  "last_result": "Window after 2125918977700647049 (11-26 19:45, ~12h, 8/14/20 schedule). EN/ZH/library, 366 unique ids (all new), no supplemental search; expanded 256 t.co. 10 accepted: openmaic, blender-skills-arjun, wechat-selkies, sprite-gen, jevgrep, meta-vr-agentic-tools, visual-learning-skill, fingerprint-leaderboard-skill, lean-work, safe-agent-skills. Skipped catalog repeats, TermiX/Finch/Cituna funnels, education product listicle extras, hubs/bridges. Watch: maharshii SKILL.md photos, kayshen_xu 笺格, pstack-t3, threejs-game-skills / RoundtableSpace / ext-skills, trimtab, OpenMontageInc transfer."
 }

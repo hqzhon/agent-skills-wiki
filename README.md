@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-457-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-467-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（457 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（467 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## ⭐ Top picks
 
-Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star 排序的高信号精选。
+Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star 排序的高信号精选。
 
 | Skill | Repo | ★ | What it does |
 | --- | --- | --- | --- |
@@ -84,6 +84,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 | [Open Code Review](wiki/entries/open-code-review.md) | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 56.4k | Alibaba official hybrid code review CLI + agent skills |
 | [agent-browser](wiki/entries/agent-browser.md) | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 53.8k | Vercel Labs browser automation CLI for agents |
 | [Obsidian Skills](wiki/entries/obsidian-skills.md) | [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | 52k | Official Obsidian vault skills (Markdown, Bases, Canvas) |
+| [OpenMAIC](wiki/entries/openmaic.md) | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 44.6k | Tsinghua multi-agent interactive classroom + setup/extension skills |
 | [VoltAgent Awesome Agent Skills](wiki/entries/voltagent-awesome-agent-skills.md) | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37.3k | Curated 1,497+ official & community agent skills |
 | [HowToLiveLonger](wiki/entries/howtolivelonger.md) | [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 36.1k | Evidence-based longevity lookup for everyday habits |
 | [Knowledge Work Plugins](wiki/entries/knowledge-work-plugins.md) | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 35k | Anthropic's role-based skill plugins |
@@ -105,7 +106,10 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 | [ljg-skills（李继刚）](wiki/entries/ljg-skills.md) | [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) | 7.7k | 26 atomic thinking / writing skills (中文) |
 | [MengTo Skills](wiki/entries/mengto-skills.md) | [MengTo/Skills](https://github.com/MengTo/Skills) | 7.7k | Design+Code skill pack: HTML demos, 3D, illustration |
 | [.NET Agent Skills](wiki/entries/dotnet-skills.md) | [dotnet/skills](https://github.com/dotnet/skills) | 5.9k | Official C# / MSBuild / NuGet skills with public evals |
+| [Blender Skills（arjun988）](wiki/entries/blender-skills-arjun.md) | [arjun988/blender-skills](https://github.com/arjun988/blender-skills) | 5.0k | 94 Blender MCP skills from blockout to engine export |
 | [Seedance 2.0 Prompt Skill](wiki/entries/seedance2-skill.md) | [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill) | 4.6k | Prompt writing for Jimeng Seedance 2.0, EN/ZH SKILL.md |
+| [wechat-selkies](wiki/entries/wechat-selkies.md) | [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) | 4.5k | Docker WeChat/QQ desktop plus an agent skill to operate it |
+| [sprite-gen](wiki/entries/sprite-gen.md) | [aldegad/sprite-gen](https://github.com/aldegad/sprite-gen) | 4.3k | One still image to a game-ready sprite atlas or transparent loops |
 | [gzh-design-skill](wiki/entries/gzh-design-skill.md) | [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) | 4.3k | Markdown → WeChat 公众号-ready HTML (中文) |
 | [Effective HTML](wiki/entries/effective-html.md) | [plannotator/effective-html](https://github.com/plannotator/effective-html) | 4.2k | HTML wireframes, prototypes, diagrams, one-pagers |
 | [Modern Web Guidance](wiki/entries/modern-web-guidance.md) | [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | 4.0k | Chrome + Edge + Firefox + MDN: use modern web APIs |
@@ -117,6 +121,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 > 以下为 Catalog 中近期高信号 / 官方包摘录。完整列表 → **[Catalog](wiki/Catalog.md)**
 
 ### 官方 / 厂商包
+- [Meta VR Agentic Tools（官方）](wiki/entries/meta-vr-agentic-tools.md) — Quest / Horizon OS 开发技能 + metavr CLI / MCP（255★，Apache-2.0；仓最近推送停在 2026-09-24）
+- [Safe Agent Skills（Safe 官方）](wiki/entries/safe-agent-skills.md) — 只读 Safe 状态、解码 calldata 并提出交易，不能代签（1★，MIT）
 - [gemini-frontend-design（Google 官方）](wiki/entries/gemini-frontend-design.md) — 按主题定制视觉方向、渲染后自检的前端设计 skill
 - [Science Skills（Google DeepMind 官方）](wiki/entries/science-skills.md) — 文献库 / 蛋白与基因组公共库 / AlphaGenome 等约 40 个科研技能（3,536★，Apache-2.0；部分需 API key）
 - [Open Code Review（阿里官方）](wiki/entries/open-code-review.md) — 确定性规则 + LLM 的行级代码审查 CLI 与两种 Agent Skill（56,426★，Apache-2.0；需 ocr CLI / 模型端点）
@@ -365,10 +371,18 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-25). 按 GitHub Star
 - [wallstreet-explainer](wiki/entries/wallstreet-explainer.md) — 华尔街式财经/科技解说短片：真新闻作证据，深蓝底 + 金色大数字，横竖屏、有口播/无人出镜四种模式（1,017★，MIT）
 - [formant-voice](wiki/entries/formant-voice.md) — 不用录音也不用 TTS 模型，用 Klatt 共振峰合成复古语音并出频谱视频（MIT zip，作者站点分发）
 - [spritecast](wiki/entries/spritecast.md) — 按游戏镜头角度从立绘生成 8 向精灵图 / 像素表（288★，MIT；出图走付费 API）
+- [sprite-gen](wiki/entries/sprite-gen.md) — 一张立绘生成游戏精灵表 / 透明循环动画（4,306★，Apache-2.0；本窗 v4.4.0）
+- [Blender Skills（arjun988，94 个 MCP 技能）](wiki/entries/blender-skills-arjun.md) — 与已收录的 EL4CTEO/blender-skills 不是同一仓库（5,049★，MIT）
 - [sprite-stacking](wiki/entries/sprite-stacking.md) — 四视图像素画雕刻叠层，做成可旋转伪 3D 精灵（450★，MIT；与 spritecast 互补）
 - [h3-fight](wiki/entries/h3-fight.md) — MiniMax H3 打戏/运动提示词库 + 提交前检查（133★；工具 MIT，提示词库 CC BY-NC 4.0）
 
 ### 知识库 / 科学 / 其他高信号
+- [OpenMAIC](wiki/entries/openmaic.md) — 清华多 Agent 互动课堂的安装 / 生成 / 二开技能（44,605★，MIT）
+- [Visual Learning Skill](wiki/entries/visual-learning-skill.md) — 把有步骤或部件关系的知识点做成可交互讲解页（24★，MIT）
+- [jevgrep](wiki/entries/jevgrep.md) — 用自然语言问仓库行为在哪，返回相关文件和原文摘录（3,271★，MIT）
+- [wechat-selkies](wiki/entries/wechat-selkies.md) — Docker 网页版微信/QQ + 通过桌面 API 操作的技能（4,533★，MIT）
+- [lean-work](wiki/entries/lean-work.md) — 少走步、少读上下文，守住「没验证不说做完」（0★，MIT；对照样本很小）
+- [Fingerprint Leaderboard Skill](wiki/entries/fingerprint-leaderboard-skill.md) — 给 Sentient 指纹排行榜写提交并本地回放评测（0★，MIT）
 - [notebooklm-py](wiki/entries/notebooklm-py.md) — 非官方 Gemini Notebook（原 NotebookLM）Python API / CLI / 可加载技能（20,364★，MIT；走未文档化接口，装前看风险说明）
 - [muse-grok-x-search](wiki/entries/muse-grok-x-search.md) — 给 Muse 补上只读 X 搜索（经 Grok Build CLI，227★，MIT）
 - [Science Skills（Google DeepMind）](wiki/entries/science-skills.md) — 文献与生物信息公共库 / AlphaGenome 等约 40 个科研技能（3,536★，Apache-2.0）

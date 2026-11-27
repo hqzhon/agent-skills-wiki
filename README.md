@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-467-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-471-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（467 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（471 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -189,6 +189,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 - [ib-check-deck（Anthropic 官方）](wiki/entries/anthropic-ib-check-deck.md) — 路演/投资者演示稿只读质检：跨页数字、叙事与图表、语域和版式
 - [thesis-tracker（Anthropic 官方）](wiki/entries/anthropic-thesis-tracker.md) — 组合/观察名单投资论点跟踪：支柱、催化剂、否决条件
 - [Claude Trading Skills](wiki/entries/claude-trading-skills.md) — 74 个长线投资 + 波段流程技能（非自动下单，~4804★）
+- [郑希观点库（zhengxi-views）](wiki/entries/zhengxi-views.md) — 可溯源检索易方达基金经理郑希的公开观点、方法与持仓，并可按该框架对比基金（1,778★；代码 MIT，仅供研究学习，非投资建议）
 
 ### 设计 / UI / 品味
 - [sepia（去 AI 味写作）](wiki/entries/sepia.md) — 叙事架构层去 AI 味
@@ -221,6 +222,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 - [萝卜 PPT](wiki/entries/luobo-ppt.md) — 生成 / 照参考图美化原生可编辑 PPTX
 - [GordenPPTSkill](wiki/entries/gorden-ppt-skill.md) — 中文商务模板 + 只改文字（非商业许可）
 - [Dashi PPT Skill（大师 PPT）](wiki/entries/dashi-ppt-skill.md) — 浏览器逐页改稿，导出可编辑 PPTX（AGPL-3.0）
+- [PPT Agent Skill](wiki/entries/ppt-agent-skill.md) — 一句话调研后出 HTML 预览和可编辑 PPTX，26 风格 / 18 图表（217★，MIT）
 - [Kubai Icons](wiki/entries/kubai-icons.md) — 统一画风动态/静态功能图标 skill + 2600+ 开源图标
 - [Awesome Design Skills](wiki/entries/awesome-design-skills.md) — 67 套设计系统 SKILL.md + DESIGN.md（npx 拉取）
 - [design.how](wiki/entries/design-how.md) — 从已有应用 UI 搭建并迁移设计系统，默认写在 run branch（453★）
@@ -297,6 +299,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 - [SwiftUI Pro（Paul Hudson）](wiki/entries/swiftui-pro.md) — 专治 LLM 写 SwiftUI 的废弃 API / 无障碍 / 性能错误 (~6.5k★)
 - [Mobile Agent Skills](wiki/entries/mobile-agent-skills.md) — Android / iOS / Flutter 等 10 个工程技能 + 多 agent 安装脚本（本窗新发布，0★，MIT；与 iOS Agent Skill / Compose Skill 互补）
 - [iOS Agent Skill](wiki/entries/ios-agent-skill.md) — 给编码 agent 本机 Apple 参考、SwiftUI 脚手架和模拟器构建验收（42★，MIT；与 SwiftUI Pro 互补）
+- [Argent（Software Mansion 官方）](wiki/entries/argent.md) — MCP / CLI / 约 19 个技能，驱动 iOS/Android 模拟器与真机、电视和 Mac 应用（3,257★；源码 Apache-2.0，含专有二进制）
 - [Modern Java Guidance](wiki/entries/modern-java-guidance.md) — 拦 Java 8 / Boot 2.x 旧写法，版本感知 CLI + PostToolUse 钩子（对标 modern-web-guidance；新建仓，5★，MIT）
 - [inference-optimisation](wiki/entries/inference-optimisation-skill.md) — 本地 LLM decode/prefill/投机解码爬坡：先算上限再交错 A/B（914★，MIT）
 - [rust-anything](wiki/entries/rust-anything.md) — 把 TS/Python/Go/Java 等一块块迁到 Rust，先给原程序录像再对照（2,386★，MIT）
@@ -364,6 +367,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 - [Stickman Video Director](wiki/entries/stickman-video-director.md) — 不露脸火柴人动画出片
 - [Zazzy Skills（animate-my-work）](wiki/entries/zazzy-skills.md) — Figma 画板分镜后用 Remotion 成片并踩点混音（新建仓，2★，MIT；音效/配乐文件另行保留）
 - [3dviz-pro-max](wiki/entries/3dviz-pro-max.md) — 一句话做成可逛的 Three.js / Blender 场景，带案例与验收（1,410★，MIT；仓最近推送停在 2026-09-11）
+- [Three.js Awesome Graphics Agent Skills](wiki/entries/threejs-awesome-graphics-agent-skills.md) — 约 28 个高质量 Three.js 画面技能 + router + 示例库（1,033★；v0.14.0，MIT AND GPL-3.0-only）
 - [papercraft](wiki/entries/papercraft.md) — 弹出式剪纸风 Three.js 游戏/场景/短片，带结构类型和出片脚本（262★，MIT；本窗介绍帖 190 赞）
 - [diorama](wiki/entries/diorama.md) — 可旋转 Three.js 立体模型盒，先选像素/卡通外观和模型来源（710★，MIT）
 - [drama-skills（ZenStory）](wiki/entries/drama-skills.md) — 短剧/漫剧十二技能：点子或原著 → 剧本/分镜/提示词/成片（4,782★，MIT）

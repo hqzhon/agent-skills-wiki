@@ -4,6 +4,15 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Animation Principles（迪士尼 12 原则动效技能包）](entries/animation-principles.md) | animation, motion, frontend, css, react, gsap, skill-pack | [@lxfater](https://x.com/lxfater/status/2126311051536867595) | 2026-11-28 |
+| [AutoClip（本地优先的长视频切片出片技能）](entries/autoclip.md) | video, clipping, short-form, mcp, local-first, chinese, skill-pack | [@lengqie](https://x.com/lengqie/status/2126444455729246368) | 2026-11-28 |
+| [BeanStack（对齐 → 规格 → 红灯测试 → 分派 → 验收）](entries/beanstack.md) | workflow, spec, testing, multi-agent, openspec, chinese, skill | [@qiunai_ai](https://x.com/qiunai_ai/status/2126337946068668727) | 2026-11-28 |
+| [dm-scan（排查 Solana Direct Mapping 升级会不会把程序打崩）](entries/dm-scan.md) | solana, security, audit, rust, web3, skill | [@AshrafSyed](https://x.com/AshrafSyed/status/2126383752695968060) | 2026-11-28 |
+| [Eagerworks Skills（写 PR / 审查 / 交接等工程流程包）](entries/eagerworks-skills.md) | git, pull-request, code-review, workflow, compliance, skill-pack | [@eagerworks](https://x.com/eagerworks/status/2126300524303503489) | 2026-11-28 |
+| [fab-asset-prep（把 AI 三维模型整理成 Fab 上架包）](entries/fab-asset-prep.md) | 3d, blender, fab, gamedev, marketplace, skill | [@LamineBelhadj4](https://x.com/LamineBelhadj4/status/2126456247821926410) | 2026-11-28 |
+| [generate-icons（先出样再画完整图标库）](entries/generate-icons.md) | icons, design-system, svg, frontend, react, skill | [@ChrisL_AI1022](https://x.com/ChrisL_AI1022/status/2126360405161418872) | 2026-11-28 |
+| [Gemini Deep Research Skill（官方实验：把编程代理变成调研员）](entries/gemini-deep-research.md) | official, google, gemini, research, deep-research, skill | [@_philschmid](https://x.com/_philschmid/status/2126312943520243885) | 2026-11-28 |
+| [OmniSolidWorks Skill（有证据的 SolidWorks 机械建模与装配）](entries/omnisolidworks-skill.md) | cad, solidworks, mechanical, engineering, windows, chinese, skill | [@CommunismHaruh1](https://x.com/CommunismHaruh1/status/2126322823522357315) | 2026-11-28 |
 | [Argent（Software Mansion：驱动模拟器、真机、电视和 Mac 应用）](entries/argent.md) | official, software-mansion, mcp, ios, android, tv, macos, e2e, profiling, skill-pack | [@hsianghui](https://x.com/hsianghui/status/2126142899197035002) | 2026-11-27 |
 | [Blender Skills（arjun988，94 个 MCP 技能）](entries/blender-skills-arjun.md) | 3d, blender, mcp, game-assets, skill-pack | [@hsianghui](https://x.com/hsianghui/status/2125945423508762903) | 2026-11-27 |
 | [ECMWF Weather Skills（官方：预报 / ERA5 / Destination Earth）](entries/ecmwf-weather-skills.md) | official, ecmwf, weather, climate, era5, mcp, skill-pack | [@AKapur36490](https://x.com/AKapur36490/status/2126194503816040519) | 2026-11-27 |

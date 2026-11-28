@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-478-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-487-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（478 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（487 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## ⭐ Top picks
 
-Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star 排序的高信号精选。
+Most-starred skills in the wiki (GitHub stars as of 2026-11-28). 按 GitHub Star 排序的高信号精选。
 
 | Skill | Repo | ★ | What it does |
 | --- | --- | --- | --- |
@@ -94,6 +94,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 | [PM Skills](wiki/entries/pm-skills.md) | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 28.3k | 72 PM decision skills / 9 plugins, companion to product-engineering |
 | [planning-with-files](wiki/entries/planning-with-files.md) | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 28.2k | Crash-proof markdown plans that survive /clear |
 | [飞书 / Lark 官方 CLI Skills](wiki/entries/lark-cli-skills.md) | [larksuite/cli](https://github.com/larksuite/cli) | 18k | Official Feishu/Lark CLI + 26 agent skills |
+| [AutoClip](wiki/entries/autoclip.md) | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 17.6k | Local-first long-video clipping into short-form packages |
 | [no-ai-slop](wiki/entries/no-ai-slop.md) | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | 13.8k | Edit out AI-writing patterns, keep the author's voice |
 | [figures4papers](wiki/entries/figures4papers.md) | [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) | 11.8k | Publication-quality Matplotlib figures + a loadable skill |
 | [Hugging Face Skills](wiki/entries/huggingface-skills.md) | [huggingface/skills](https://github.com/huggingface/skills) | 11.4k | Official Hub / datasets / training skills, start with hf-cli |
@@ -124,6 +125,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 - [Meta VR Agentic Tools（官方）](wiki/entries/meta-vr-agentic-tools.md) — Quest / Horizon OS 开发技能 + metavr CLI / MCP（255★，Apache-2.0；仓最近推送停在 2026-09-24）
 - [Safe Agent Skills（Safe 官方）](wiki/entries/safe-agent-skills.md) — 只读 Safe 状态、解码 calldata 并提出交易，不能代签（1★，MIT）
 - [gemini-frontend-design（Google 官方）](wiki/entries/gemini-frontend-design.md) — 按主题定制视觉方向、渲染后自检的前端设计 skill
+- [Gemini Deep Research Skill（Google 官方实验）](wiki/entries/gemini-deep-research.md) — 约 16 行把编程代理变成多路调研员，强调一手来源与引用（google-gemini/demolab，974★，Apache-2.0；介绍帖约 2,000 赞）
 - [ECMWF Weather Skills（官方）](wiki/entries/ecmwf-weather-skills.md) — 预报 / ERA5 / Destination Earth / MARS 等天气数据技能 + 可选 MCP（23★，Apache-2.0；项目标为 Emerging）
 - [Wallet Theft Detective（GoPlus 官方）](wiki/entries/wallet-theft-detective.md) — 只读排查加密资产被盗可能原因，不读私钥或钱包文件（5★；许可未在 GitHub 明确标出）
 - [Science Skills（Google DeepMind 官方）](wiki/entries/science-skills.md) — 文献库 / 蛋白与基因组公共库 / AlphaGenome 等约 40 个科研技能（3,536★，Apache-2.0；部分需 API key）
@@ -194,6 +196,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 - [郑希观点库（zhengxi-views）](wiki/entries/zhengxi-views.md) — 可溯源检索易方达基金经理郑希的公开观点、方法与持仓，并可按该框架对比基金（1,778★；代码 MIT，仅供研究学习，非投资建议）
 
 ### 设计 / UI / 品味
+- [Animation Principles](wiki/entries/animation-principles.md) — 迪士尼 12 原则拆成约 144 个可按技术栈挑选的动效技能（642★，MIT；不要一次全装）
+- [generate-icons](wiki/entries/generate-icons.md) — 先按设计系统出 6–8 个样例，确认后再画完整图标库（173★，MIT）
 - [sepia（去 AI 味写作）](wiki/entries/sepia.md) — 叙事架构层去 AI 味
 - [Humanizer（blader）](wiki/entries/humanizer.md) — 26 种 AI 写作痕迹改写，~67k★ · 日语版思路见 [yomiyasu](wiki/entries/yomiyasu.md)
 - [UX Writing Skill](wiki/entries/ux-writing-skill.md) — 按钮/错误/空状态等界面微文案框架（268★，MIT；与 ux-audit 分工不同）
@@ -242,6 +246,11 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 - [hairline](wiki/entries/hairline.md) — 等距单线插画：按想法生成或从 SVG 领养，交出自包含 HTML（4,015★，MIT）
 
 ### 工程 / 交付 / Meta
+- [OmniSolidWorks Skill](wiki/entries/omnisolidworks-skill.md) — 证据驱动的本机 SolidWorks 零件/装配/爆炸视图/工程图，Windows 实测（28★，MIT；第一方介绍帖约 310 赞）
+- [Eagerworks Skills](wiki/entries/eagerworks-skills.md) — 写 PR、代码审查、交接、架构决策等 10 个工程流程技能（18★，MIT）
+- [BeanStack](wiki/entries/beanstack.md) — 对齐需求、写规格、先写红灯测试再分派并验收（1★，MIT）
+- [dm-scan](wiki/entries/dm-scan.md) — 排查 Solana Direct Mapping 升级是否会打崩程序（0★，Apache-2.0/MIT；扫描不能代替测试）
+- [fab-asset-prep](wiki/entries/fab-asset-prep.md) — 在 Blender 里把 AI 三维模型修成可上 Fab 的校验包（0★，MIT；本窗新发布）
 - [fuck-u-code-analysis](wiki/entries/fuck-u-code-analysis.md) — 提交前跑屎山体检，按 11 项指标给重构建议
 - [gstack（Garry Tan）](wiki/entries/gstack.md) — review / QA / shipping
 - [pstack `/statechart`](wiki/entries/pstack-statechart.md) — TLA+ 状态图找 bug
@@ -322,6 +331,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-27). 按 GitHub Star
 - [Instagram Agent Skill](wiki/entries/instagram-agent-skill.md) — 13 个 Instagram 运营技能：钩子打分、对标、文案与去 AI 腔，默认不代发（7,116★，MIT；与 YouTube Agent Skill 为同一作者姊妹包）
 
 ### 视频 / 成片
+- [AutoClip](wiki/entries/autoclip.md) — 本地优先把长视频/链接切成各平台成片、封面、文案和发布包（17,578★，MIT；技能 + CLI/MCP）
 - [Seedance 2.0 Prompt Skill](wiki/entries/seedance2-skill.md) — 即梦 Seedance 2.0 提示词：输入上限、@ 引用与 12 类场景（4,584★，MIT；仓最近推送停在 2026-09-19）
 - [video-jumpcut-polish](wiki/entries/video-jumpcut-polish.md) — macOS 14+ 把口播/开箱毛片自动精剪并出五平台文案（本窗新发布，0★，MIT；需 ffmpeg，推荐 Apple Silicon）
 - [HyperFrames（HeyGen 官方）](wiki/entries/hyperframes.md) — HTML 渲染成 MP4，官方技能包（89,560★，Apache-2.0；许多视频条目的上游）

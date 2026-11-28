@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-487-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-493-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（487 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（493 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -246,6 +246,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-28). 按 GitHub Star
 - [hairline](wiki/entries/hairline.md) — 等距单线插画：按想法生成或从 SVG 领养，交出自包含 HTML（4,015★，MIT）
 
 ### 工程 / 交付 / Meta
+- [oh-my-agent](wiki/entries/oh-my-agent.md) — 按任务装 QA / 设计 / 调试技能，或拉起规划-开发-审查团队（1,481★，MIT；本窗来自盘点帖）
+- [SivaLabs Agent Skills](wiki/entries/sivalabs-agent-skills.md) — Spring Boot / Modulith / jSpecify / Java 审查等技能包（196★，MIT；与 Modern Java Guidance 互补）
 - [OmniSolidWorks Skill](wiki/entries/omnisolidworks-skill.md) — 证据驱动的本机 SolidWorks 零件/装配/爆炸视图/工程图，Windows 实测（28★，MIT；第一方介绍帖约 310 赞）
 - [Eagerworks Skills](wiki/entries/eagerworks-skills.md) — 写 PR、代码审查、交接、架构决策等 10 个工程流程技能（18★，MIT）
 - [BeanStack](wiki/entries/beanstack.md) — 对齐需求、写规格、先写红灯测试再分派并验收（1★，MIT）
@@ -331,6 +333,10 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-28). 按 GitHub Star
 - [Instagram Agent Skill](wiki/entries/instagram-agent-skill.md) — 13 个 Instagram 运营技能：钩子打分、对标、文案与去 AI 腔，默认不代发（7,116★，MIT；与 YouTube Agent Skill 为同一作者姊妹包）
 
 ### 视频 / 成片
+- [Papermorph](wiki/entries/papermorph.md) — 教材 / 故事 / 书做成有旁白的静态网页课、剪纸片或纪录片（2,267★，MIT）
+- [motlab](wiki/entries/motlab.md) — 镜头写成 Canvas 代码，审片器里批注再导出，不走视频生成模型（527★，MIT OR Apache-2.0）
+- [Moodreel](wiki/entries/moodreel.md) — 先测量参考片的节奏和镜头，再蒸馏成风格包并写成新片（128★，MIT；从观察名单升级）
+- [Content Skills](wiki/entries/contentskills.md) — 脚本、竖屏成片、发布和私信跟进技能包（213★，AGPL-3.0；Blotato 开源包）
 - [AutoClip](wiki/entries/autoclip.md) — 本地优先把长视频/链接切成各平台成片、封面、文案和发布包（17,578★，MIT；技能 + CLI/MCP）
 - [Seedance 2.0 Prompt Skill](wiki/entries/seedance2-skill.md) — 即梦 Seedance 2.0 提示词：输入上限、@ 引用与 12 类场景（4,584★，MIT；仓最近推送停在 2026-09-19）
 - [video-jumpcut-polish](wiki/entries/video-jumpcut-polish.md) — macOS 14+ 把口播/开箱毛片自动精剪并出五平台文案（本窗新发布，0★，MIT；需 ffmpeg，推荐 Apple Silicon）

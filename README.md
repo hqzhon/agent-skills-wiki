@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-493-2ea44f?style=flat-square" alt="Skills count"></a>
+  <a href="wiki/Catalog.md"><img src="https://img.shields.io/badge/skills-501-2ea44f?style=flat-square" alt="Skills count"></a>
   <img src="https://img.shields.io/github/last-commit/hqzhon/agent-skills-wiki?label=updated&style=flat-square" alt="Last update">
   <img src="https://img.shields.io/badge/scans-3×%20daily-blue?style=flat-square" alt="Scanned 3x daily">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -30,7 +30,7 @@
   <a href="#-submit-a-skill--推荐一个-skill"><b>➕ Submit a skill</b></a>
 </p>
 
-**[→ 打开完整目录 Catalog（493 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
+**[→ 打开完整目录 Catalog（501 条）](wiki/Catalog.md)** · **[最新扫描摘要](wiki/digests/)** · 每天 8:00 · 14:00 · 20:00（Asia/Shanghai）增量更新
 
 ---
 
@@ -95,6 +95,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-28). 按 GitHub Star
 | [planning-with-files](wiki/entries/planning-with-files.md) | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 28.2k | Crash-proof markdown plans that survive /clear |
 | [飞书 / Lark 官方 CLI Skills](wiki/entries/lark-cli-skills.md) | [larksuite/cli](https://github.com/larksuite/cli) | 18k | Official Feishu/Lark CLI + 26 agent skills |
 | [AutoClip](wiki/entries/autoclip.md) | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 17.6k | Local-first long-video clipping into short-form packages |
+| [NVIDIA Auto Ontology](wiki/entries/nvidia-auto-ontology.md) | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 16.2k | Official: build an ontology from metadata and expose it to agents |
 | [no-ai-slop](wiki/entries/no-ai-slop.md) | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | 13.8k | Edit out AI-writing patterns, keep the author's voice |
 | [figures4papers](wiki/entries/figures4papers.md) | [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) | 11.8k | Publication-quality Matplotlib figures + a loadable skill |
 | [Hugging Face Skills](wiki/entries/huggingface-skills.md) | [huggingface/skills](https://github.com/huggingface/skills) | 11.4k | Official Hub / datasets / training skills, start with hf-cli |
@@ -150,6 +151,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-28). 按 GitHub Star
 - [HashiCorp Agent Skills（官方）](wiki/entries/hashicorp-agent-skills.md) — Terraform 16 + Packer 4（939★，MPL-2.0）
 - [Firebase Agent Skills（官方）](wiki/entries/firebase-agent-skills.md) — Auth / Firestore / Analytics / Rules 等 14 个技能（529★，Apache-2.0）
 - [NVIDIA Agent Skills（官方）](wiki/entries/nvidia-skills.md) — CUDA / Physical AI
+- [NVIDIA Auto Ontology（官方）](wiki/entries/nvidia-auto-ontology.md) — 从企业元数据自动建本体，经 MCP/CLI/技能给 agent 做可验证的问数（16,159★，Apache-2.0；与 CUDA/Physical AI 的 nvidia-skills 不是同一包）
 - [Loom Skills（AMD Loom）](wiki/entries/loom-skills.md) — 在 Strix Halo 等设备上移植/优化模型并对照 llama.cpp 测速
 - [global-stock-data](wiki/entries/global-stock-data.md) — 美股/港股等公开数据工具包（官方源优先、零鉴权，~1881★）；内嵌 Python 会联网，先审权限
 - [financial-statements（Anthropic 官方）](wiki/entries/anthropic-financial-statements.md) — 按期间整理三张表和差异分析，不编行情
@@ -214,6 +216,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-28). 按 GitHub Star
 - [unslop-ui](wiki/entries/unslop-ui.md) — 1.0 起只需贴仓库链接：按编号规则去掉界面/图表里的 AI 痕迹（含默认去掉卡片边缘粗色条），建完一屏后也可自行触发（867★，MIT；与 heydamir/unslop 互补）
 - [unslop-anything](wiki/entries/unslop-anything.md) — 先查真实差评里的 UX 故障，再修 Web/移动端的 AI 味界面（358★，MIT；与 unslop、unslop-ui 不是同一仓库）
 - [no-ai-slop](wiki/entries/no-ai-slop.md) — 去写作 AI 味并保留个人声音，可只检测不重写（13,773★，MIT；针对文案，不是 UI）
+- [Anti-Slop](wiki/entries/anti-slop.md) — 四步去 AI 味写作，并用零依赖检查器把门（0★，MIT；与 Stop Slop / no-ai-slop 不是同一仓库）
 - [Guizang Social Card Skill](wiki/entries/guizang-social-card-skill.md) — 小红书图文 / 公众号 21:9+1:1 封面对（8,249★，AGPL-3.0）
 - [User Interview Guide skill](wiki/entries/user-interview-skill.md) — 把学习目标写成中性的 1:1 访谈提纲（118★，Apache-2.0）
 - [open-diagram](wiki/entries/open-diagram.md) — 会测量标签并自检布局的架构图 / 系统图，输出 SVG/PNG（373★，MIT）
@@ -229,6 +232,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-28). 按 GitHub Star
 - [GordenPPTSkill](wiki/entries/gorden-ppt-skill.md) — 中文商务模板 + 只改文字（非商业许可）
 - [Dashi PPT Skill（大师 PPT）](wiki/entries/dashi-ppt-skill.md) — 浏览器逐页改稿，导出可编辑 PPTX（AGPL-3.0）
 - [PPT Agent Skill](wiki/entries/ppt-agent-skill.md) — 一句话调研后出 HTML 预览和可编辑 PPTX，26 风格 / 18 图表（217★，MIT）
+- [Web Deck](wiki/entries/web-deck.md) — 单文件离线 WebGL2 交互演示，带视觉质检（0★，MIT；不是静态 PPT）
+- [posts.design Skills](wiki/entries/posts-design-skills.md) — 按真实品牌发布作参考做海报 / OG / 头图，技能开源但走托管 MCP（74★，MIT；免费档有 credits）
 - [Kubai Icons](wiki/entries/kubai-icons.md) — 统一画风动态/静态功能图标 skill + 2600+ 开源图标
 - [Awesome Design Skills](wiki/entries/awesome-design-skills.md) — 67 套设计系统 SKILL.md + DESIGN.md（npx 拉取）
 - [design.how](wiki/entries/design-how.md) — 从已有应用 UI 搭建并迁移设计系统，默认写在 run branch（453★）
@@ -312,6 +317,7 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-28). 按 GitHub Star
 - [SwiftUI Pro（Paul Hudson）](wiki/entries/swiftui-pro.md) — 专治 LLM 写 SwiftUI 的废弃 API / 无障碍 / 性能错误 (~6.5k★)
 - [Mobile Agent Skills](wiki/entries/mobile-agent-skills.md) — Android / iOS / Flutter 等 10 个工程技能 + 多 agent 安装脚本（本窗新发布，0★，MIT；与 iOS Agent Skill / Compose Skill 互补）
 - [iOS Agent Skill](wiki/entries/ios-agent-skill.md) — 给编码 agent 本机 Apple 参考、SwiftUI 脚手架和模拟器构建验收（42★，MIT；与 SwiftUI Pro 互补）
+- [Best-in-Class iOS Skill](wiki/entries/best-in-class-ios-skill.md) — 按用户要完成的任务审/做 SwiftUI 与 UIKit 流程，附七份参考（0★，MIT；与 iOS Agent Skill 互补，不是官方书配套包）
 - [Argent（Software Mansion 官方）](wiki/entries/argent.md) — MCP / CLI / 约 19 个技能，驱动 iOS/Android 模拟器与真机、电视和 Mac 应用（3,257★；源码 Apache-2.0，含专有二进制）
 - [Modern Java Guidance](wiki/entries/modern-java-guidance.md) — 拦 Java 8 / Boot 2.x 旧写法，版本感知 CLI + PostToolUse 钩子（对标 modern-web-guidance；新建仓，5★，MIT）
 - [inference-optimisation](wiki/entries/inference-optimisation-skill.md) — 本地 LLM decode/prefill/投机解码爬坡：先算上限再交错 A/B（914★，MIT）
@@ -337,6 +343,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-28). 按 GitHub Star
 - [motlab](wiki/entries/motlab.md) — 镜头写成 Canvas 代码，审片器里批注再导出，不走视频生成模型（527★，MIT OR Apache-2.0）
 - [Moodreel](wiki/entries/moodreel.md) — 先测量参考片的节奏和镜头，再蒸馏成风格包并写成新片（128★，MIT；从观察名单升级）
 - [Content Skills](wiki/entries/contentskills.md) — 脚本、竖屏成片、发布和私信跟进技能包（213★，AGPL-3.0；Blotato 开源包）
+- [OpenGame](wiki/entries/opengame.md) — 从可玩 HTML5 模板改游戏、测试并打包，同组织 OpenMotion 的游戏向产品（2,659★，Apache-2.0）
+- [reel-animated-explainer](wiki/entries/reel-animated-explainer.md) — 口播视频做成带逐词字幕和讲解动画的 Reel，不走视频生成模型（5★，MIT）
 - [AutoClip](wiki/entries/autoclip.md) — 本地优先把长视频/链接切成各平台成片、封面、文案和发布包（17,578★，MIT；技能 + CLI/MCP）
 - [Seedance 2.0 Prompt Skill](wiki/entries/seedance2-skill.md) — 即梦 Seedance 2.0 提示词：输入上限、@ 引用与 12 类场景（4,584★，MIT；仓最近推送停在 2026-09-19）
 - [video-jumpcut-polish](wiki/entries/video-jumpcut-polish.md) — macOS 14+ 把口播/开箱毛片自动精剪并出五平台文案（本窗新发布，0★，MIT；需 ffmpeg，推荐 Apple Silicon）
@@ -412,6 +420,8 @@ Most-starred skills in the wiki (GitHub stars as of 2026-11-28). 按 GitHub Star
 - [Fingerprint Leaderboard Skill](wiki/entries/fingerprint-leaderboard-skill.md) — 给 Sentient 指纹排行榜写提交并本地回放评测（0★，MIT）
 - [notebooklm-py](wiki/entries/notebooklm-py.md) — 非官方 Gemini Notebook（原 NotebookLM）Python API / CLI / 可加载技能（20,364★，MIT；走未文档化接口，装前看风险说明）
 - [muse-grok-x-search](wiki/entries/muse-grok-x-search.md) — 给 Muse 补上只读 X 搜索（经 Grok Build CLI，227★，MIT）
+- [research-sources（rsrc）](wiki/entries/research-sources.md) — 补上网页搜索看不到的 X / Reddit / HN / YouTube 等，只读 CLI + 技能（244★，MIT；部分源走非官方接口）
+- [NVIDIA Auto Ontology](wiki/entries/nvidia-auto-ontology.md) — 从元数据建本体，经 MCP/CLI/技能做可验证问数（16,159★，Apache-2.0）
 - [Science Skills（Google DeepMind）](wiki/entries/science-skills.md) — 文献与生物信息公共库 / AlphaGenome 等约 40 个科研技能（3,536★，Apache-2.0）
 - [fundraising](wiki/entries/fundraising-skill.md) — 融资 / LP / M&A 操盘护栏
 - [Seed Skill](wiki/entries/seed-skill.md) — 种子轮 11 件套（与 fundraising 不是同一包；261★，MIT）

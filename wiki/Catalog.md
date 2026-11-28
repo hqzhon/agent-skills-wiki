@@ -4,9 +4,11 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 
 | Skill | Tags | Source | Added |
 | --- | --- | --- | --- |
+| [Anti-Slop（带确定性检查器的去 AI 味写作）](entries/anti-slop.md) | writing, editing, anti-slop, linter, skill | [@double_burger_2](https://x.com/double_burger_2/status/2126621918472331517) | 2026-11-28 |
 | [Animation Principles（迪士尼 12 原则动效技能包）](entries/animation-principles.md) | animation, motion, frontend, css, react, gsap, skill-pack | [@lxfater](https://x.com/lxfater/status/2126311051536867595) | 2026-11-28 |
 | [AutoClip（本地优先的长视频切片出片技能）](entries/autoclip.md) | video, clipping, short-form, mcp, local-first, chinese, skill-pack | [@lengqie](https://x.com/lengqie/status/2126444455729246368) | 2026-11-28 |
 | [BeanStack（对齐 → 规格 → 红灯测试 → 分派 → 验收）](entries/beanstack.md) | workflow, spec, testing, multi-agent, openspec, chinese, skill | [@qiunai_ai](https://x.com/qiunai_ai/status/2126337946068668727) | 2026-11-28 |
+| [Best-in-Class iOS Skill（按任务审/做 SwiftUI 与 UIKit）](entries/best-in-class-ios-skill.md) | ios, swiftui, uikit, accessibility, design, skill | [@SahilSatralkar](https://x.com/SahilSatralkar/status/2126594790653600084) | 2026-11-28 |
 | [Content Skills（选题到发布的短视频与社媒技能包）](entries/contentskills.md) | video, social, content, short-form, skill-pack | [@Duiady](https://x.com/Duiady/status/2126539153622143019) | 2026-11-28 |
 | [dm-scan（排查 Solana Direct Mapping 升级会不会把程序打崩）](entries/dm-scan.md) | solana, security, audit, rust, web3, skill | [@AshrafSyed](https://x.com/AshrafSyed/status/2126383752695968060) | 2026-11-28 |
 | [Eagerworks Skills（写 PR / 审查 / 交接等工程流程包）](entries/eagerworks-skills.md) | git, pull-request, code-review, workflow, compliance, skill-pack | [@eagerworks](https://x.com/eagerworks/status/2126300524303503489) | 2026-11-28 |
@@ -14,11 +16,17 @@ High-signal agent skills mined from X. Sorted by added date (newest first), then
 | [generate-icons（先出样再画完整图标库）](entries/generate-icons.md) | icons, design-system, svg, frontend, react, skill | [@ChrisL_AI1022](https://x.com/ChrisL_AI1022/status/2126360405161418872) | 2026-11-28 |
 | [Moodreel（从参考片量出风格再写成代码片子）](entries/moodreel.md) | video, motion, style-transfer, measurement, skill | [@d5xOOAEVnr21525](https://x.com/d5xOOAEVnr21525/status/2126543153305899363) | 2026-11-28 |
 | [motlab（把视频写成代码并在审片器里改）](entries/motlab.md) | video, motion, canvas, webcodecs, agent-skills, skill-pack | [@vintcessun](https://x.com/vintcessun/status/2126538582865444882) | 2026-11-28 |
+| [NVIDIA Auto Ontology（官方：从元数据建本体并给 agent 用）](entries/nvidia-auto-ontology.md) | official, nvidia, ontology, text-to-sql, mcp, skill-pack | [@tirthaexe](https://x.com/tirthaexe/status/2126572705155854399) | 2026-11-28 |
 | [oh-my-agent（按任务装技能，或拉起规划-开发-审查团队）](entries/oh-my-agent.md) | workflow, multi-agent, review, hooks, skill-pack | [@cheery9998](https://x.com/cheery9998/status/2126527502986485827) | 2026-11-28 |
 | [Gemini Deep Research Skill（官方实验：把编程代理变成调研员）](entries/gemini-deep-research.md) | official, google, gemini, research, deep-research, skill | [@_philschmid](https://x.com/_philschmid/status/2126312943520243885) | 2026-11-28 |
 | [OmniSolidWorks Skill（有证据的 SolidWorks 机械建模与装配）](entries/omnisolidworks-skill.md) | cad, solidworks, mechanical, engineering, windows, chinese, skill | [@CommunismHaruh1](https://x.com/CommunismHaruh1/status/2126322823522357315) | 2026-11-28 |
+| [OpenGame（把编码代理变成游戏工作室）](entries/opengame.md) | gamedev, html5, mcp, skill-pack, openmotion | [@cutetoxicguy](https://x.com/cutetoxicguy/status/2126586905076597230) | 2026-11-28 |
 | [Papermorph（把书做成有旁白的互动网页课 / 剪纸片 / 纪录片）](entries/papermorph.md) | education, animation, documentary, books, claude, skill | [@hsianghui](https://x.com/hsianghui/status/2126540166554939698) | 2026-11-28 |
+| [posts.design Skills（按真实品牌发布作参考做海报 / OG / 头图）](entries/posts-design-skills.md) | design, social, launch, og-image, mcp, skill-pack | [@KOF97AI](https://x.com/KOF97AI/status/2126582886107328900) | 2026-11-28 |
+| [reel-animated-explainer（口播视频做成动画解说 Reel）](entries/reel-animated-explainer.md) | video, reels, remotion, captions, explainer, skill | [@J_srv001](https://x.com/J_srv001/status/2126592976231317518) | 2026-11-28 |
+| [research-sources（rsrc：补上搜索引擎看不到的 X / Reddit / HN）](entries/research-sources.md) | research, cli, x, reddit, hacker-news, youtube, skill | [@ai_researchad](https://x.com/ai_researchad/status/2126559388840464591) | 2026-11-28 |
 | [SivaLabs Agent Skills（Spring Boot / Modulith / Java 审查包）](entries/sivalabs-agent-skills.md) | java, spring-boot, spring-modulith, code-review, skill-pack | [@sivalabs](https://x.com/sivalabs/status/2126526099480072314) | 2026-11-28 |
+| [Web Deck（单文件离线 WebGL2 演示文稿）](entries/web-deck.md) | slides, webgl, threejs, presentation, html, skill | [@Renzexi01](https://x.com/Renzexi01/status/2126595309841306072) | 2026-11-28 |
 | [Argent（Software Mansion：驱动模拟器、真机、电视和 Mac 应用）](entries/argent.md) | official, software-mansion, mcp, ios, android, tv, macos, e2e, profiling, skill-pack | [@hsianghui](https://x.com/hsianghui/status/2126142899197035002) | 2026-11-27 |
 | [Blender Skills（arjun988，94 个 MCP 技能）](entries/blender-skills-arjun.md) | 3d, blender, mcp, game-assets, skill-pack | [@hsianghui](https://x.com/hsianghui/status/2125945423508762903) | 2026-11-27 |
 | [ECMWF Weather Skills（官方：预报 / ERA5 / Destination Earth）](entries/ecmwf-weather-skills.md) | official, ecmwf, weather, climate, era5, mcp, skill-pack | [@AKapur36490](https://x.com/AKapur36490/status/2126194503816040519) | 2026-11-27 |
